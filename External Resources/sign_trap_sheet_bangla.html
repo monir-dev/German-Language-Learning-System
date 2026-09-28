@@ -1,0 +1,715 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+<meta charset="UTF-8">
+<style>
+    @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Bengali:wght@400;600;700;800&display=swap');
+
+    @page {
+        size: A4 portrait;
+        margin: 10mm 8mm 10mm 8mm;
+        background-color: #f8fafc;
+        @bottom-right {
+            content: "Page " counter(page) " of " counter(pages);
+            font-family: 'Noto Sans Bengali', sans-serif;
+            font-size: 8pt;
+            color: #64748b;
+        }
+        @bottom-left {
+            content: "জার্মান ড্রাইভিং থিওরি এক্সাম (Class A & B) — সাইন ট্র্যাপ শীট";
+            font-family: 'Noto Sans Bengali', sans-serif;
+            font-size: 8pt;
+            color: #64748b;
+        }
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+        font-family: 'Noto Sans Bengali', sans-serif;
+        color: #1e293b;
+        margin: 0;
+        padding: 0;
+        font-size: 8pt;
+        line-height: 1.35;
+        background-color: #f8fafc;
+    }
+
+    .header {
+        background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
+        color: #ffffff;
+        padding: 10px 14px;
+        border-radius: 6px;
+        margin-bottom: 10px;
+        border-bottom: 3px solid #dc2626;
+    }
+
+    .header-table { width: 100%; border-collapse: collapse; }
+
+    .header-title {
+        font-size: 14pt;
+        font-weight: 800;
+        color: #f8fafc;
+        margin: 0;
+    }
+
+    .header-subtitle {
+        font-size: 8.5pt;
+        color: #cbd5e1;
+        margin-top: 2px;
+        font-weight: 500;
+    }
+
+    .badge {
+        background-color: #dc2626;
+        color: white;
+        padding: 3px 8px;
+        border-radius: 4px;
+        font-size: 7.5pt;
+        font-weight: bold;
+    }
+
+    .section {
+        margin-bottom: 10px;
+        background: #ffffff;
+        border-radius: 6px;
+        border: 1px solid #e2e8f0;
+        overflow: hidden;
+    }
+
+    .section-title {
+        font-size: 9.5pt;
+        font-weight: 700;
+        padding: 5px 8px;
+        margin: 0;
+        color: #ffffff;
+        letter-spacing: 0.3px;
+    }
+
+    .bg-warning { background-color: #d97706; }
+    .bg-prohibition { background-color: #dc2626; }
+    .bg-command { background-color: #2563eb; }
+    .bg-priority { background-color: #4f46e5; }
+    .bg-signals { background-color: #059669; }
+    .bg-parking { background-color: #0284c7; }
+    .bg-traps { background-color: #7c3aed; }
+
+    table.data-table {
+        width: 100%;
+        border-collapse: collapse;
+        text-align: left;
+    }
+
+    table.data-table th {
+        background-color: #f1f5f9;
+        color: #475569;
+        font-size: 7.5pt;
+        font-weight: 700;
+        padding: 4px 6px;
+        border-bottom: 1px solid #cbd5e1;
+    }
+
+    table.data-table td {
+        padding: 4px 6px;
+        border-bottom: 1px solid #f1f5f9;
+        vertical-align: middle;
+        font-size: 8pt;
+    }
+
+    table.data-table tr:nth-child(even) { background-color: #fafafa; }
+
+    .col-num { width: 10%; font-weight: 700; color: #0f172a; white-space: nowrap; }
+    .col-icon { width: 8%; text-align: center; }
+    .col-name { width: 32%; font-weight: 600; color: #1e293b; }
+    .col-trap { width: 50%; color: #334155; }
+
+    .sign-svg { width: 26px; height: 26px; vertical-align: middle; display: inline-block; }
+
+    .trap-highlight {
+        background-color: #fef2f2;
+        color: #991b1b;
+        font-weight: 600;
+        padding: 1px 4px;
+        border-radius: 3px;
+        border: 1px solid #fecaca;
+    }
+
+    .key-tag {
+        display: inline-block;
+        background-color: #e0f2fe;
+        color: #0369a1;
+        font-weight: bold;
+        font-size: 7pt;
+        padding: 1px 5px;
+        border-radius: 3px;
+        margin-right: 4px;
+    }
+
+    .traps-grid { display: table; width: 100%; padding: 6px; background-color: #fefce8; }
+    .trap-card { display: table-row; }
+    .trap-card-cell { display: table-cell; padding: 4px 6px; vertical-align: top; border-bottom: 1px dashed #fef08a; }
+    .trap-card-cell:first-child { width: 22%; font-weight: 700; color: #854d0e; white-space: nowrap; }
+    .trap-card-cell:last-child { width: 78%; color: #713f12; }
+
+    tr { page-break-inside: avoid; }
+</style>
+</head>
+<body>
+
+<div class="header">
+    <table class="header-table">
+        <tr>
+            <td>
+                <div class="header-title">🚸 সাইন ট্র্যাপ শীট (Sign Trap Sheet)</div>
+                <div class="header-subtitle">জার্মান ড্রাইভিং থিওরি পরীক্ষা প্রস্তুতি (Class A &amp; B) — বাংলা সংস্করণ</div>
+            </td>
+            <td style="text-align: right; vertical-align: middle;">
+                <span class="badge">পরীক্ষার গোপন ট্র্যাপ</span>
+            </td>
+        </tr>
+    </table>
+</div>
+
+<!-- PART 1 -->
+<div class="section">
+    <div class="section-title bg-warning">⚠️ পার্ট ১: সতর্কতা ট্রায়াঙ্গেল (Warning Triangles)</div>
+    <table class="data-table">
+        <thead>
+            <tr>
+                <th class="col-num">সাইন #</th>
+                <th class="col-icon">আইকন</th>
+                <th class="col-name">নাম ও অর্থ</th>
+                <th class="col-trap">পরীক্ষার ট্র্যাপ ও মূল নিয়ম (বাংলা)</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td class="col-num">105 / 114</td>
+                <td class="col-icon">
+                    <svg class="sign-svg" viewBox="0 0 100 100">
+                        <polygon points="50,10 90,80 10,80" fill="white" stroke="#dc2626" stroke-width="8"/>
+                        <path d="M 40 65 Q 40 45 55 45 Q 65 45 60 30 L 65 35 M 60 30 L 55 35" fill="none" stroke="black" stroke-width="5" stroke-linecap="round"/>
+                    </svg>
+                </td>
+                <td class="col-name">Curves (বাঁক/ডাবল বাঁক)</td>
+                <td class="col-trap">প্রথম জিকজ্যাকের দিক = বাঁকের দিক। ডাবল অ্যারো মানে <span class="trap-highlight">সামনে একাধিক বিপজ্জনক বাঁক</span>। শুরুতেই গতি কমান!</td>
+            </tr>
+            <tr>
+                <td class="col-num">101</td>
+                <td class="col-icon">
+                    <svg class="sign-svg" viewBox="0 0 100 100">
+                        <polygon points="50,10 90,80 10,80" fill="white" stroke="#dc2626" stroke-width="8"/>
+                        <text x="50" y="68" font-family="Arial" font-size="42" font-weight="bold" text-anchor="middle" fill="black">!</text>
+                    </svg>
+                </td>
+                <td class="col-name">Danger Spot (সাধারণ বিপদ)</td>
+                <td class="col-trap">সাধারণ বিপজ্জনক স্থান — <span class="trap-highlight">যেকোনো পরিস্থিতির জন্য প্রস্তুত থাকুন</span>! নিচে টেক্সট প্লেট থাকে (যেমন: পিচ্ছিল রাস্তা বা বরফ)।</td>
+            </tr>
+            <tr>
+                <td class="col-num">123 / 124</td>
+                <td class="col-icon">
+                    <svg class="sign-svg" viewBox="0 0 100 100">
+                        <polygon points="50,10 90,80 10,80" fill="white" stroke="#dc2626" stroke-width="8"/>
+                        <path d="M 35 35 L 65 65 M 65 35 L 35 65" stroke="black" stroke-width="6" stroke-linecap="round"/>
+                    </svg>
+                </td>
+                <td class="col-name">Crossroads (চৌরাস্তা)</td>
+                <td class="col-trap">এই মোড়ে আপনার <span class="trap-highlight">কোনো অগ্রাধিকার (Priority) নেই</span>! ডানদিকের গাড়ির আগে যাওয়ার নিয়ম (Rechts vor Links) প্রযোজ্য।</td>
+            </tr>
+            <tr>
+                <td class="col-num">138 / 140</td>
+                <td class="col-icon">
+                    <svg class="sign-svg" viewBox="0 0 100 100">
+                        <polygon points="50,10 90,80 10,80" fill="white" stroke="#dc2626" stroke-width="8"/>
+                        <circle cx="40" cy="62" r="8" fill="none" stroke="black" stroke-width="3"/>
+                        <circle cx="62" cy="62" r="8" fill="none" stroke="black" stroke-width="3"/>
+                        <path d="M 40 62 L 50 50 L 58 62 M 50 50 L 50 42 L 58 42" fill="none" stroke="black" stroke-width="3"/>
+                    </svg>
+                </td>
+                <td class="col-name">Cycle / Pedestrian Crossing</td>
+                <td class="col-trap">রাস্তা পার হওয়া সাইকেল ও পথচারীদের <span class="trap-highlight">আগে যেতে দিতে হবে</span>। এখানে তাদের অগ্রাধিকার থাকে। ব্রেক প্রস্তুত রাখুন।</td>
+            </tr>
+            <tr>
+                <td class="col-num">120</td>
+                <td class="col-icon">
+                    <svg class="sign-svg" viewBox="0 0 100 100">
+                        <polygon points="50,10 90,80 10,80" fill="white" stroke="#dc2626" stroke-width="8"/>
+                        <rect x="38" y="45" width="24" height="18" fill="black"/>
+                        <circle cx="43" cy="65" r="4" fill="black"/>
+                        <circle cx="57" cy="65" r="4" fill="black"/>
+                        <path d="M 35 48 L 30 43 M 65 48 L 70 43" stroke="black" stroke-width="3"/>
+                    </svg>
+                </td>
+                <td class="col-name">Level Crossing (রেল ক্রসিং)</td>
+                <td class="col-trap"><span class="trap-highlight">হেঁটে যাওয়ার গতিতে (Walking Pace) আনুন</span>। ক্রসিংয়ের আগে ৩টি কাউন্টডাউন সাইন থাকে। এখানে ওভারটেক সম্পূর্ণ নিষিদ্ধ।</td>
+            </tr>
+            <tr>
+                <td class="col-num">121</td>
+                <td class="col-icon">
+                    <svg class="sign-svg" viewBox="0 0 100 100">
+                        <polygon points="50,10 90,80 10,80" fill="white" stroke="#dc2626" stroke-width="8"/>
+                        <path d="M 35 40 L 65 40 M 35 50 L 65 50 M 35 60 L 65 60 M 42 35 L 42 65 M 58 35 L 58 65" stroke="black" stroke-width="3"/>
+                    </svg>
+                </td>
+                <td class="col-name">Crossing Without Barriers</td>
+                <td class="col-trap">ব্যারিয়ার ছাড়া রেল ক্রসিং! দাগ গনে দূরত্ব বুঝুন (প্রতি দাগ ৮০ মি)। <span class="trap-highlight">তাত্ক্ষণিক দুই পাশে তাকান</span>, ট্রেনের অগ্রাধিকার সব সময়।</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+<!-- PART 2 -->
+<div class="section">
+    <div class="section-title bg-prohibition">🔴 পার্ট ২: নিষেধাজ্ঞা ও বাধ্যবাধকতা (Prohibitions)</div>
+    <table class="data-table">
+        <thead>
+            <tr>
+                <th class="col-num">সাইন #</th>
+                <th class="col-icon">আইকন</th>
+                <th class="col-name">নাম ও অর্থ</th>
+                <th class="col-trap">পরীক্ষার ট্র্যাপ ও মূল নিয়ম (বাংলা)</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td class="col-num">205</td>
+                <td class="col-icon">
+                    <svg class="sign-svg" viewBox="0 0 100 100">
+                        <polygon points="10,15 90,15 50,85" fill="white" stroke="#dc2626" stroke-width="8"/>
+                    </svg>
+                </td>
+                <td class="col-name">Give Way (রাস্তা ছেড়ে দিন)</td>
+                <td class="col-trap">অন্যদের অগ্রাধিকার দিন। <span class="trap-highlight">গতি কমান মানেই ফুল স্টপ নয়</span> (গাড়ি আসলেই কেবল থামুন)। মোড় ব্লক করবেন না।</td>
+            </tr>
+            <tr>
+                <td class="col-num">206</td>
+                <td class="col-icon">
+                    <svg class="sign-svg" viewBox="0 0 100 100">
+                        <polygon points="30,10 70,10 90,30 90,70 70,90 30,90 10,70 10,30" fill="#dc2626"/>
+                        <text x="50" y="58" font-family="Arial" font-size="22" font-weight="bold" text-anchor="middle" fill="white">STOP</text>
+                    </svg>
+                </td>
+                <td class="col-name">STOP Sign (থামুন)</td>
+                <td class="col-trap"><span class="trap-highlight">সম্পূর্ণ থামা বাধ্যতামূলক</span> (চাকা পুরো নিচল হতে হবে)। রাস্তা সম্পূর্ণ ফাঁকা হলেও থামতে হবে! সব গাড়িকে পথ দিন।</td>
+            </tr>
+            <tr>
+                <td class="col-num">215</td>
+                <td class="col-icon">
+                    <svg class="sign-svg" viewBox="0 0 100 100">
+                        <polygon points="50,10 90,80 10,80" fill="white" stroke="#dc2626" stroke-width="8"/>
+                        <path d="M 50 30 L 50 70 M 35 50 L 65 50" stroke="black" stroke-width="5"/>
+                    </svg>
+                </td>
+                <td class="col-name">Right-before-Left Ahead</td>
+                <td class="col-trap">সতর্কবার্তা: সামনের মোড়ে <span class="trap-highlight">ডানদিকের গাড়ির আগে যাওয়ার নিয়ম</span> প্রযোজ্য। থামার জন্য প্রস্তুত থাকুন!</td>
+            </tr>
+            <tr>
+                <td class="col-num">250</td>
+                <td class="col-icon">
+                    <svg class="sign-svg" viewBox="0 0 100 100">
+                        <circle cx="50" cy="50" r="38" fill="white" stroke="#dc2626" stroke-width="8"/>
+                    </svg>
+                </td>
+                <td class="col-name">Closed to All Vehicles</td>
+                <td class="col-trap">সকল যানবাহনের জন্য নিষিদ্ধ (গাড়ি, বাইক, সাইকেল)। <span class="trap-highlight">তবে পথচারীরা ঢুকতে পারবে!</span> (No Entry এর সাথে গুলাবেন না)।</td>
+            </tr>
+            <tr>
+                <td class="col-num">267</td>
+                <td class="col-icon">
+                    <svg class="sign-svg" viewBox="0 0 100 100">
+                        <circle cx="50" cy="50" r="38" fill="#dc2626"/>
+                        <rect x="20" y="42" width="60" height="16" fill="white"/>
+                    </svg>
+                </td>
+                <td class="col-name">No Entry ⛔ (প্রবেশ নিষিদ্ধ)</td>
+                <td class="col-trap">একমুখী (One-way) রাস্তার ভুল দিক! <span class="trap-highlight">এই দিক থেকে ঢোকা সম্পূর্ণ নিষিদ্ধ।</span> সামনে থেকে গাড়ি আসতে পারে।</td>
+            </tr>
+            <tr>
+                <td class="col-num">277</td>
+                <td class="col-icon">
+                    <svg class="sign-svg" viewBox="0 0 100 100">
+                        <circle cx="50" cy="50" r="38" fill="white" stroke="#dc2626" stroke-width="8"/>
+                        <rect x="22" y="42" width="22" height="16" fill="black" rx="3"/>
+                        <rect x="54" y="42" width="22" height="16" fill="#dc2626" rx="3"/>
+                    </svg>
+                </td>
+                <td class="col-name">No Overtaking (গাড়ির জন্য)</td>
+                <td class="col-trap">চার চাকার গাড়ি অন্য চার চাকার গাড়িকে <span class="trap-highlight">ওভারটেক করতে পারবে না</span>। তবে দুই চাকার বাইক বা সাইকেল ওভারটেক করা যাবে।</td>
+            </tr>
+            <tr>
+                <td class="col-num">277.1</td>
+                <td class="col-icon">
+                    <svg class="sign-svg" viewBox="0 0 100 100">
+                        <circle cx="50" cy="50" r="38" fill="white" stroke="#dc2626" stroke-width="8"/>
+                        <rect x="22" y="42" width="18" height="14" fill="black"/>
+                        <rect x="48" y="38" width="28" height="18" fill="#dc2626"/>
+                    </svg>
+                </td>
+                <td class="col-name">No Overtaking by Trucks</td>
+                <td class="col-trap">শুধু ৩.৫ টনের বেশি ভারী ট্রাকের জন্য নিষেধ। <span class="trap-highlight">সাধারণ প্যাসেঞ্জার কার ওভারটেক করতে পারবে!</span> পরীক্ষার বড় ট্র্যাপ!</td>
+            </tr>
+            <tr>
+                <td class="col-num">283</td>
+                <td class="col-icon">
+                    <svg class="sign-svg" viewBox="0 0 100 100">
+                        <circle cx="50" cy="50" r="38" fill="#1d4ed8" stroke="#dc2626" stroke-width="8"/>
+                        <line x1="23" y1="23" x2="77" y2="77" stroke="#dc2626" stroke-width="8"/>
+                        <line x1="77" y1="23" x2="23" y2="77" stroke="#dc2626" stroke-width="8"/>
+                    </svg>
+                </td>
+                <td class="col-name">No Stopping (কঠোর থামা নিষেধ)</td>
+                <td class="col-trap"><span class="trap-highlight">Absolute Halteverbot!</span> ১ সেকেন্ডের জন্যও গাড়ি থামানো, যাত্রী নামানো বা মালামাল লোড করা সম্পূর্ণ নিষেধ। পরবর্তী মোড় পর্যন্ত কার্যকর।</td>
+            </tr>
+            <tr>
+                <td class="col-num">286</td>
+                <td class="col-icon">
+                    <svg class="sign-svg" viewBox="0 0 100 100">
+                        <circle cx="50" cy="50" r="38" fill="#1d4ed8" stroke="#dc2626" stroke-width="8"/>
+                        <line x1="77" y1="23" x2="23" y2="77" stroke="#dc2626" stroke-width="8"/>
+                    </svg>
+                </td>
+                <td class="col-name">No Parking (পার্কিং নিষেধ)</td>
+                <td class="col-trap"><span class="trap-highlight">স্বল্প সময়ের জন্য (৩ মিনিটের কম) থামা বৈধ!</span> যাত্রী উঠানো-নামানো বা মাল লোড-আনলোডের জন্য ৩ মিনিটের বেশিও থামা যাবে।</td>
+            </tr>
+            <tr>
+                <td class="col-num">288</td>
+                <td class="col-icon">
+                    <svg class="sign-svg" viewBox="0 0 100 100">
+                        <rect x="15" y="15" width="70" height="70" fill="white" stroke="#64748b" stroke-width="4"/>
+                        <circle cx="50" cy="42" r="20" fill="#1d4ed8" stroke="#dc2626" stroke-width="5"/>
+                        <line x1="64" y1="28" x2="36" y2="56" stroke="#dc2626" stroke-width="5"/>
+                        <text x="50" y="76" font-family="Arial" font-size="11" font-weight="bold" text-anchor="middle" fill="black">ZONE</text>
+                    </svg>
+                </td>
+                <td class="col-name">No Parking Zone Restriction</td>
+                <td class="col-trap">পুরো জোনের জন্য পার্কিং নিষেধ। <span class="trap-highlight">পরের মোড়ে শেষ হয় না!</span> ধসর রঙের "End of Zone" সাইন না দেখা পর্যন্ত কার্যকর থাকে।</td>
+            </tr>
+            <tr>
+                <td class="col-num">301 / 302</td>
+                <td class="col-icon">
+                    <svg class="sign-svg" viewBox="0 0 100 100">
+                        <circle cx="50" cy="50" r="38" fill="white" stroke="#94a3b8" stroke-width="6"/>
+                        <line x1="20" y1="70" x2="80" y2="30" stroke="#475569" stroke-width="5"/>
+                        <line x1="25" y1="75" x2="85" y2="35" stroke="#475569" stroke-width="3"/>
+                    </svg>
+                </td>
+                <td class="col-name">Restrictions Lifted (নিষেধাজ্ঞা শেষ)</td>
+                <td class="col-trap">আগের স্পিড লিমিট বা ওভারটেকিং নিষেধাজ্ঞা <span class="trap-highlight">এখানেই শেষ</span>। স্বাভাবিক স্পিড লিমিট (যেমন: ১০০ কিমি/ঘণ্টা) আবার শুরু।</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+<!-- PART 3 -->
+<div class="section">
+    <div class="section-title bg-command">🔵 পার্ট ৩: বাধ্যতামূলক নির্দেশনা (Commands)</div>
+    <table class="data-table">
+        <thead>
+            <tr>
+                <th class="col-num">সাইন #</th>
+                <th class="col-icon">আইকন</th>
+                <th class="col-name">নাম ও অর্থ</th>
+                <th class="col-trap">পরীক্ষার ট্র্যাপ ও মূল নিয়ম (বাংলা)</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td class="col-num">209 - 30</td>
+                <td class="col-icon">
+                    <svg class="sign-svg" viewBox="0 0 100 100">
+                        <circle cx="50" cy="50" r="40" fill="#2563eb"/>
+                        <path d="M 30 50 L 60 50 M 50 35 L 65 50 L 50 65" stroke="white" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                    </svg>
+                </td>
+                <td class="col-name">Turn Right Ahead (ডানে মোড়)</td>
+                <td class="col-trap"><span class="trap-highlight">ঠিক সাইনের স্থানে/পরের মোড়েই</span> ডানে ঘুরতে হবে। আগে বা পরে নয়। বামে মোড় নেওয়া আইনি অপরাধ।</td>
+            </tr>
+            <tr>
+                <td class="col-num">211 - 20</td>
+                <td class="col-icon">
+                    <svg class="sign-svg" viewBox="0 0 100 100">
+                        <circle cx="50" cy="50" r="40" fill="#2563eb"/>
+                        <path d="M 50 70 L 50 30 M 35 45 L 50 30 L 65 45" stroke="white" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                    </svg>
+                </td>
+                <td class="col-name">Straight Ahead Only (শুধু সোজা)</td>
+                <td class="col-trap">আপনাকে অবশ্যই সোজা যেতে হবে। <span class="trap-highlight">পাশের রাস্তায় মোড় নেওয়া বা U-turn নেওয়া নিষেধ</span>।</td>
+            </tr>
+            <tr>
+                <td class="col-num">222</td>
+                <td class="col-icon">
+                    <svg class="sign-svg" viewBox="0 0 100 100">
+                        <circle cx="50" cy="50" r="40" fill="#2563eb"/>
+                        <path d="M 50 25 A 25 25 0 0 1 75 50 M 75 50 A 25 25 0 0 1 50 75 M 50 75 A 25 25 0 0 1 25 50" fill="none" stroke="white" stroke-width="6"/>
+                        <polygon points="75,55 82,45 70,47" fill="white"/>
+                    </svg>
+                </td>
+                <td class="col-name">Roundabout (গোলচত্বর)</td>
+                <td class="col-trap">রাউন্ডঅ্যাবাউটের ভেতরের গাড়ি অগ্রাধিকার পাবে যদি Yield সাইন (205) থাকে! <span class="trap-highlight">ঢোকার সময় ইন্ডিকেটর দেবেন না</span>; বের হওয়ার সময় অবশ্যই ইন্ডিকেটর দিতে হবে।</td>
+            </tr>
+            <tr>
+                <td class="col-num">237/240/241</td>
+                <td class="col-icon">
+                    <svg class="sign-svg" viewBox="0 0 100 100">
+                        <circle cx="50" cy="50" r="40" fill="#2563eb"/>
+                        <circle cx="50" cy="35" r="10" fill="none" stroke="white" stroke-width="3"/>
+                        <path d="M 30 70 L 70 70 M 50 45 L 50 70" stroke="white" stroke-width="3"/>
+                    </svg>
+                </td>
+                <td class="col-name">Mandatory Path (সাইকেল/পথচারী)</td>
+                <td class="col-trap">শুধুমাত্র নির্ধারিত পথচারী বা সাইকেল চালকদের জন্য। <span class="trap-highlight">গাড়ি বা মোটরবাইক প্রবেশ বা পার্কিং সম্পূর্ণ নিষেধ</span>।</td>
+            </tr>
+            <tr>
+                <td class="col-num">265 / 330</td>
+                <td class="col-icon">
+                    <svg class="sign-svg" viewBox="0 0 100 100">
+                        <rect x="10" y="10" width="80" height="80" fill="#2563eb" rx="6"/>
+                        <path d="M 20 80 L 40 50 L 60 50 L 80 80 M 35 50 L 35 25 M 65 50 L 65 25 M 15 40 L 85 40" stroke="white" stroke-width="5" fill="none"/>
+                    </svg>
+                </td>
+                <td class="col-name">Motorway Entrance (অটোরান/অটোবান)</td>
+                <td class="col-trap">অটোবানের নিয়ম শুরু! <span class="trap-highlight">সর্বনিম্ন গতি ৬০ কিমি/ঘণ্টার সক্ষমতা প্রয়োজন</span>। U-turn, রিভার্স বা গাড়ি থামানো কঠোরভাবে নিষেধ।</td>
+            </tr>
+            <tr>
+                <td class="col-num">220</td>
+                <td class="col-icon">
+                    <svg class="sign-svg" viewBox="0 0 100 100">
+                        <rect x="10" y="20" width="80" height="60" fill="#2563eb" rx="4"/>
+                        <path d="M 25 50 L 75 50 M 60 35 L 75 50 L 60 65" stroke="white" stroke-width="7" stroke-linecap="round" fill="none"/>
+                    </svg>
+                </td>
+                <td class="col-name">One-Way Street (একমুখী রাস্তা)</td>
+                <td class="col-trap">শুধু তীরের দিকে গাড়ি চালানো যাবে। ট্র্যাপ: <span class="trap-highlight">বাম পাশেও পার্কিং করা বৈধ!</span> একমুখী রাস্তা থেকে বামে মোড় নেওয়ার সময় গাড়িকে একদম বাম ঘেঁষে পজিশন করুন।</td>
+            </tr>
+            <tr>
+                <td class="col-num">317 / 318</td>
+                <td class="col-icon">
+                    <svg class="sign-svg" viewBox="0 0 100 100">
+                        <rect x="10" y="10" width="80" height="80" fill="#2563eb" rx="4"/>
+                        <rect x="30" y="25" width="40" height="12" fill="#dc2626"/>
+                        <rect x="44" y="37" width="12" height="40" fill="white"/>
+                    </svg>
+                </td>
+                <td class="col-name">Dead End (অন্ধ গলি)</td>
+                <td class="col-trap">সামনে রাস্তা বন্ধ। পথচারী বের হওয়ার পথ দেখালেও <span class="trap-highlight">গাড়ির জন্য এটি বন্ধ রাস্তাই থাকবে</span>। স্বাভাবিক অগ্রাধিকার নিয়ম মানুন।</td>
+            </tr>
+            <tr>
+                <td class="col-num">294</td>
+                <td class="col-icon">
+                    <svg class="sign-svg" viewBox="0 0 100 100">
+                        <rect x="10" y="10" width="80" height="80" fill="#2563eb" rx="4"/>
+                        <path d="M 30 80 L 30 50 L 50 30 M 70 80 L 70 20" stroke="white" stroke-width="6" fill="none"/>
+                    </svg>
+                </td>
+                <td class="col-name">Zipper Merge (জিপার মার্জ)</td>
+                <td class="col-trap">লেন সামনে শেষ হচ্ছে। একদম শেষ প্রান্তে গিয়ে মার্জ করুন! <span class="trap-highlight">আগেভাগে মার্জ করবেন না।</span> চালুকৃত লেনের ১টি গাড়িকে পর্যায়ক্রমে ঢোকার সুযোগ দিতে হবে।</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+<!-- PART 4 -->
+<div class="section">
+    <div class="section-title bg-priority">💎 পার্ট ৪: অগ্রাধিকার স্পেশাল (Priority Signs)</div>
+    <table class="data-table">
+        <thead>
+            <tr>
+                <th class="col-num">সাইন #</th>
+                <th class="col-icon">আইকন</th>
+                <th class="col-name">নাম ও অর্থ</th>
+                <th class="col-trap">পরীক্ষার ট্র্যাপ ও মূল নিয়ম (বাংলা)</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td class="col-num">306</td>
+                <td class="col-icon">
+                    <svg class="sign-svg" viewBox="0 0 100 100">
+                        <polygon points="50,10 90,50 50,90 10,50" fill="#facc15" stroke="white" stroke-width="8"/>
+                        <polygon points="50,22 78,50 50,78 22,50" fill="#facc15" stroke="#1e293b" stroke-width="2"/>
+                    </svg>
+                </td>
+                <td class="col-name">Priority Road (প্রধান সড়ক)</td>
+                <td class="col-trap">বাতিল না হওয়া পর্যন্ত সামনের সব মোড়ে আপনার অগ্রাধিকার থাকবে। ট্র্যাপ: <span class="trap-highlight">শহরের ভেতরে এই রাস্তায় পার্কিং বৈধ, কিন্তু শহরের বাইরে পার্কিং নিষেধ!</span></td>
+            </tr>
+            <tr>
+                <td class="col-num">307</td>
+                <td class="col-icon">
+                    <svg class="sign-svg" viewBox="0 0 100 100">
+                        <polygon points="50,10 90,50 50,90 10,50" fill="#facc15" stroke="white" stroke-width="8"/>
+                        <line x1="15" y1="85" x2="85" y2="15" stroke="#1e293b" stroke-width="8"/>
+                    </svg>
+                </td>
+                <td class="col-name">End of Priority Road</td>
+                <td class="col-trap">অগ্রাধিকার শেষ! পরের মোড়ে অন্য সাইন না থাকলে <span class="trap-highlight">ডানদিকের গাড়ি আগে যাওয়ার নিয়ম (Rechts-vor-Links) প্রযোজ্য</span>।</td>
+            </tr>
+            <tr>
+                <td class="col-num">310</td>
+                <td class="col-icon">
+                    <svg class="sign-svg" viewBox="0 0 100 100">
+                        <polygon points="50,10 90,80 10,80" fill="white" stroke="#dc2626" stroke-width="8"/>
+                        <path d="M 50 35 L 50 65 M 38 50 L 62 50" stroke="black" stroke-width="5"/>
+                        <path d="M 50 30 L 50 70" stroke="black" stroke-width="8"/>
+                    </svg>
+                </td>
+                <td class="col-name">Priority at Next Crossing</td>
+                <td class="col-trap">আপনার অগ্রাধিকার <span class="trap-highlight">শুধুমাত্র পরবর্তী একটিমাত্র মোড়ের জন্য</span>! এটি পুরো রাস্তাকে প্রধান সড়ক বানায় না।</td>
+            </tr>
+            <tr>
+                <td class="col-num">211 + Extra</td>
+                <td class="col-icon">
+                    <svg class="sign-svg" viewBox="0 0 100 100">
+                        <rect x="20" y="15" width="60" height="70" fill="#0f172a" rx="4"/>
+                        <circle cx="50" cy="35" r="14" fill="#dc2626"/>
+                        <rect x="30" y="58" width="40" height="20" fill="black" stroke="white" stroke-width="2"/>
+                        <path d="M 40 68 L 58 68 M 52 62 L 60 68 L 52 74" stroke="#10b981" stroke-width="4" fill="none"/>
+                    </svg>
+                </td>
+                <td class="col-name">Green Arrow Metal Plate</td>
+                <td class="col-trap">লাল বাতিতেও ডানে মোড় সম্ভব <span class="trap-highlight">তবে সম্পূর্ণ থামার (FULL STOP) পরেই কেবল মোড় নেওয়া যাবে!</span> অন্য ট্রাফিক ও পথচারীকে পথ দিন।</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+<!-- PART 5 -->
+<div class="section">
+    <div class="section-title bg-signals">🚦 পার্ট ৫: ট্রাফিক লাইট সংকেতের ট্র্যাপ</div>
+    <table class="data-table">
+        <thead>
+            <tr>
+                <th style="width: 28%;">লাইট সংকেত</th>
+                <th style="width: 22%;">আইনি অর্থ</th>
+                <th style="width: 50%;">পরীক্ষার ট্র্যাপ ও করণীয় (বাংলা)</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td style="font-weight:bold; color:#dc2626;">🔴 RED + সবুজ মেটাল অ্যারো</td>
+                <td>ডানে মোড় নেওয়া যাবে</td>
+                <td><span class="trap-highlight">আগে সম্পূর্ণ থামতে হবে!</span> স্টপ সাইনের মতো আচরণ করুন। না থেমে ঘুরলে পরীক্ষায় সরাসরি ফেল!</td>
+            </tr>
+            <tr>
+                <td style="font-weight:bold; color:#d97706;">🟡 AMBER (হলুদ) মিটমিট</td>
+                <td>বাতি নষ্ট / বন্ধ</td>
+                <td>ট্রাফিক লাইট অকেজো। <span class="trap-highlight">রাস্তার সাইন বোর্ড মানুন!</span> সাইন না থাকলে ডানদিকের গাড়ির আগে যাওয়ার নিয়ম প্রযোজ্য।</td>
+            </tr>
+            <tr>
+                <td style="font-weight:bold; color:#d97706;">🟡 AMBER (হলুদ) স্থির</td>
+                <td>সম্ভব হলে থামুন</td>
+                <td>মোড়ের আগে থামুন। <span class="trap-highlight">পেছনে দ্রুত গাড়ি থাকলে বা হঠাৎ থামলে বিপদ হলে জরুরি ব্রেক কষবেন না</span>।</td>
+            </tr>
+            <tr>
+                <td style="font-weight:bold; color:#16a34a;">🟢 GREEN (সবুজ) স্থির</td>
+                <td>চালিয়ে যান</td>
+                <td><span class="trap-highlight">অন্ধের মতো গাড়ি চালাবেন না!</span> বামে ঘুরলে সামনের দিক থেকে আসা গাড়িকে পথ দিন। পথচারী পার হচ্ছে কিনা দেখুন।</td>
+            </tr>
+            <tr>
+                <td style="font-weight:bold; color:#d97706;">🟢 GREEN + হলুদ মিটমিট</td>
+                <td>পথচারীদের ঝুঁকি</td>
+                <td>মোড় নেওয়ার সময় বিপদ! <span class="trap-highlight">রাস্তা পার হওয়া পথচারীদের সম্পূর্ণ অগ্রাধিকার আছে।</span> রাস্তা খালি হওয়া পর্যন্ত অপেক্ষা করুন।</td>
+            </tr>
+            <tr>
+                <td style="font-weight:bold; color:#dc2626;">🔴🟡 RED + AMBER একসাথে</td>
+                <td>চালানোর প্রস্তুতি নিন</td>
+                <td>সবুজ বাতি আসছে। ১ম গিয়ার দিন, হ্যান্ডব্রেক ছাড়ুন, <span class="trap-highlight">তবে সবুজ বাতি না জ্বলা পর্যন্ত গাড়ি সামনে বাড়াবেন না!</span></td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+<!-- PART 6 -->
+<div class="section">
+    <div class="section-title bg-parking">🅿️ পার্ট ৬: পার্কিং ও আবাসিক এলাকা (Parking &amp; Zones)</div>
+    <table class="data-table">
+        <thead>
+            <tr>
+                <th class="col-num">সাইন #</th>
+                <th class="col-icon">আইকন</th>
+                <th class="col-name">নাম ও অর্থ</th>
+                <th class="col-trap">পরীক্ষার ট্র্যাপ ও মূল নিয়ম (বাংলা)</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td class="col-num">314</td>
+                <td class="col-icon">
+                    <svg class="sign-svg" viewBox="0 0 100 100">
+                        <rect x="10" y="10" width="80" height="80" fill="#2563eb" rx="6"/>
+                        <text x="50" y="72" font-family="Arial" font-size="60" font-weight="bold" text-anchor="middle" fill="white">P</text>
+                    </svg>
+                </td>
+                <td class="col-name">Parking Area (পার্কিং স্থান)</td>
+                <td class="col-trap">পার্কিং অনুমোদিত। নিচের অতিরিক্ত প্লেট দেখুন (সময় সীমা, পার্কিং ডিস্ক বা টিকিটের প্রয়োজন আছে কিনা)।</td>
+            </tr>
+            <tr>
+                <td class="col-num">315</td>
+                <td class="col-icon">
+                    <svg class="sign-svg" viewBox="0 0 100 100">
+                        <rect x="10" y="10" width="80" height="80" fill="#2563eb" rx="6"/>
+                        <rect x="20" y="65" width="60" height="15" fill="white"/>
+                        <rect x="45" y="50" width="30" height="15" fill="white" rx="2"/>
+                    </svg>
+                </td>
+                <td class="col-name">Sidewalk Parking (ফুটপাতে পার্কিং)</td>
+                <td class="col-trap">গাড়ির চাকা <span class="trap-highlight">ছবিতে যেভাবে দেখানো হয়েছে সেভাবে ফুটপাতে তুলে পার্ক করতে হবে</span>। শুধুমাত্র ২.৮ টনের কম ওজনের গাড়ির জন্য।</td>
+            </tr>
+            <tr>
+                <td class="col-num">325.1</td>
+                <td class="col-icon">
+                    <svg class="sign-svg" viewBox="0 0 100 100">
+                        <rect x="10" y="10" width="80" height="80" fill="#2563eb" rx="6"/>
+                        <circle cx="35" cy="40" r="8" fill="white"/>
+                        <path d="M 35 48 L 35 70 M 25 55 L 45 55" stroke="white" stroke-width="3"/>
+                        <circle cx="65" cy="65" r="10" fill="white"/>
+                    </svg>
+                </td>
+                <td class="col-name">Traffic Calmed Zone (প্লে স্ট্রিট)</td>
+                <td class="col-trap"><span class="trap-highlight">হেঁটে চলার গতিতে চালাতে হবে (৪-৭ কিমি/ঘণ্টা)!</span> শিশুরা রাস্তায় খেলতে পারে। এলাকা ছাড়ার সময় সবাইকে পথ দিতে হবে।</td>
+            </tr>
+            <tr>
+                <td class="col-num">286 + Text</td>
+                <td class="col-icon">
+                    <svg class="sign-svg" viewBox="0 0 100 100">
+                        <rect x="15" y="10" width="70" height="80" fill="white" stroke="#64748b" stroke-width="2"/>
+                        <circle cx="50" cy="40" r="22" fill="#1d4ed8" stroke="#dc2626" stroke-width="5"/>
+                        <line x1="66" y1="24" x2="34" y2="56" stroke="#dc2626" stroke-width="5"/>
+                        <text x="50" y="78" font-family="Arial" font-size="9" font-weight="bold" text-anchor="middle" fill="black">8 - 18h</text>
+                    </svg>
+                </td>
+                <td class="col-name">Timed Restriction / Resident</td>
+                <td class="col-trap">শুধুমাত্র উল্লেখিত সময়ে পার্কিং নিষেধ। নির্ধারিত সময়ের বাইরে সম্পূর্ণ বিনামূল্যে অবাধ পার্কিং করা যাবে।</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+<!-- PART 7 -->
+<div class="section" style="border: 2px solid #7c3aed;">
+    <div class="section-title bg-traps">🧠 সবচেয়ে বিপজ্জনক ৫টি এক্সাম ট্র্যাপ (পরীক্ষায় ফেল করানোর মূল কারণ)</div>
+    <div class="traps-grid">
+        <div class="trap-card">
+            <div class="trap-card-cell"><span class="key-tag">TRAP 1</span> 205 vs 206</div>
+            <div class="trap-card-cell">উল্টো ত্রিভুজ (205) = Yield (গাড়ি আসলে থামুন)। আর অষ্টভুজ STOP সাইন (206) = <strong>সম্পূর্ণ থামা (FULL STOP) বাধ্যতামূলক</strong>, রাস্তা ১০০% ফাঁকা থাকলেও থামতেই হবে!</div>
+        </div>
+        <div class="trap-card">
+            <div class="trap-card-cell"><span class="key-tag">TRAP 2</span> 277 vs 277.1</div>
+            <div class="trap-card-cell">সাইন 277 গাড়ি দিয়ে গাড়ি ওভারটেক করা মানা করে। কিন্তু সাইন 277.1 শুধু ৩.৫ টনের বেশি ভারী ট্র্যাকিং নিষেধ করে। <strong>আপনার সাধারণ গাড়ি 277.1 এর নিচে ওভারটেক করতে পারবে!</strong></div>
+        </div>
+        <div class="trap-card">
+            <div class="trap-card-cell"><span class="key-tag">TRAP 3</span> 283 vs 286</div>
+            <div class="trap-card-cell">লাল ক্রস (283) = কোনোভাবেই থামা যাবে না (Halteverbot)। কিন্তু লাল একক দাগ (286) = পার্কিং নিষেধ, তবে স্বল্প সময়ের জন্য (৩ মিনিটের কম) থামা বা যাত্রী নামানো বৈধ।</div>
+        </div>
+        <div class="trap-card">
+            <div class="trap-card-cell"><span class="key-tag">TRAP 4</span> Zone Endings</div>
+            <div class="trap-card-cell">সাধারণ স্পিড বা পার্কিং সাইন পরের মোড়েই শেষ হয়ে যায়। কিন্তু <strong>ZONE সাইন (যেমন Tempo 30-Zone, Parking Zone) মোড়ে শেষ হয় না</strong> — একমাত্র ধূসর "End Zone" সাইন বোর্ডেই শেষ হয়!</div>
+        </div>
+        <div class="trap-card">
+            <div class="trap-card-cell"><span class="key-tag">TRAP 5</span> Green Light Safety</div>
+            <div class="trap-card-cell">সবুজ বাতি মানেই না তাকিয়ে যাওয়া নয়। বামে মোড় নেওয়ার সময় বিপরীত দিকের গাড়ি ও ক্রসওয়াকের পথচারীদের অবশ্যই খেয়াল করতে হবে।</div>
+        </div>
+    </div>
+</div>
+
+</body>
+</html>
