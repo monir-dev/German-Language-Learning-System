@@ -14,3 +14,9 @@
 | 2026-09-28 | Regular verb transfer: lernen | Conjugation, vocabulary | [[2026-09-28__Regular-Verbs-Lernen]] |
 | 2026-09-28 | Regular verb with stem ending in -t: arbeiten | Conjugation, pronunciation | [[2026-09-28__Regular-Verbs-Arbeiten]] |
 | 2026-09-28 | Regular verbs in sentence production | Writing, vocabulary, word order | [[2026-09-28__Regular-Verbs-Sentence-Practice]] |
+| 2026-09-29 | Regular verbs: sentence revision | Writing, vocabulary, word order | [[2026-09-29__Regular-Verbs-Revision]] |
+| 2026-09-29 | Relative pronouns: Nominativ | Grammar, sentence structure | [[2026-09-29__Relative-Pronouns-Nominativ]] |
+| 2026-09-29 | Relative pronouns: Nominativ vs Akkusativ | Grammar, sentence structure | [[2026-09-29__Relative-Pronouns-Nominativ-Akkusativ]] |
+| 2026-09-29 | Relative pronouns: Dativ — easy sentences | Grammar, sentence structure | [[2026-09-29__Relative-Pronouns-Dativ-Easy]] |
+| 2026-09-29 | Relative pronouns: mixed clauses | Grammar, sentence structure | [[2026-09-29__Relative-Pronouns-Mixed-Clauses]] |
+| 2026-09-29 | Core Dativ verbs | Vocabulary, cases | [[2026-09-29__Dative-Verbs-Core]] |

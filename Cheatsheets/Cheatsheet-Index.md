@@ -8,6 +8,8 @@
 | [[Tenses-Overview]]                | Grammar     | Learning | 2026-09-24   | [[2026-09-24__Praeteritum-und-Modalverben]] |
 | [[Connectors-Obwohl-Weil-Trotzdem-Deshalb]] | Grammar | Learning | 2026-09-28 | [[2026-09-28__Konnektoren-Obwohl-Weil-Trotzdem-Deshalb]] |
 | [[Connectors-Index]] | Grammar | Learning | 2026-09-28 | [[2026-09-28__Konnektoren-Obwohl-Weil-Trotzdem-Deshalb]] |
+| [[Relative-Pronouns]] | Grammar | Learning | 2026-09-29 | [[2026-09-29__Relative-Pronouns-Dativ-Easy]] |
+| [[Case-Shortcuts]] | Grammar | Learning | 2026-09-29 | [[2026-09-29__Dative-Verbs-Core]] |
 
 ## Rule for future agents
 

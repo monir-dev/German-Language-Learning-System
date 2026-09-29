@@ -11,6 +11,8 @@
 | Dativ | A2 | Unknown — needs assessment | — | — | High |
 | `weil` / `dass` subordinate clauses | B1 | Not started | — | — | Later |
 | `obwohl` / `weil` / `trotzdem` / `deshalb` | B1 | Learning | [[2026-09-28__Konnektoren-Obwohl-Weil-Trotzdem-Deshalb]] | Verb-final vs. verb-second distinction | High |
+| Relative pronouns — Nominativ/Akkusativ | B1 | Practiced | [[2026-09-29__Relative-Pronouns-Nominativ-Akkusativ]] | Mixed case and complex clauses need practice | High |
+| Relative pronouns — Dativ | B1 | Practiced | [[2026-09-29__Relative-Pronouns-Dativ-Easy]] | Complex clauses and mixed case retrieval need practice | High |
 
 ## Concept note format
 

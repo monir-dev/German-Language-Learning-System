@@ -2,7 +2,7 @@
 
 ## Mission
 
-Build reliable German communication from the current B1.1 class level toward C1, with confident everyday speaking as the first milestone.
+Pass the B1 German exam first, then build practical office/workplace conversation from the current B1.1 class level. C1 is an optional later goal.
 
 ## Active phase
 

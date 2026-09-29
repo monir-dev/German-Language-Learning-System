@@ -13,5 +13,13 @@
 | machen | করা | regular | mache | machte | hat gemacht | — | Practiced | [[2026-09-28__Regular-Verbs-Machen]] |
 | lernen | শেখা | regular | lerne | lernte | hat gelernt | — | Practiced | [[2026-09-28__Regular-Verbs-Lernen]] |
 | arbeiten | কাজ করা | regular | arbeite | arbeitete | hat gearbeitet | — | Practiced | [[2026-09-28__Regular-Verbs-Arbeiten]] |
+| helfen | সাহায্য করা | Dativ verb | hilft | half | hat geholfen | Dativ | Practiced | [[2026-09-29__Dative-Verbs-Core]] |
+| danken | ধন্যবাদ দেওয়া | Dativ verb | dankt | dankte | hat gedankt | Dativ | Practiced | [[2026-09-29__Dative-Verbs-Core]] |
+| antworten | উত্তর দেওয়া | Dativ verb | antwortet | antwortete | hat geantwortet | Dativ | Needs revision | [[2026-09-29__Dative-Verbs-Core]] |
+| gefallen | পছন্দ হওয়া | Dativ verb | gefällt | gefiel | hat gefallen | Dativ | Practiced | [[2026-09-29__Dative-Verbs-Core]] |
+| gehören | কার/অধিকারভুক্ত হওয়া | Dativ verb | gehört | gehörte | hat gehört | Dativ | Practiced | [[2026-09-29__Dative-Verbs-Core]] |
+| fehlen | অভাব হওয়া | Dativ verb | fehlt | fehlte | hat gefehlt | Dativ | Practiced | [[2026-09-29__Dative-Verbs-Core]] |
+| zuhören | মন দিয়ে শোনা | separable / Dativ | hört zu | hörte zu | hat zugehört | Dativ | Practiced | [[2026-09-29__Dative-Verbs-Core]] |
+| vertrauen | বিশ্বাস করা | Dativ verb | vertraut | vertraute | hat vertraut | Dativ | Practiced | [[2026-09-29__Dative-Verbs-Core]] |
 
 New verbs go here with all relevant forms and one original learner sentence.

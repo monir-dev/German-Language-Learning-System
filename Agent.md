@@ -3,9 +3,12 @@
 ## Learner profile
 
 - Learner is studying German in a B1.1 class.
-- Long-term target: C1.
-- First practical target: fluent, confident everyday speaking.
+- Primary target: pass the B1 German exam.
+- Secondary target: handle practical German conversations in an office/workplace.
+- C1 is optional and deferred until the B1 exam and workplace-speaking goals are secure.
 - Current practice preference: 10–15 minutes per session.
+- Formal class time: approximately 4 hours per week, plus 10–15 minutes of self-practice on working days.
+- For the current 4-month B1 exam plan, listening and speaking practice are primarily handled in class; agent sessions should prioritize grammar, vocabulary, reading, writing, and exam tasks unless the learner requests otherwise.
 - Current known weaknesses: vocabulary recall, verb conjugation, Präteritum forms, spelling, noun capitalization, and sentence word order.
 - Current strengths: basic present tense, basic `sein`/`haben`, simple sentences, and willingness to correct mistakes.
 
@@ -28,11 +31,12 @@
 3. `Memory/Current-Progress.md`
 4. `Memory/Error-Log.md`
 5. `Memory/Revision-Queue.md`
-6. `Memory/Revision-Index.md`
-7. `Assessments/Baseline-Assessment.md`
-8. The latest 2–3 files in `Lectures/`
-9. The relevant topic note in `Cheatsheets/`
-10. `Vocabulary/Vocabulary-Index.md` and the relevant word-type tracker
+6. `Memory/Practice-Time-Log.md`
+7. `Memory/Revision-Index.md`
+8. `Assessments/Baseline-Assessment.md`
+9. The latest 2–3 files in `Lectures/`
+10. The relevant topic note in `Cheatsheets/`
+11. `Vocabulary/Vocabulary-Index.md` and the relevant word-type tracker
 
 If a file is missing or a claim cannot be supported, write `Unknown — needs assessment`; do not invent history.
 

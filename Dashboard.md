@@ -1,22 +1,55 @@
 # 🇩🇪 German Learning Dashboard
 
-> **Mission:** B1.1 foundation → confident speaking → C1
+> **Mission:** B1.1 foundation → pass B1 exam → practical office conversation
 >
 > **Practice rhythm:** 10–15 minutes per session
 >
-> **Last updated:** 2026-09-24
+> **Formal class:** approximately 4 hours per week
+>
+> **Last updated:** 2026-09-29
 
 ## 🧭 Current position
 
 | Item | Current state |
 |---|---|
 | Class level | B1.1 |
-| Practical target | Fluent everyday speaking |
-| Long-term target | C1 |
+| Primary target | Pass the B1 German exam |
+| Secondary target | Practical office/workplace conversation |
+| Optional later target | C1 |
 | Current phase | Phase 3 — B1.1 consolidation |
 | Canonical progress | [[Current-Progress]] |
-| Last lecture | [[2026-09-24__Praeteritum-und-Modalverben]] |
-| Main priority | Verb conjugation and vocabulary recall |
+| Last lecture | [[2026-09-29__Relative-Pronouns-Dativ-Easy]] |
+| Main priority | B1 exam grammar, vocabulary, reading and writing; listening/speaking in class |
+
+## 🗺️ Visible learning path
+
+**Primary route: B1 exam**
+
+`B1.1 foundation` → `Core grammar` → `B1 vocabulary` → `Reading/Writing exam tasks` → `Mock tests` → `B1 exam ready`
+
+**Current position:** `B1.1 foundation + core grammar consolidation`  
+**Next gate:** complete mixed-case relative-pronoun practice and assess Akkusativ/Dativ  
+**Exam preparation:** not started as a separate block yet; begin after the core grammar gaps are mapped.
+
+| Path area               | Status             | What is already evidenced                          | Next step                                  |
+| ----------------------- | ------------------ | -------------------------------------------------- | ------------------------------------------ |
+| B1.1 grammar foundation | Learning           | Modal verbs, tenses, connectors, relative pronouns | Mixed retrieval and error revision         |
+| Verb system             | Learning           | 6 modal verbs; `machen`, `lernen`, `arbeiten`      | More sentence production and Perfekt       |
+| Cases                   | Learning           | Relative-pronoun Nominativ/Akkusativ/Dativ drills  | Akkusativ/Dativ baseline                   |
+| Vocabulary              | Learning           | 28 tracked entries; active recall remains weak     | High-utility B1 verbs, nouns and phrases   |
+| Reading                 | Not assessed       | No baseline evidence yet                           | Start B1 reading task                      |
+| Writing                 | Learning           | Short sentence production                          | B1 email/opinion tasks                     |
+| Listening/speaking      | Practiced in class | Separate agent baseline deferred                   | Continue in class; add here if requested   |
+| B1 exam readiness       | Not started        | No mock exam evidence yet                          | Identify exam format and begin timed tasks |
+
+### Daily practice record
+
+| Date | Practice time | Main topic | Result | Next focus |
+|---|---:|---|---|---|
+| 2026-09-28 | ~30 min | Modal verbs, connectors, regular verbs | Practiced; sentence accuracy needs revision | `viel/viele`, capitalization, word order |
+| 2026-09-29 | ~70 min | Regular verbs; relative pronouns; Dativ verbs; `hören` family | Mixed clauses 7/8; Dativ verbs 7/8 | `denen`; `ihm` vs `ihr`; hören variants |
+
+For the complete time history, open [[Practice-Time-Log]].
 
 ## 📊 Skill snapshot
 
@@ -37,6 +70,7 @@
 4. Vocabulary and noun capitalization: `Deutsch`, `Tag`, `Abend`, `Jahr`.
 5. `sich interessieren für + Akkusativ`.
 6. Connector word order: `obwohl/weil` verb-final; `trotzdem/deshalb` verb-second.
+7. Relative pronouns in mixed, harder clauses: `der/den/dem`, `die/der`, `denen`.
 
 See [[Revision-Queue]] and [[Error-Log]].
 
@@ -46,6 +80,14 @@ See [[Revision-Queue]] and [[Error-Log]].
 - `haben` Präsens and Präteritum: practiced successfully.
 - Basic `können` and `müssen`: practiced; spelling still needs revision.
 - Basic `wenn` word order: understood after correction.
+- Relative pronouns: Nominativ, Akkusativ and easy Dativ practiced; harder mixed clauses remain.
+
+## 🎯 What to learn next
+
+1. Mixed relative-pronoun sentences with more than one clause.
+2. Akkusativ/Dativ diagnostic and article patterns.
+3. B1 exam reading and writing format after the grammar baseline.
+4. `hören` verb family plus Dativ-verb Batch 1; later add the 20-verb B1 Dativ roadmap.
 
 ## 🧠 Next-session decision rule
 
