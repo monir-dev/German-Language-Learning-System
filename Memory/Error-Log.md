@@ -31,6 +31,22 @@
 - `ihr` means “her” in Dativ; `ihm` means “him/it” in Dativ.
 - Review condition: retrieve the eight Dativ verbs with the correct personal pronoun.
 
+## 2026-09-30 — hören family
+
+- `aufhören` → `Ich höre mit der Arbeit auf.`; do not use the `an` prefix from `anhören`.
+- Review condition: distinguish the separable prefixes in `anhören` and `aufhören`.
+
+## 2026-09-30 — helfen Perfekt
+
+- `Wir have den helfen` → `Wir haben geholfen.` / `Wir haben dir geholfen.`
+- Perfekt formula: `haben + Partizip II`; `helfen → geholfen`.
+- Review condition: produce three correct `helfen` Perfekt sentences with Dativ pronouns.
+
+## 2026-09-30 — helfen Perfekt sentence production
+
+- `Sie habe mir geholfen` → `Sie hat mir geholfen.`
+- Third-person singular `sie/er/es` uses `hat`; first-person singular uses `habe`.
+
 | Date first seen | Area | Learner form | Correction | Recurrence | Status | Evidence |
 |---|---|---|---|---:|---|---|
 | 2026-09-24 | Verb spelling | `learne` | `lerne` | 2 | Needs revision | [[2026-09-24__Praeteritum-und-Modalverben]] |

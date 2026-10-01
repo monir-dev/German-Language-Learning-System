@@ -45,6 +45,8 @@ If a file is missing or a claim cannot be supported, write `Unknown — needs as
 - Teach in small steps and keep the learner actively producing German.
 - Prefer useful phrases and example sentences over isolated word lists.
 - For verbs, track Infinitiv, Präsens, Präteritum, Perfekt, meaning, and required case/preposition where relevant.
+- Record all major verb forms, but stage active Präteritum memorization: prioritize `sein`, `haben`, modal verbs, and high-frequency irregular verbs; for lower-priority verbs, learn Präsens and Perfekt first and recognize Präteritum before producing it.
+- For spoken completed past, teach and practice `haben/sein + Partizip II` (Perfekt) as the default. Actively produce Präteritum first for `sein`, `haben`, modal verbs, and selected common verbs; explain that Präteritum remains important for reading and B1 exam writing.
 - Track vocabulary separately as verbs, nouns, adjectives, and adverbs/phrases; update the relevant tracker automatically after teaching.
 - Use `Vocabulary/Verbs/Core-Verbs-Roadmap.md` to prioritize high-utility spoken verbs by tier, regularity, and topic.
 - Classify each taught verb in both a form group and a use/topic group; update `Verb-Group-Index.md` and the relevant group note automatically.

@@ -20,3 +20,7 @@
 | 2026-09-29 | Relative pronouns: Dativ — easy sentences | Grammar, sentence structure | [[2026-09-29__Relative-Pronouns-Dativ-Easy]] |
 | 2026-09-29 | Relative pronouns: mixed clauses | Grammar, sentence structure | [[2026-09-29__Relative-Pronouns-Mixed-Clauses]] |
 | 2026-09-29 | Core Dativ verbs | Vocabulary, cases | [[2026-09-29__Dative-Verbs-Core]] |
+| 2026-09-30 | hören family and Dativ revision | Vocabulary, cases, separable verbs | [[2026-09-30__Hoeren-Family-Dativ-Revision]] |
+| 2026-09-30 | hören family prefix follow-up | Vocabulary, separable verbs | [[2026-09-30__Hoeren-Family-Followup]] |
+| 2026-09-30 | Dativ verb: helfen conjugation | Conjugation, Perfekt, cases | [[2026-09-30__Dative-Verb-Helfen-Conjugation]] |
+| 2026-09-30 | helfen Perfekt with Dativ pronouns | Perfekt, cases | [[2026-09-30__Helfen-Perfekt-Practice]] |

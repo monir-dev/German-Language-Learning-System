@@ -20,6 +20,10 @@ There is no single official total for “B1 Dativ verbs”. This is a practical 
 
 Many ordinary verbs can also have a Dativ recipient plus an Akkusativ object, for example `Ich gebe dem Mann das Buch.` Those are tracked separately from fixed/core Dativ verbs.
 
+## Conjugation priority
+
+All forms will be recorded, but active Präteritum memorization is staged. For spoken past, practice `haben/sein + Partizip II` first. Prioritize Präteritum for `sein`, `haben`, modal verbs, and frequent irregular verbs. For other Dativ verbs, learn Präsens, Perfekt, case pattern, and useful sentences first; recognize Präteritum before actively producing it.
+
 | Verb | Meaning | Dativ example | Status |
 |---|---|---|---|
 | helfen | সাহায্য করা | `Ich helfe dir.` | Practiced |

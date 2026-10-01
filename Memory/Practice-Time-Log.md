@@ -6,6 +6,7 @@
 |---|---:|---:|---|---|
 | 2026-09-28 | approximately 30 minutes | 5 | Modal verbs, connectors, regular verbs | [[Session-Index]] |
 | 2026-09-29 | approximately 70 minutes | 8 | Regular verbs; relative pronouns; core Dativ verbs; `gehören` and `hören` family | [[Session-Index]] |
+| 2026-09-30 | approximately 30 minutes | 4 | `hören` family; Dativ pronouns; `helfen` conjugation and Perfekt | [[Session-Index]] |
 
 ## Tracking rule
 

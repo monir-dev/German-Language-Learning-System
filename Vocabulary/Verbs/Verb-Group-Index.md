@@ -14,6 +14,7 @@
 | Verb–preposition | [[Verb-Preposition-Groups]] | sich interessieren für, warten auf, denken an |
 | Dativ verbs | [[Dative-Verbs]] | helfen, danken, antworten, gefallen, gehören, fehlen, zuhören, vertrauen |
 | Akkusativ verbs | [[Akkusativ-Verbs]] | sehen, kaufen, lesen, brauchen, fragen, verstehen |
+| Präteritum priority | [[Prateritum-Priority-List]] | active Präteritum targets for B1 speaking, reading and writing |
 | Topic roadmap | [[Core-Verbs-Roadmap]] | speaking priority and topic groups |
 
 ## Agent rule

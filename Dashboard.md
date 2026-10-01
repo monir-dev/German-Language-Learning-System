@@ -6,7 +6,7 @@
 >
 > **Formal class:** approximately 4 hours per week
 >
-> **Last updated:** 2026-09-29
+> **Last updated:** 2026-09-30
 
 ## 🧭 Current position
 
@@ -48,6 +48,7 @@
 |---|---:|---|---|---|
 | 2026-09-28 | ~30 min | Modal verbs, connectors, regular verbs | Practiced; sentence accuracy needs revision | `viel/viele`, capitalization, word order |
 | 2026-09-29 | ~70 min | Regular verbs; relative pronouns; Dativ verbs; `hören` family | Mixed clauses 7/8; Dativ verbs 7/8 | `denen`; `ihm` vs `ihr`; hören variants |
+| 2026-09-30 | ~30 min | `hören` family; Dativ pronouns; `helfen` conjugation and Perfekt | Präsens/Präteritum 12/12; Perfekt sentences 2/3 | `Sie hat geholfen` |
 
 For the complete time history, open [[Practice-Time-Log]].
 
@@ -87,7 +88,7 @@ See [[Revision-Queue]] and [[Error-Log]].
 1. Mixed relative-pronoun sentences with more than one clause.
 2. Akkusativ/Dativ diagnostic and article patterns.
 3. B1 exam reading and writing format after the grammar baseline.
-4. `hören` verb family plus Dativ-verb Batch 1; later add the 20-verb B1 Dativ roadmap.
+4. Core Dativ verbs Batch 1 revision, especially `helfen` Perfekt and `ihm/ihr/ihnen`; then add the next Dativ batch.
 
 ## 🧠 Next-session decision rule
 

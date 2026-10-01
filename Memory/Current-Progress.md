@@ -1,6 +1,6 @@
 # Current Progress
 
-**Last updated:** 2026-09-28
+**Last updated:** 2026-09-30
 
 ## Canonical progress record
 
@@ -13,6 +13,8 @@
 **Current practical milestone:** 5–10 মিনিটের সহজ everyday conversation
 
 **Baseline assessment:** Incomplete — see [[Baseline-Assessment]]
+
+**Next session starting point:** Revise core Dativ verbs Batch 1, especially `helfen` Perfekt and `ihm/ihr/ihnen`; then begin the next Dativ batch.
 
 ## Evidence-backed state
 
@@ -36,6 +38,10 @@
 - Easy Dativ relative-pronoun retrieval was also completed at 8/8 on 2026-09-29 using `dem`, `der`, and `denen`. Mixed-case and harder sentence structures remain for revision.
 - In mixed relative clauses with modal verbs, the learner scored 7/8; the only error was plural Dativ `der` instead of `denen`.
 - Eight core Dativ verbs were introduced on 2026-09-29; pronoun retrieval was 7/8, with `ihm` vs `ihr` needing revision.
+- On 2026-09-30, `hören`-family and Dativ-pronoun retrieval was 7/8; pronouns were correct, but `anhören` vs `aufhören` needs revision.
+- In a targeted follow-up, the learner correctly retrieved all 4/4 `hören`-family prefixes; the prefix distinction is now practiced, while Dativ Batch 1 remains open.
+- `helfen` conjugation was practiced on 2026-09-30: Präsens 6/6 and Präteritum 6/6 correct; Perfekt still needs correction from `have/helfen` to `haben/geholfen`.
+- In `helfen` Perfekt sentence production, 2/3 were correct; `Sie habe` → `Sie hat` shows third-person auxiliary selection still needs revision.
 - Dedicated speaking and listening baselines are not yet available.
 
 ## Current status

@@ -25,18 +25,19 @@ These verbs commonly take a direct Akkusativ object. This is a practical B1 road
 
 ## Learning rule
 
-Each verb will be practiced with:
+Each verb will be recorded with:
 
 1. Infinitiv and Bengali meaning
 2. Präsens conjugation
-3. Präteritum conjugation
+3. Präteritum reference form
 4. Perfekt
 5. Akkusativ example with article
 6. Original sentence production
+
+For spoken past, practice `haben/sein + Partizip II` first. Active Präteritum memorization will be prioritized for high-frequency verbs and B1 exam verbs; every verb does not need immediate full Präteritum recall.
 
 Do not assume every verb's case from meaning alone; learn the verb together with its pattern.
 
 ## Current status
 
 Roadmap created; systematic Akkusativ-verb practice not started yet.
-
