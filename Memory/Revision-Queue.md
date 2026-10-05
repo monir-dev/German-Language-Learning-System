@@ -17,3 +17,5 @@
 | 12 | `hören` verb family + core Dativ verbs | `hören` prefixes now 4/4; Dativ Batch 1 still needs revision | Retrieve the 8 Batch 1 Dativ verbs correctly and use the hören family in sentences | Open | [[2026-09-30__Hoeren-Family-Followup]] |
 | 13 | Core Akkusativ verbs | Separate roadmap created; systematic practice not started | Practice Batch 1 with conjugation and direct-object sentences | Open | [[Akkusativ-Verbs]] |
 | 14 | Präteritum priority list | Active list created; Tier 1 incomplete | Produce Tier 1 forms and sentences without hints | Open | [[Prateritum-Priority-List]] |
+| 15 | Professional vocabulary | 13 entries collected; not yet practiced | Practice articles/plurals and technical verb sentences | Open | [[2026-10-02__Professional-Vocabulary-Intake]] |
+| 16 | Datawarehouse professional phrases | New context phrases collected; words are in canonical trackers | Practice `synchronisieren`, Partizip II, articles/plurals, and the relative-clause sentence | Open | [[2026-10-02__Professional-Vocabulary-Datawarehouse]] |

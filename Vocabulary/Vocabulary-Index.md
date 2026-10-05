@@ -8,6 +8,7 @@ Vocabulary is tracked by word type so the learner can revise and the agent can m
 | Nouns | [[Noun-Tracker]] | Article, plural, case |
 | Adjectives | [[Adjective-Tracker]] | Opposites and endings later |
 | Adverbs and phrases | [[Adverb-Phrase-Tracker]] | Time, connectors, speaking chunks |
+| Professional vocabulary | [[Professional-Vocabulary]] | Technical/work words; linked to noun and verb patterns |
 
 ## Learning rule
 

@@ -8,6 +8,20 @@
 | der Termin | appointment | der | die Termine | einen Termin haben | Learning | [[2026-09-24__Praeteritum-und-Modalverben]] |
 | das Jahr | বছর | das | die Jahre | 29 Jahre alt | Learning | [[2026-09-24__Praeteritum-und-Modalverben]] |
 | die Musik | সঙ্গীত | die | — | deutsche Musik | Practiced | [[2026-09-24__Praeteritum-und-Modalverben]] |
+| der Versicherer | insurer | der | die Versicherer | der Versicherer | Introduced | [[2026-10-02__Professional-Vocabulary-Intake]] |
+| der Dateiname | filename | der | die Dateinamen | der Dateiname | Introduced | [[2026-10-02__Professional-Vocabulary-Intake]] |
+| der Hochladezeitpunkt | upload time/timestamp | der | die Hochladezeitpunkte | der Hochladezeitpunkt | Introduced | [[2026-10-02__Professional-Vocabulary-Intake]] |
+| die Größe | size | die | die Größen | die Größe | Introduced | [[2026-10-02__Professional-Vocabulary-Intake]] |
+| der Upload | upload | der | die Uploads | der Upload | Introduced | [[2026-10-02__Professional-Vocabulary-Intake]] |
+| der Benutzer | user | der | die Benutzer | der Benutzer | Introduced | [[2026-10-02__Professional-Vocabulary-Intake]] |
+| die Dauer | duration | die | die Dauern | die Dauer | Introduced | [[2026-10-02__Professional-Vocabulary-Intake]] |
+| die Statistik | statistic | die | die Statistiken | die Statistik | Introduced | [[2026-10-02__Professional-Vocabulary-Intake]] |
+| die Fehlermeldung | error message | die | die Fehlermeldungen | die Fehlermeldung | Introduced | [[2026-10-02__Professional-Vocabulary-Intake]] |
+| die Meldung | message/report/notification | die | die Meldungen | die Meldung | Introduced | [[2026-10-02__Professional-Vocabulary-Intake]] |
+| die Synchronisierung | synchronization | die | die Synchronisierungen | die Synchronisierung | Introduced | [[2026-10-02__Professional-Vocabulary-Datawarehouse]] |
+| das Data Warehouse | data warehouse | das | die Data Warehouses | das Data Warehouse | Introduced | [[2026-10-02__Professional-Vocabulary-Datawarehouse]] |
+| die Anzahl | number/quantity | die | die Anzahlen | die Anzahl | Introduced | [[2026-10-02__Professional-Vocabulary-Datawarehouse]] |
+| der Vertrag | contract | der | die Verträge | der Vertrag | Introduced | [[2026-10-02__Professional-Vocabulary-Datawarehouse]] |
+| der Status | status | der | die Status | der Status | Introduced | [[2026-10-02__Professional-Vocabulary-Datawarehouse]] |
 
 Rule: noun-এর সঙ্গে article এবং plural একসঙ্গে শিখবে।
-

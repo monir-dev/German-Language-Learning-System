@@ -21,5 +21,9 @@
 | fehlen | অভাব হওয়া | Dativ verb | fehlt | fehlte | hat gefehlt | Dativ | Practiced | [[2026-09-29__Dative-Verbs-Core]] |
 | zuhören | মন দিয়ে শোনা | separable / Dativ | hört zu | hörte zu | hat zugehört | Dativ | Practiced | [[2026-09-29__Dative-Verbs-Core]] |
 | vertrauen | বিশ্বাস করা | Dativ verb | vertraut | vertraute | hat vertraut | Dativ | Practiced | [[2026-09-29__Dative-Verbs-Core]] |
+| löschen | মুছে ফেলা | regular / professional | löscht | löschte | hat gelöscht | Akkusativ object | Introduced | [[2026-10-02__Professional-Vocabulary-Intake]] |
+| laden | load করা | irregular / professional | lädt | lud | hat geladen | Akkusativ object | Introduced | [[2026-10-02__Professional-Vocabulary-Intake]] |
+| hochladen | upload করা | separable / professional | lädt hoch | lud hoch | hat hochgeladen | Akkusativ object | Introduced | [[2026-10-02__Professional-Vocabulary-Intake]] |
+| synchronisieren | synchronize করা | regular / professional | synchronisiert | synchronisierte | hat synchronisiert | Akkusativ object | Introduced | [[2026-10-02__Professional-Vocabulary-Datawarehouse]] |
 
 New verbs go here with all relevant forms and one original learner sentence.

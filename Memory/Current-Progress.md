@@ -1,6 +1,6 @@
 # Current Progress
 
-**Last updated:** 2026-09-30
+**Last updated:** 2026-10-02
 
 ## Canonical progress record
 
@@ -41,6 +41,8 @@
 - On 2026-09-30, `hören`-family and Dativ-pronoun retrieval was 7/8; pronouns were correct, but `anhören` vs `aufhören` needs revision.
 - In a targeted follow-up, the learner correctly retrieved all 4/4 `hören`-family prefixes; the prefix distinction is now practiced, while Dativ Batch 1 remains open.
 - `helfen` conjugation was practiced on 2026-09-30: Präsens 6/6 and Präteritum 6/6 correct; Perfekt still needs correction from `have/helfen` to `haben/geholfen`.
+- On 2026-10-02, 13 profession-related vocabulary entries were registered: 10 nouns and 3 verb-related entries. They are introduced but not yet actively practiced.
+- A Datawarehouse context note was added on 2026-10-02; five new nouns and `synchronisieren` were normalized into the canonical noun/verb trackers, while the professional note keeps only phrases and source sentences.
 - In `helfen` Perfekt sentence production, 2/3 were correct; `Sie habe` → `Sie hat` shows third-person auxiliary selection still needs revision.
 - Dedicated speaking and listening baselines are not yet available.
 

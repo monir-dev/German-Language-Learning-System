@@ -24,3 +24,5 @@
 | 2026-09-30 | hören family prefix follow-up | Vocabulary, separable verbs | [[2026-09-30__Hoeren-Family-Followup]] |
 | 2026-09-30 | Dativ verb: helfen conjugation | Conjugation, Perfekt, cases | [[2026-09-30__Dative-Verb-Helfen-Conjugation]] |
 | 2026-09-30 | helfen Perfekt with Dativ pronouns | Perfekt, cases | [[2026-09-30__Helfen-Perfekt-Practice]] |
+| 2026-10-02 | Professional vocabulary intake | Vocabulary | [[2026-10-02__Professional-Vocabulary-Intake]] |
+| 2026-10-02 | Professional vocabulary: Datawarehouse context | Vocabulary, professional German | [[2026-10-02__Professional-Vocabulary-Datawarehouse]] |
