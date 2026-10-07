@@ -49,6 +49,7 @@
 | 2026-09-28 | ~30 min | Modal verbs, connectors, regular verbs | Practiced; sentence accuracy needs revision | `viel/viele`, capitalization, word order |
 | 2026-09-29 | ~70 min | Regular verbs; relative pronouns; Dativ verbs; `hören` family | Mixed clauses 7/8; Dativ verbs 7/8 | `denen`; `ihm` vs `ihr`; hören variants |
 | 2026-09-30 | ~30 min | `hören` family; Dativ pronouns; `helfen` conjugation and Perfekt | Präsens/Präteritum 12/12; Perfekt sentences 2/3 | `Sie hat geholfen` |
+| 2026-10-05 | ~25 min | `helfen` Perfekt; Dativ pronouns; `sehen` vs `helfen` | Final contrast 6/6; Dativ item completed | Next Dativ verb: `danken` |
 
 For the complete time history, open [[Practice-Time-Log]].
 

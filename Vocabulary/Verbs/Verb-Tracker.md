@@ -25,5 +25,13 @@
 | laden | load করা | irregular / professional | lädt | lud | hat geladen | Akkusativ object | Introduced | [[2026-10-02__Professional-Vocabulary-Intake]] |
 | hochladen | upload করা | separable / professional | lädt hoch | lud hoch | hat hochgeladen | Akkusativ object | Introduced | [[2026-10-02__Professional-Vocabulary-Intake]] |
 | synchronisieren | synchronize করা | regular / professional | synchronisiert | synchronisierte | hat synchronisiert | Akkusativ object | Introduced | [[2026-10-02__Professional-Vocabulary-Datawarehouse]] |
+| kontaktieren | যোগাযোগ করা | regular / professional | kontaktiert | kontaktierte | hat kontaktiert | Akkusativ object | Introduced | [[2026-10-05__Server-Ausfall-und-Vertraege]] |
+| einblenden | প্রদর্শন করা | separable / professional | blendet ein | blendete ein | hat eingeblendet | Akkusativ object | Introduced | [[2026-10-05__Server-Ausfall-und-Vertraege]] |
+| prüfen | পরীক্ষা/যাচাই করা | regular / professional | prüft | prüfte | hat geprüft | Akkusativ object | Introduced | [[2026-10-05__Server-Ausfall-und-Vertraege]] |
+| liegen | পড়ে/অবস্থিত থাকা | irregular / professional | liegt | lag | hat gelegen | an + Dativ | Introduced | [[2026-10-05__Server-Ausfall-und-Vertraege]] |
+| ausfallen | নষ্ট হয়ে যাওয়া | separable / irregular | fällt aus | fiel aus | ist ausgefallen | — | Introduced | [[2026-10-05__Server-Ausfall-und-Vertraege]] |
+| warten | অপেক্ষা করা | regular / professional | wartet | wartete | hat gewartet | auf + Akkusativ | Introduced | [[2026-10-05__Server-Ausfall-und-Vertraege]] |
+| funktionieren | কাজ করা | regular / professional | funktioniert | funktionierte | hat funktioniert | — | Introduced | [[2026-10-05__Server-Ausfall-und-Vertraege]] |
+| geben | দেওয়া | irregular / phrase | gibt | gab | hat gegeben | jemandem Bescheid geben | Introduced | [[2026-10-05__Server-Ausfall-und-Vertraege]] |
 
 New verbs go here with all relevant forms and one original learner sentence.

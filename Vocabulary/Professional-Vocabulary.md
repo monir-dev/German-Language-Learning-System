@@ -30,3 +30,6 @@
 
 New professional words will be normalized and added to the appropriate noun or verb tracker; only their work-context phrases will be added here.
 
+## Additional context: server outage and missing contracts
+
+See [[2026-10-05__Server-Ausfall-und-Vertraege]] for the arranged conversation and useful workplace phrases.

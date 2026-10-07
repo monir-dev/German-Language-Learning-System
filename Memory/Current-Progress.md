@@ -43,7 +43,11 @@
 - `helfen` conjugation was practiced on 2026-09-30: Präsens 6/6 and Präteritum 6/6 correct; Perfekt still needs correction from `have/helfen` to `haben/geholfen`.
 - On 2026-10-02, 13 profession-related vocabulary entries were registered: 10 nouns and 3 verb-related entries. They are introduced but not yet actively practiced.
 - A Datawarehouse context note was added on 2026-10-02; five new nouns and `synchronisieren` were normalized into the canonical noun/verb trackers, while the professional note keeps only phrases and source sentences.
+- The 2026-10-05 server-outage conversation was extracted into canonical noun, verb, adjective, and phrase trackers; these entries are introduced, not yet actively practiced.
 - In `helfen` Perfekt sentence production, 2/3 were correct; `Sie habe` → `Sie hat` shows third-person auxiliary selection still needs revision.
+- On 2026-10-05, `helfen` Perfekt retrieval was 0/4 exact: `geholfen` was repeatedly replaced by `helfen`; Dativ pronoun corrections included `Ihnen` → `ihr` and the formal question pattern `Haben Sie ihnen geholfen?`.
+- In the follow-up, `helfen` Perfekt improved to 3/4; `geholfen` and auxiliary forms were correct, with only Akkusativ `ihn` used instead of Dativ `ihr`.
+- In a final `sehen` vs `helfen` Perfekt contrast, the learner scored 6/6; `gesehen`, `geholfen`, and the Akkusativ/Dativ pronouns were all correct.
 - Dedicated speaking and listening baselines are not yet available.
 
 ## Current status

@@ -26,3 +26,7 @@
 | 2026-09-30 | helfen Perfekt with Dativ pronouns | Perfekt, cases | [[2026-09-30__Helfen-Perfekt-Practice]] |
 | 2026-10-02 | Professional vocabulary intake | Vocabulary | [[2026-10-02__Professional-Vocabulary-Intake]] |
 | 2026-10-02 | Professional vocabulary: Datawarehouse context | Vocabulary, professional German | [[2026-10-02__Professional-Vocabulary-Datawarehouse]] |
+| 2026-10-05 | helfen Perfekt revision | Perfekt, cases | [[2026-10-05__Helfen-Perfekt-Revision]] |
+| 2026-10-05 | helfen Perfekt follow-up | Perfekt, cases | [[2026-10-05__Helfen-Perfekt-Followup]] |
+| 2026-10-05 | helfen vs sehen case contrast | Perfekt, Akkusativ, Dativ | [[2026-10-05__Helfen-Sehen-Case-Contrast]] |
+| 2026-10-05 | Professional conversation: server outage and missing contracts | Workplace German, sentence structure | [[2026-10-05__Server-Ausfall-und-Vertraege]] |

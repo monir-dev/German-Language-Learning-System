@@ -47,6 +47,18 @@
 - `Sie habe mir geholfen` → `Sie hat mir geholfen.`
 - Third-person singular `sie/er/es` uses `hat`; first-person singular uses `habe`.
 
+## 2026-10-05 — helfen Perfekt revision
+
+- `haben + helfen` → `haben + geholfen`.
+- `Wir haben Ihnen helfen` → `Wir haben ihr geholfen.` when the meaning is “we helped her”.
+- Formal question: `Haben Sie ihnen geholfen?`
+
+## 2026-10-05 — helfen Perfekt follow-up
+
+- `Ich habe ihn geholfen` → `Ich habe ihr geholfen.`
+- `helfen` requires Dativ: feminine singular `ihr`, not Akkusativ `ihn`.
+- Review condition: produce four exact `helfen` Perfekt sentences before starting the next Dativ verb.
+
 | Date first seen | Area | Learner form | Correction | Recurrence | Status | Evidence |
 |---|---|---|---|---:|---|---|
 | 2026-09-24 | Verb spelling | `learne` | `lerne` | 2 | Needs revision | [[2026-09-24__Praeteritum-und-Modalverben]] |
