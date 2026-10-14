@@ -1,5 +1,24 @@
 # Error Log
 
+## 2026-10-13 — Vocabulary revision
+
+- Latest targeted recovery: `ein Termin`, `zwei Verträge`, and `Gestern habe ich den Vertrag geprüft.` all correct (3/3) immediately after explanation. Independent transfer and delayed retention remain open; no new errors in this round.
+- Independent translation: `Morgen haben wir zwei Terminen` → `Morgen haben wir zwei Termine.` (Akkusativ plural, not Dativ plural).
+- `Die Terminen sind wichtig.` → `Die Verträge sind wichtig.` for “contracts are important”; Termin = appointment, Vertrag = contract.
+- `Gestern hatte ich die Termin geprüft.` → `Gestern habe ich den Vertrag geprüft.` for the requested Perfekt. `hatte + geprüft` is Plusquamperfekt, not Perfekt. Word order and geprüft were retained.
+- Review condition: distinguish both nouns with article/plural, then produce the Perfekt sentence independently.
+- `Ich have der Vertrag geprüft.` → `Wir haben den Vertrag geprüft.` for the requested “we” sentence.
+- `der Vertrags` → `die Verträge` (plural).
+- Partizip II geprüft, Fehlermeldung spelling and Heute habe ich… were correct.
+- Evidence: [[2026-10-13__Vocabulary-Revision-Vertraege-Perfekt]].
+
+## 2026-10-12 — Vocabulary and prüfen
+
+- `Fahlermeldung` → `Fehlermeldung`; memory cue: Fehler + Meldung.
+- `Morgen Ich have einen Termin.` → `Morgen habe ich einen Termin.`
+- `Ich prüfe den Vertrag.` is valid Präsens, but Perfekt translation requires `Ich habe den Vertrag geprüft.`
+- Evidence: [[2026-10-12__Vocabulary-Termin-Vertrag-Pruefen]]. Recheck without hints after a delay.
+
 ## 2026-09-28 — Regular-verb sentence production
 
 - `Jeden Tag` / `Deutsch` capitalization and natural order: use `Ich lerne jeden Tag Deutsch.`

@@ -7,6 +7,7 @@
 - Secondary target: handle practical German conversations in an office/workplace.
 - C1 is optional and deferred until the B1 exam and workplace-speaking goals are secure.
 - Current practice preference: 10–15 minutes per session.
+- Vocabulary preference (2026-10-13): learn both everyday and professional words, with everyday vocabulary receiving more attention. Do not let collected technical resources dominate lesson selection.
 - Formal class time: approximately 4 hours per week, plus 10–15 minutes of self-practice on working days.
 - For the current 4-month B1 exam plan, listening and speaking practice are primarily handled in class; agent sessions should prioritize grammar, vocabulary, reading, writing, and exam tasks unless the learner requests otherwise.
 - Current known weaknesses: vocabulary recall, verb conjugation, Präteritum forms, spelling, noun capitalization, and sentence word order.
@@ -48,6 +49,7 @@ If a file is missing or a claim cannot be supported, write `Unknown — needs as
 - Record all major verb forms, but stage active Präteritum memorization: prioritize `sein`, `haben`, modal verbs, and high-frequency irregular verbs; for lower-priority verbs, learn Präsens and Perfekt first and recognize Präteritum before producing it.
 - For spoken completed past, teach and practice `haben/sein + Partizip II` (Perfekt) as the default. Actively produce Präteritum first for `sein`, `haben`, modal verbs, and selected common verbs; explain that Präteritum remains important for reading and B1 exam writing.
 - Track vocabulary separately as verbs, nouns, adjectives, and adverbs/phrases; update the relevant tracker automatically after teaching.
+- Select mostly everyday/B1-useful vocabulary (home, food, shopping, travel, health, appointments, people and daily routines), plus a smaller share of workplace words/phrases. No fixed numerical split was requested. Use small meaning-first batches, noun article/plural and short examples, then recall and spaced revision; include verb forms/case when teaching verbs. Record topic/use context in lessons without duplicating canonical word entries.
 - Use `Vocabulary/Verbs/Core-Verbs-Roadmap.md` to prioritize high-utility spoken verbs by tier, regularity, and topic.
 - Classify each taught verb in both a form group and a use/topic group; update `Verb-Group-Index.md` and the relevant group note automatically.
 - Track connectors in `Cheatsheets/Grammar/Connectors-Index.md` by type, logic, verb position, example, and status; update it whenever a connector is taught.

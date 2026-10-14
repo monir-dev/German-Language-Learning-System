@@ -27,7 +27,7 @@
 | synchronisieren | synchronize করা | regular / professional | synchronisiert | synchronisierte | hat synchronisiert | Akkusativ object | Introduced | [[2026-10-02__Professional-Vocabulary-Datawarehouse]] |
 | kontaktieren | যোগাযোগ করা | regular / professional | kontaktiert | kontaktierte | hat kontaktiert | Akkusativ object | Introduced | [[2026-10-05__Server-Ausfall-und-Vertraege]] |
 | einblenden | প্রদর্শন করা | separable / professional | blendet ein | blendete ein | hat eingeblendet | Akkusativ object | Introduced | [[2026-10-05__Server-Ausfall-und-Vertraege]] |
-| prüfen | পরীক্ষা/যাচাই করা | regular / professional | prüft | prüfte | hat geprüft | Akkusativ object | Introduced | [[2026-10-05__Server-Ausfall-und-Vertraege]] |
+| prüfen | পরীক্ষা/যাচাই করা | regular / professional | prüft | prüfte | hat geprüft | Akkusativ object | Needs revision | [[2026-10-12__Vocabulary-Termin-Vertrag-Pruefen]], [[2026-10-13__Vocabulary-Revision-Vertraege-Perfekt]], [[Vocabulary-Work-and-Appointments]] |
 | liegen | পড়ে/অবস্থিত থাকা | irregular / professional | liegt | lag | hat gelegen | an + Dativ | Introduced | [[2026-10-05__Server-Ausfall-und-Vertraege]] |
 | ausfallen | নষ্ট হয়ে যাওয়া | separable / irregular | fällt aus | fiel aus | ist ausgefallen | — | Introduced | [[2026-10-05__Server-Ausfall-und-Vertraege]] |
 | warten | অপেক্ষা করা | regular / professional | wartet | wartete | hat gewartet | auf + Akkusativ | Introduced | [[2026-10-05__Server-Ausfall-und-Vertraege]] |

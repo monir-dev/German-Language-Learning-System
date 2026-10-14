@@ -1,6 +1,6 @@
 # Current Progress
 
-**Last updated:** 2026-10-02
+**Last updated:** 2026-10-13
 
 ## Canonical progress record
 
@@ -10,11 +10,12 @@
 **Primary target:** Pass the B1 German exam  
 **Secondary target:** Practical German conversation in an office/workplace  
 **Optional later target:** C1  
+**Vocabulary emphasis:** Everyday words first and more often; professional words as a smaller parallel strand (explicit learner preference, 2026-10-13; no fixed numerical split).  
 **Current practical milestone:** 5–10 মিনিটের সহজ everyday conversation
 
 **Baseline assessment:** Incomplete — see [[Baseline-Assessment]]
 
-**Next session starting point:** Revise core Dativ verbs Batch 1, especially `helfen` Perfekt and `ihm/ihr/ihnen`; then begin the next Dativ batch.
+**Next session starting point:** Meaning-first vocabulary retrieval was 4/4 for Kunde, Meldung, defekt and one sentence meaning. Briefly check the pending noun plurals/compound meaning if appropriate, then choose a mainly everyday vocabulary batch with a smaller workplace component. Revisit Termin/Vertrag and Perfekt with spaced review, not as a prerequisite for all new words.
 
 ## Evidence-backed state
 
@@ -51,6 +52,31 @@
 - Dedicated speaking and listening baselines are not yet available.
 
 ## Current status
+
+### 2026-10-13 meaning-first vocabulary lesson
+
+- Latest learner direction: `amra day to day words and professonal both words sikbo. focus on day to day is more.` This is a teaching preference, not new assessment evidence; no practice time added for policy/file maintenance.
+- Learner explicitly asked to learn German words because vocabulary is weak; switched from sentence drills to direct vocabulary teaching.
+- Taught Kunde, Meldung and defekt with meanings, noun articles/plurals and short examples — [[2026-10-13__Vocabulary-Kunde-Meldung-Defekt]]. All three previously existed as Introduced entries; no newly learned-word count inferred.
+- Immediate recall/meaning: 4/4 correct (der Kunde, die Meldung, defekt, and “বার্তাটি গুরুত্বপূর্ণ”). All three target entries now Practiced, not Stable; noun plural production, independent use and delayed recall untested. Plural/compound follow-up pending.
+
+### 2026-10-13 vocabulary revision
+
+- Next-day retrieval: 3/5 correct — [[2026-10-13__Vocabulary-Revision-Vertraege-Perfekt]].
+- Fehlermeldung spelling and Heute habe ich… recalled correctly.
+- Partizip II geprüft recalled correctly; subject/auxiliary and Akkusativ article still need revision.
+- Vertrag plural was incorrect (`der Vertrags` → `die Verträge`).
+- Immediate guided follow-up: 3/3 correct for `haben`, `den Vertrag`, and `Verträge`.
+- Independent translation: 0/3 fully correct; `Terminen` for `Termine`, Termin used for Vertrag, and `hatte` instead of Perfekt `habe`. Subject/verb order, `sind wichtig`, and `geprüft` were correct components. Termin and Vertrag: Needs revision; no Stable claim. Delayed recall remains open.
+- Targeted recovery: 3/3 correct for `ein Termin`, `zwei Verträge`, and `Gestern habe ich den Vertrag geprüft.` immediately after explanation. Meanings and auxiliary recovered in a guided drill; independent transfer still needs rechecking.
+
+### 2026-10-12 vocabulary evidence
+
+- Five-word guided practice: 3/6 correct; source [[2026-10-12__Vocabulary-Termin-Vertrag-Pruefen]].
+- `Vertrag`, `wichtig`, and `du prüfst` retrieved correctly.
+- `Termin` recognized in a sentence, but time-first word order and `habe` spelling need review.
+- `Fehlermeldung` misspelled; `prüfen` Perfekt was replaced by Präsens.
+- No stable mastery or overall vocabulary-size estimate inferred from this exercise.
 
 | Area | Status | Evidence |
 |---|---|---|

@@ -10,6 +10,7 @@
 | [[Connectors-Index]] | Grammar | Learning | 2026-09-28 | [[2026-09-28__Konnektoren-Obwohl-Weil-Trotzdem-Deshalb]] |
 | [[Relative-Pronouns]] | Grammar | Learning | 2026-09-29 | [[2026-09-29__Relative-Pronouns-Dativ-Easy]] |
 | [[Case-Shortcuts]] | Grammar | Learning | 2026-09-29 | [[2026-09-29__Dative-Verbs-Core]] |
+| [[Vocabulary-Work-and-Appointments]] | Vocabulary/grammar | Learning | 2026-10-13 | [[2026-10-13__Vocabulary-Revision-Vertraege-Perfekt]], [[2026-10-13__Vocabulary-Kunde-Meldung-Defekt]] |
 
 ## Rule for future agents
 

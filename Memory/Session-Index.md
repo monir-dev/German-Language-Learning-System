@@ -1,5 +1,11 @@
 # Session Index
 
+- 2026-10-13: Vocabulary — Kunde, Meldung, defekt; immediate recall/meaning 4/4, plural follow-up pending — [[2026-10-13__Vocabulary-Kunde-Meldung-Defekt]].
+
+- 2026-10-13: Next-day vocabulary retrieval, 3/5 — [[2026-10-13__Vocabulary-Revision-Vertraege-Perfekt]].
+
+- 2026-10-12: Five-word vocabulary practice, 3/6 — [[2026-10-12__Vocabulary-Termin-Vertrag-Pruefen]].
+
 | Date | Topic | Main skill | Key evidence |
 |---|---|---|---|
 | 2026-09-24 | Präteritum und Modalverben | Conjugation, word order, vocabulary | [[2026-09-24__Praeteritum-und-Modalverben]] |

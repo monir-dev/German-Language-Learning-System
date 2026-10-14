@@ -1,5 +1,11 @@
 # Revision Queue
 
+Active learner preference (2026-10-13): meaning-first vocabulary teaching. Kunde/Meldung/defekt immediate recall and sentence meaning 4/4; plural/compound follow-up pending — [[2026-10-13__Vocabulary-Kunde-Meldung-Defekt]]. Delayed recall and independent use remain open. Prior sentence-production checks remain open for spaced review, not a gate blocking all new vocabulary.
+
+Current priority (2026-10-13): Guided follow-up 3/3, independent translation 0/3, then guided recovery 3/3 (ein Termin, zwei Verträge, ich habe … geprüft). Next test independent sentences with zwei Termine, singular Vertrag and wir haben … geprüft. Delayed recall remains open — [[2026-10-13__Vocabulary-Revision-Vertraege-Perfekt]].
+
+Current vocabulary priority (2026-10-12): Fehlermeldung spelling, time-first word order, and prüfen Perfekt. Open — [[2026-10-12__Vocabulary-Termin-Vertrag-Pruefen]].
+
 | Priority | Topic | Reason | Review condition | Status | Evidence |
 |---:|---|---|---|---|---|
 | 1 | Modalverb Präteritum spelling | Several form/spelling errors | Produce full forms and 6 sentences correctly | Open | [[Error-Log]] |

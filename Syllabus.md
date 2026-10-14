@@ -6,6 +6,8 @@ Pass the B1 German exam first, then build practical office/workplace conversatio
 
 ## Active phase
 
+**Vocabulary emphasis (learner preference, 2026-10-13):** everyday vocabulary is the main focus; professional/workplace vocabulary remains a smaller parallel strand. Rotate everyday themes (home, shopping, food, travel, health, appointments, people and routines), teaching nouns, verbs, adjectives and useful phrases in small batches with spaced revision. No fixed numerical split was specified.
+
 **Phase 3 — B1.1 consolidation**
 
 The active phase is controlled by [[Current-Progress]]. Other phases may be marked `Learning` for preparation, but the agent must teach from the active phase unless revision evidence requires a prerequisite review.

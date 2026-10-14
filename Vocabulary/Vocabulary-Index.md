@@ -12,4 +12,6 @@ Vocabulary is tracked by word type so the learner can revise and the agent can m
 
 ## Learning rule
 
+Learner preference (2026-10-13): cover everyday and professional vocabulary together, giving everyday vocabulary more attention. Prioritize everyday/B1-useful themes; keep professional words as a smaller complementary strand. Use the existing word-type trackers as canonical records; topic-based lectures/cheatsheets provide revision views, not duplicate progress records. No fixed numerical split was requested.
+
 New vocabulary is added to the relevant tracker after the learner sees and uses it. A word is not `Stable` until the learner can recognize it and use it in an original sentence.

@@ -5,7 +5,7 @@
 | die Zeit | সময় | die | die Zeiten | Zeit haben | Practiced | [[2026-09-24__Praeteritum-und-Modalverben]] |
 | der Tag | দিন | der | die Tage | jeden Tag | Learning | [[2026-09-24__Praeteritum-und-Modalverben]] |
 | der Abend | সন্ধ্যা | der | die Abende | am Abend | Learning | [[2026-09-24__Praeteritum-und-Modalverben]] |
-| der Termin | appointment | der | die Termine | einen Termin haben | Learning | [[2026-09-24__Praeteritum-und-Modalverben]] |
+| der Termin | appointment | der | die Termine | einen Termin haben | Needs revision | [[2026-10-13__Vocabulary-Revision-Vertraege-Perfekt]], [[Vocabulary-Work-and-Appointments]] |
 | das Jahr | বছর | das | die Jahre | 29 Jahre alt | Learning | [[2026-09-24__Praeteritum-und-Modalverben]] |
 | die Musik | সঙ্গীত | die | — | deutsche Musik | Practiced | [[2026-09-24__Praeteritum-und-Modalverben]] |
 | der Versicherer | insurer | der | die Versicherer | der Versicherer | Introduced | [[2026-10-02__Professional-Vocabulary-Intake]] |
@@ -16,14 +16,14 @@
 | der Benutzer | user | der | die Benutzer | der Benutzer | Introduced | [[2026-10-02__Professional-Vocabulary-Intake]] |
 | die Dauer | duration | die | die Dauern | die Dauer | Introduced | [[2026-10-02__Professional-Vocabulary-Intake]] |
 | die Statistik | statistic | die | die Statistiken | die Statistik | Introduced | [[2026-10-02__Professional-Vocabulary-Intake]] |
-| die Fehlermeldung | error message | die | die Fehlermeldungen | die Fehlermeldung | Introduced | [[2026-10-02__Professional-Vocabulary-Intake]] |
-| die Meldung | message/report/notification | die | die Meldungen | die Meldung | Introduced | [[2026-10-02__Professional-Vocabulary-Intake]] |
+| die Fehlermeldung | error message | die | die Fehlermeldungen | eine Fehlermeldung sehen | Practiced | [[2026-10-13__Vocabulary-Revision-Vertraege-Perfekt]], [[Vocabulary-Work-and-Appointments]] |
+| die Meldung | message/report/notification | die | die Meldungen | Die Meldung ist wichtig. | Practiced | [[2026-10-02__Professional-Vocabulary-Intake]], [[2026-10-13__Vocabulary-Kunde-Meldung-Defekt]] |
 | die Synchronisierung | synchronization | die | die Synchronisierungen | die Synchronisierung | Introduced | [[2026-10-02__Professional-Vocabulary-Datawarehouse]] |
 | das Data Warehouse | data warehouse | das | die Data Warehouses | das Data Warehouse | Introduced | [[2026-10-02__Professional-Vocabulary-Datawarehouse]] |
 | die Anzahl | number/quantity | die | die Anzahlen | die Anzahl | Introduced | [[2026-10-02__Professional-Vocabulary-Datawarehouse]] |
-| der Vertrag | contract | der | die Verträge | der Vertrag | Introduced | [[2026-10-02__Professional-Vocabulary-Datawarehouse]] |
+| der Vertrag | contract | der | die Verträge | den Vertrag prüfen | Needs revision | [[2026-10-13__Vocabulary-Revision-Vertraege-Perfekt]], [[Vocabulary-Work-and-Appointments]] |
 | der Status | status | der | die Status | der Status | Introduced | [[2026-10-02__Professional-Vocabulary-Datawarehouse]] |
-| der Kunde | customer | der | die Kunden | mehrere Kunden | Introduced | [[2026-10-05__Server-Ausfall-und-Vertraege]] |
+| der Kunde | customer | der | die Kunden | Der Kunde wartet. | Practiced | [[2026-10-05__Server-Ausfall-und-Vertraege]], [[2026-10-13__Vocabulary-Kunde-Meldung-Defekt]] |
 | das Kundenkonto | customer account | das | die Kundenkonten | im Kundenkonto | Introduced | [[2026-10-05__Server-Ausfall-und-Vertraege]] |
 | der Server | server | der | die Server | einer der beiden Server | Introduced | [[2026-10-05__Server-Ausfall-und-Vertraege]] |
 | der SysAdmin | system administrator | der | die SysAdmins | auf die SysAdmins warten | Introduced | [[2026-10-05__Server-Ausfall-und-Vertraege]] |
@@ -36,3 +36,5 @@
 | die Info | information | die | die Infos | mehr Infos | Introduced | [[2026-10-05__Server-Ausfall-und-Vertraege]] |
 
 Rule: noun-এর সঙ্গে article এবং plural একসঙ্গে শিখবে।
+
+2026-10-13 evidence scope: Kunde/Meldung meaning and singular article retrieved correctly; their plural recall and independent sentence use remain untested. Practiced does not mean all forms are mastered.

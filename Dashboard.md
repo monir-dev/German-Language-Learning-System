@@ -6,7 +6,7 @@
 >
 > **Formal class:** approximately 4 hours per week
 >
-> **Last updated:** 2026-09-30
+> **Last updated:** 2026-10-13
 
 ## 🧭 Current position
 
@@ -18,8 +18,9 @@
 | Optional later target | C1 |
 | Current phase | Phase 3 — B1.1 consolidation |
 | Canonical progress | [[Current-Progress]] |
-| Last lecture | [[2026-09-29__Relative-Pronouns-Dativ-Easy]] |
+| Last lecture | [[2026-10-13__Vocabulary-Kunde-Meldung-Defekt]] |
 | Main priority | B1 exam grammar, vocabulary, reading and writing; listening/speaking in class |
+| Vocabulary emphasis | Everyday words: main focus; professional words: smaller parallel strand |
 
 ## 🗺️ Visible learning path
 
@@ -85,6 +86,8 @@ See [[Revision-Queue]] and [[Error-Log]].
 - Relative pronouns: Nominativ, Akkusativ and easy Dativ practiced; harder mixed clauses remain.
 
 ## 🎯 What to learn next
+
+**Current vocabulary focus (2026-10-13):** Kunde, Meldung and defekt immediate recall/meaning 4/4 — [[2026-10-13__Vocabulary-Kunde-Meldung-Defekt]]. Next: noun plurals and Fehlermeldung meaning; delayed recall untested. Earlier results: next-day recall 3/5, guided follow-up 3/3, independent translation 0/3, guided recovery 3/3; keep these gaps for spaced revision. See [[Vocabulary-Work-and-Appointments]]. Today's workload estimate: ~17 minutes including teaching; active time not measured.
 
 1. Mixed relative-pronoun sentences with more than one clause.
 2. Akkusativ/Dativ diagnostic and article patterns.
