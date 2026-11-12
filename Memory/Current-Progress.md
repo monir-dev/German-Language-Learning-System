@@ -1,6 +1,6 @@
 # Current Progress
 
-**Last updated:** 2026-10-13
+**Last updated:** 2026-11-12 (preparation update only; latest assessed practice remains 2026-10-14)
 
 ## Canonical progress record
 
@@ -15,7 +15,9 @@
 
 **Baseline assessment:** Incomplete — see [[Baseline-Assessment]]
 
-**Next session starting point:** Meaning-first vocabulary retrieval was 4/4 for Kunde, Meldung, defekt and one sentence meaning. Briefly check the pending noun plurals/compound meaning if appropriate, then choose a mainly everyday vocabulary batch with a smaller workplace component. Revisit Termin/Vertrag and Perfekt with spaced review, not as a prerequisite for all new words.
+**Next session starting point:** The learner requested the Goethe B1 vocabulary course. First use a short delayed shopping/Termin/Vertrag recall check if appropriate, then select the first suitable ready topic lesson from `Vocabulary/Wordlists/Goethe-B1/Lesson-Index.md`; skip already-known material only after a quick check. No course lesson has yet been assessed. Latest actual practice remains [[2026-10-14__Vocabulary-Revision-und-Einkaufen]].
+
+**Course preparation continuation:** Native execution approved. First 100 targets have 20 new-word + 5 revision lessons and an A–Z candidate lookup. Full source reconciliation and remaining lessons are NOT complete. Resume `Vocabulary/Wordlists/Goethe-B1/Preparation-Log.md` and `docs/superpowers/plans/2026-11-12-goethe-b1-execution-ledger.md`; preserve current lesson files and historical evidence. Preparation time is not study time; no score/Stable status inferred.
 
 ## Evidence-backed state
 
@@ -90,3 +92,21 @@
 ## Evidence update protocol
 
 After every session, update this file only when there is new evidence. Record the date, exact task, result, and source lecture/assessment. Dashboard is a summary view; it must not become a second independent progress record.
+
+## 2026-10-14 — Vocabulary revision and shopping
+
+Delayed revision: 4/5 fully correct; meanings/plural forms 5/5, with `drei meldungen → drei Meldungen`. Kunde and Meldung plurals now produced. No Stable claim. Shopping nouns Preis, Rechnung, Angebot introduced; four-item recall pending. Source: [[2026-10-14__Vocabulary-Revision-und-Einkaufen]]. Next immediate step: assess shopping recall, then short production; keep earlier Termin/Vertrag/Perfekt for spaced review.
+
+### Shopping recall update — 2026-10-14
+
+4/4 immediate recall/meaning: `der Preis`, `die Rechnung`, `zwei Angebote` (stray backticks ignored), and correct Bengali meaning of `Das Brot ist im Angebot.` Three nouns now Practiced within this evidence scope. No Stable claim; delayed recall and independent phrase/sentence production open. Next: three short shopping production items. Source: [[2026-10-14__Vocabulary-Revision-und-Einkaufen]].
+
+### Shopping production update — 2026-10-14
+
+Shopping sentence production completed: 0/3 exact; intended meaning, vocabulary selection and word order correct across all three. Corrections: `Geben sie → Geben Sie`, `der Preis is → Der Preis ist`, `Das brot is → Das Brot ist`. Formal Sie, noun/sentence capitalization and ist spelling need revision. Three-item recovery pending; no Stable claim. Source: [[2026-10-14__Vocabulary-Revision-und-Einkaufen]].
+
+2026-10-14 targeted shopping recovery: 3/3 correct — `Geben Sie mir die Rechnung, bitte.`, `Der Preis ist hoch.`, `Das Brot ist im Angebot.` Immediate guided success; delayed independent use remains open. Earlier production errors are retained. Final reading transfer pending. Source: [[2026-10-14__Vocabulary-Revision-und-Einkaufen]].
+
+2026-10-14 reading-task response: learner wrote three correct German questions (3/3 question formation), rather than comprehension answers: `Wie viel kostet das Brot heute?`, `Ist das Brot im Angebot?`, `Wo ist die Rechnung?`. No new grammar errors; reading comprehension unscored, answers pending. Source: [[2026-10-14__Vocabulary-Revision-und-Einkaufen]].
+
+2026-10-14 final reading completed 3/3: `zwei Euro`, `Ja`, `In der Tasche.` Correct short answers; supported reading only. Today: revision 4/5 exact, shopping recall 4/4, initial production 0/3 exact, guided recovery 3/3, question formation 3/3, reading 3/3. No exercise pending. Next: delayed independent shopping use, capitalization/ist check; retain earlier Termin/Vertrag/Perfekt spaced review. No Stable claim. Source: [[2026-10-14__Vocabulary-Revision-und-Einkaufen]].

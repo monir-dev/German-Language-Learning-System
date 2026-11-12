@@ -14,6 +14,12 @@ The active phase is controlled by [[Current-Progress]]. Other phases may be mark
 
 ## Status key
 
+### Goethe B1 vocabulary strand
+
+[Course route](<Vocabulary/Wordlists/Goethe-B1/README.md>) · [Lessons](<Vocabulary/Wordlists/Goethe-B1/Lesson-Index.md>) · [A–Z](<Vocabulary/Wordlists/Goethe-B1/A-Z.md>) · [Coverage](<Vocabulary/Wordlists/Goethe-B1/Coverage.md>)
+
+Topic-wise, everyday-first, normally five targets per lesson; revision after four new-word lessons. Prepared starter: 100 targets, 20 new-word and 5 revision lessons (2026-11-12). Full source reconciliation and remaining lesson authoring are still pending. This is content-preparation status, not learned-word progress or B1 exam readiness. Existing historical practice remains valid within its recorded scope.
+
 `Not started` · `Learning` · `Practiced` · `Needs revision` · `Stable`
 
 No topic is considered completed merely because it was explained once.

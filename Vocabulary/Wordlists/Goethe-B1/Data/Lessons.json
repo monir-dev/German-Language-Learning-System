@@ -1,0 +1,660 @@
+[
+  {
+    "id": "GB1-L001",
+    "topic": "Personen und Kontakt",
+    "kind": "new",
+    "target_ids": [
+      "gb1-47dc3f0a0879",
+      "gb1-3f93ab1c5aba",
+      "gb1-8b6fee8547db",
+      "gb1-7fcd8346f3a0",
+      "gb1-b633d869c8a3"
+    ],
+    "review_target_ids": [],
+    "preparation_state": "ready",
+    "source_refs": [
+      17,
+      66,
+      70
+    ]
+  },
+  {
+    "id": "GB1-L002",
+    "topic": "Familie",
+    "kind": "new",
+    "target_ids": [
+      "gb1-efd7d2a554cf",
+      "gb1-2efe0e24e5e8",
+      "gb1-80a8ef86b390",
+      "gb1-b75c327ee111",
+      "gb1-7abc6e626555"
+    ],
+    "review_target_ids": [],
+    "preparation_state": "ready",
+    "source_refs": [
+      35,
+      39,
+      54,
+      65,
+      91
+    ]
+  },
+  {
+    "id": "GB1-L003",
+    "topic": "Sich vorstellen und wohnen",
+    "kind": "new",
+    "target_ids": [
+      "gb1-1d8ad3aa4f37",
+      "gb1-228192eb9692",
+      "gb1-8203128578ed",
+      "gb1-b182231dffa4",
+      "gb1-c0e2af4cb45d"
+    ],
+    "review_target_ids": [],
+    "preparation_state": "ready",
+    "source_refs": [
+      49,
+      56,
+      59,
+      82,
+      99
+    ]
+  },
+  {
+    "id": "GB1-L004",
+    "topic": "Einkaufen — Preis und Zahlung",
+    "kind": "new",
+    "target_ids": [
+      "gb1-9b8629bf9457",
+      "gb1-b260c644f3ed",
+      "gb1-badf84832f48",
+      "gb1-5bbcc1da4567",
+      "gb1-035bf0cf765d"
+    ],
+    "review_target_ids": [],
+    "preparation_state": "ready",
+    "source_refs": [
+      18,
+      27,
+      54,
+      71,
+      73
+    ]
+  },
+  {
+    "id": "GB1-R001",
+    "topic": "Mixed revision — GB1-R001",
+    "kind": "review",
+    "target_ids": [],
+    "review_target_ids": [
+      "gb1-47dc3f0a0879",
+      "gb1-3f93ab1c5aba",
+      "gb1-8b6fee8547db",
+      "gb1-7fcd8346f3a0",
+      "gb1-b633d869c8a3",
+      "gb1-efd7d2a554cf",
+      "gb1-2efe0e24e5e8",
+      "gb1-80a8ef86b390",
+      "gb1-b75c327ee111",
+      "gb1-7abc6e626555",
+      "gb1-1d8ad3aa4f37",
+      "gb1-228192eb9692",
+      "gb1-8203128578ed",
+      "gb1-b182231dffa4",
+      "gb1-c0e2af4cb45d",
+      "gb1-9b8629bf9457",
+      "gb1-b260c644f3ed",
+      "gb1-badf84832f48",
+      "gb1-5bbcc1da4567",
+      "gb1-035bf0cf765d"
+    ],
+    "preparation_state": "ready",
+    "source_refs": [
+      17,
+      18,
+      27,
+      35,
+      39,
+      49,
+      54,
+      56,
+      59,
+      65,
+      66,
+      70,
+      71,
+      73,
+      82,
+      91,
+      99
+    ]
+  },
+  {
+    "id": "GB1-L005",
+    "topic": "Essen — Grundnahrungsmittel",
+    "kind": "new",
+    "target_ids": [
+      "gb1-90a298e5499a",
+      "gb1-b5393e56431b",
+      "gb1-177ad0e9b2b3",
+      "gb1-40fa0d61120d",
+      "gb1-1798e73cf8f5"
+    ],
+    "review_target_ids": [],
+    "preparation_state": "ready",
+    "source_refs": [
+      13,
+      28,
+      33,
+      40,
+      74
+    ]
+  },
+  {
+    "id": "GB1-L006",
+    "topic": "Frühstück, Hunger und Durst",
+    "kind": "new",
+    "target_ids": [
+      "gb1-f732e45c0944",
+      "gb1-697d3a30f3bb",
+      "gb1-10461a743cb4",
+      "gb1-00f7d5733c68",
+      "gb1-5638254de7ba"
+    ],
+    "review_target_ids": [],
+    "preparation_state": "ready",
+    "source_refs": [
+      32,
+      38,
+      42,
+      51,
+      88
+    ]
+  },
+  {
+    "id": "GB1-L007",
+    "topic": "Wohnung und Räume",
+    "kind": "new",
+    "target_ids": [
+      "gb1-cd08f6fc0f5e",
+      "gb1-47a6f6a3e0bd",
+      "gb1-6dc3644b4f57",
+      "gb1-aabafd741340",
+      "gb1-30b2ebedf9bc"
+    ],
+    "review_target_ids": [],
+    "preparation_state": "ready",
+    "source_refs": [
+      23,
+      57,
+      64,
+      99,
+      100
+    ]
+  },
+  {
+    "id": "GB1-L008",
+    "topic": "Möbel und Fenster",
+    "kind": "new",
+    "target_ids": [
+      "gb1-40e255915ddb",
+      "gb1-fea62de95d74",
+      "gb1-451c4c5a8453",
+      "gb1-91e4e3f80a58",
+      "gb1-a81db4f9d526"
+    ],
+    "review_target_ids": [],
+    "preparation_state": "ready",
+    "source_refs": [
+      26,
+      39,
+      78,
+      84,
+      87
+    ]
+  },
+  {
+    "id": "GB1-R002",
+    "topic": "Mixed revision — GB1-R002",
+    "kind": "review",
+    "target_ids": [],
+    "review_target_ids": [
+      "gb1-90a298e5499a",
+      "gb1-b5393e56431b",
+      "gb1-177ad0e9b2b3",
+      "gb1-40fa0d61120d",
+      "gb1-1798e73cf8f5",
+      "gb1-f732e45c0944",
+      "gb1-697d3a30f3bb",
+      "gb1-10461a743cb4",
+      "gb1-00f7d5733c68",
+      "gb1-5638254de7ba",
+      "gb1-cd08f6fc0f5e",
+      "gb1-47a6f6a3e0bd",
+      "gb1-6dc3644b4f57",
+      "gb1-aabafd741340",
+      "gb1-30b2ebedf9bc",
+      "gb1-40e255915ddb",
+      "gb1-fea62de95d74",
+      "gb1-451c4c5a8453",
+      "gb1-91e4e3f80a58",
+      "gb1-a81db4f9d526"
+    ],
+    "preparation_state": "ready",
+    "source_refs": [
+      13,
+      23,
+      26,
+      28,
+      32,
+      33,
+      38,
+      39,
+      40,
+      42,
+      51,
+      57,
+      64,
+      74,
+      78,
+      84,
+      87,
+      88,
+      99,
+      100
+    ]
+  },
+  {
+    "id": "GB1-L009",
+    "topic": "Unterwegs — Bus und Bahn",
+    "kind": "new",
+    "target_ids": [
+      "gb1-2181188c6017",
+      "gb1-0ba38628ca02",
+      "gb1-d1941ddebbec",
+      "gb1-830a38106ed8",
+      "gb1-f6c51cdcab21"
+    ],
+    "review_target_ids": [],
+    "preparation_state": "ready",
+    "source_refs": [
+      23,
+      29,
+      39,
+      48,
+      101
+    ]
+  },
+  {
+    "id": "GB1-L010",
+    "topic": "Unterwegs — Bewegungsverben",
+    "kind": "new",
+    "target_ids": [
+      "gb1-1b8218338b12",
+      "gb1-94cc63d2fb22",
+      "gb1-3a8f1fe20d35",
+      "gb1-658b78d30529",
+      "gb1-99142bf1fe36"
+    ],
+    "review_target_ids": [],
+    "preparation_state": "ready",
+    "source_refs": [
+      18,
+      38,
+      44,
+      90,
+      96
+    ]
+  },
+  {
+    "id": "GB1-L011",
+    "topic": "Gesundheit — Hilfe finden",
+    "kind": "new",
+    "target_ids": [
+      "gb1-0ca4f4c8dd56",
+      "gb1-7e48f0570604",
+      "gb1-cb73c4d0ff92",
+      "gb1-5dec37c6c07b",
+      "gb1-9bf0810ea4ec"
+    ],
+    "review_target_ids": [],
+    "preparation_state": "ready",
+    "source_refs": [
+      19,
+      20,
+      57,
+      62
+    ]
+  },
+  {
+    "id": "GB1-L012",
+    "topic": "Gesundheit — Befinden",
+    "kind": "new",
+    "target_ids": [
+      "gb1-ae1363adf190",
+      "gb1-7cc816dcf92f",
+      "gb1-103407c58365",
+      "gb1-4c97c33ffe68",
+      "gb1-83e0554aea18"
+    ],
+    "review_target_ids": [],
+    "preparation_state": "ready",
+    "source_refs": [
+      46,
+      57,
+      64,
+      77,
+      86
+    ]
+  },
+  {
+    "id": "GB1-R003",
+    "topic": "Mixed revision — GB1-R003",
+    "kind": "review",
+    "target_ids": [],
+    "review_target_ids": [
+      "gb1-2181188c6017",
+      "gb1-0ba38628ca02",
+      "gb1-d1941ddebbec",
+      "gb1-830a38106ed8",
+      "gb1-f6c51cdcab21",
+      "gb1-1b8218338b12",
+      "gb1-94cc63d2fb22",
+      "gb1-3a8f1fe20d35",
+      "gb1-658b78d30529",
+      "gb1-99142bf1fe36",
+      "gb1-0ca4f4c8dd56",
+      "gb1-7e48f0570604",
+      "gb1-cb73c4d0ff92",
+      "gb1-5dec37c6c07b",
+      "gb1-9bf0810ea4ec",
+      "gb1-ae1363adf190",
+      "gb1-7cc816dcf92f",
+      "gb1-103407c58365",
+      "gb1-4c97c33ffe68",
+      "gb1-83e0554aea18"
+    ],
+    "preparation_state": "ready",
+    "source_refs": [
+      18,
+      19,
+      20,
+      23,
+      29,
+      38,
+      39,
+      44,
+      46,
+      48,
+      57,
+      62,
+      64,
+      77,
+      86,
+      90,
+      96,
+      101
+    ]
+  },
+  {
+    "id": "GB1-L013",
+    "topic": "Zeit und Dauer",
+    "kind": "new",
+    "target_ids": [
+      "gb1-b141ff41e317",
+      "gb1-8fa12de8926d",
+      "gb1-eb4d52ff8188",
+      "gb1-2e751c6be4c1",
+      "gb1-d7ab7ecdc11c"
+    ],
+    "review_target_ids": [],
+    "preparation_state": "ready",
+    "source_refs": [
+      15,
+      85,
+      89
+    ]
+  },
+  {
+    "id": "GB1-L014",
+    "topic": "Zeit im Alltag",
+    "kind": "new",
+    "target_ids": [
+      "gb1-ccdc1f2b34ad",
+      "gb1-29f0586e1cd0",
+      "gb1-d896ed56414f",
+      "gb1-6cec092fd49f",
+      "gb1-53de4f752e69"
+    ],
+    "review_target_ids": [],
+    "preparation_state": "ready",
+    "source_refs": [
+      42,
+      46,
+      50,
+      72,
+      81
+    ]
+  },
+  {
+    "id": "GB1-L015",
+    "topic": "Fragen und Antworten",
+    "kind": "new",
+    "target_ids": [
+      "gb1-f553e11e34fd",
+      "gb1-7bd692124367",
+      "gb1-9f6c18a24230",
+      "gb1-a544984a41b5",
+      "gb1-371ac254768a"
+    ],
+    "review_target_ids": [],
+    "preparation_state": "ready",
+    "source_refs": [
+      19,
+      41,
+      94
+    ]
+  },
+  {
+    "id": "GB1-L016",
+    "topic": "Im Büro — Menschen und Aufgaben",
+    "kind": "new",
+    "target_ids": [
+      "gb1-6f141b591151",
+      "gb1-0aecfda6c82f",
+      "gb1-7d742e02a340",
+      "gb1-46b2c668e9d8",
+      "gb1-d63d99892fa7"
+    ],
+    "review_target_ids": [],
+    "preparation_state": "ready",
+    "source_refs": [
+      20,
+      26,
+      55,
+      58,
+      98
+    ]
+  },
+  {
+    "id": "GB1-R004",
+    "topic": "Mixed revision — GB1-R004",
+    "kind": "review",
+    "target_ids": [],
+    "review_target_ids": [
+      "gb1-b141ff41e317",
+      "gb1-8fa12de8926d",
+      "gb1-eb4d52ff8188",
+      "gb1-2e751c6be4c1",
+      "gb1-d7ab7ecdc11c",
+      "gb1-ccdc1f2b34ad",
+      "gb1-29f0586e1cd0",
+      "gb1-d896ed56414f",
+      "gb1-6cec092fd49f",
+      "gb1-53de4f752e69",
+      "gb1-f553e11e34fd",
+      "gb1-7bd692124367",
+      "gb1-9f6c18a24230",
+      "gb1-a544984a41b5",
+      "gb1-371ac254768a",
+      "gb1-6f141b591151",
+      "gb1-0aecfda6c82f",
+      "gb1-7d742e02a340",
+      "gb1-46b2c668e9d8",
+      "gb1-d63d99892fa7"
+    ],
+    "preparation_state": "ready",
+    "source_refs": [
+      15,
+      19,
+      20,
+      26,
+      41,
+      42,
+      46,
+      50,
+      55,
+      58,
+      72,
+      81,
+      85,
+      89,
+      94,
+      98
+    ]
+  },
+  {
+    "id": "GB1-L017",
+    "topic": "Einkaufen — Laden und Kasse",
+    "kind": "new",
+    "target_ids": [
+      "gb1-135afbbc84c2",
+      "gb1-e8eca2206559",
+      "gb1-4e6780461da0",
+      "gb1-cf7a2587360a",
+      "gb1-6bdb7a17de4e"
+    ],
+    "review_target_ids": [],
+    "preparation_state": "ready",
+    "source_refs": [
+      44,
+      45,
+      54,
+      62,
+      72
+    ]
+  },
+  {
+    "id": "GB1-L018",
+    "topic": "Dinge beschreiben",
+    "kind": "new",
+    "target_ids": [
+      "gb1-5656522c0f35",
+      "gb1-f3f47382a985",
+      "gb1-af6f07cfa133",
+      "gb1-6ef64d3e7411",
+      "gb1-d5c1c3ea36bd"
+    ],
+    "review_target_ids": [],
+    "preparation_state": "ready",
+    "source_refs": [
+      27,
+      54,
+      68,
+      76,
+      86
+    ]
+  },
+  {
+    "id": "GB1-L019",
+    "topic": "Tagesablauf — Verben",
+    "kind": "new",
+    "target_ids": [
+      "gb1-6ec0a45c96c5",
+      "gb1-d56eb128d928",
+      "gb1-8c3b07da0c5a",
+      "gb1-a2ab47f396b2",
+      "gb1-5e2d03f60a20"
+    ],
+    "review_target_ids": [],
+    "preparation_state": "ready",
+    "source_refs": [
+      21,
+      32,
+      34,
+      42,
+      77
+    ]
+  },
+  {
+    "id": "GB1-L020",
+    "topic": "Gefühle und Hoffnung",
+    "kind": "new",
+    "target_ids": [
+      "gb1-32494a58b0dd",
+      "gb1-3bba22e9c852",
+      "gb1-d1aaef3aac03",
+      "gb1-41b6bf01d976",
+      "gb1-d903ad9dfcbb"
+    ],
+    "review_target_ids": [],
+    "preparation_state": "ready",
+    "source_refs": [
+      18,
+      46,
+      50,
+      87,
+      101
+    ]
+  },
+  {
+    "id": "GB1-R005",
+    "topic": "Mixed revision — GB1-R005",
+    "kind": "review",
+    "target_ids": [],
+    "review_target_ids": [
+      "gb1-135afbbc84c2",
+      "gb1-e8eca2206559",
+      "gb1-4e6780461da0",
+      "gb1-cf7a2587360a",
+      "gb1-6bdb7a17de4e",
+      "gb1-5656522c0f35",
+      "gb1-f3f47382a985",
+      "gb1-af6f07cfa133",
+      "gb1-6ef64d3e7411",
+      "gb1-d5c1c3ea36bd",
+      "gb1-6ec0a45c96c5",
+      "gb1-d56eb128d928",
+      "gb1-8c3b07da0c5a",
+      "gb1-a2ab47f396b2",
+      "gb1-5e2d03f60a20",
+      "gb1-32494a58b0dd",
+      "gb1-3bba22e9c852",
+      "gb1-d1aaef3aac03",
+      "gb1-41b6bf01d976",
+      "gb1-d903ad9dfcbb"
+    ],
+    "preparation_state": "ready",
+    "source_refs": [
+      18,
+      21,
+      27,
+      32,
+      34,
+      42,
+      44,
+      45,
+      46,
+      50,
+      54,
+      62,
+      68,
+      72,
+      76,
+      77,
+      86,
+      87,
+      101
+    ]
+  }
+]

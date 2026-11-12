@@ -38,3 +38,22 @@
 Rule: noun-এর সঙ্গে article এবং plural একসঙ্গে শিখবে।
 
 2026-10-13 evidence scope: Kunde/Meldung meaning and singular article retrieved correctly; their plural recall and independent sentence use remain untested. Practiced does not mean all forms are mastered.
+
+## Shopping — introduced 2026-10-14
+
+| Noun | Meaning | Gender | Plural | Useful phrase | Status | Evidence |
+|---|---|---|---|---|---|---|
+| der Preis | দাম | der | die Preise | Der Preis ist hoch. | Practiced | [[2026-10-14__Vocabulary-Revision-und-Einkaufen]], [[Vocabulary-Shopping]] |
+| die Rechnung | বিল / invoice | die | die Rechnungen | Die Rechnung, bitte. | Practiced | [[2026-10-14__Vocabulary-Revision-und-Einkaufen]], [[Vocabulary-Shopping]] |
+| das Angebot | বিশেষ অফার / প্রস্তাব | das | die Angebote | im Angebot | Practiced | [[2026-10-14__Vocabulary-Revision-und-Einkaufen]], [[Vocabulary-Shopping]] |
+
+2026-10-14 delayed evidence: Kunde singular/article and Kunden plural correct; Meldungen plural correct with capitalization correction. Fehlermeldung meaning correct. Existing statuses retained; independent sentence use remains untested. Source: [[2026-10-14__Vocabulary-Revision-und-Einkaufen]].
+
+
+2026-10-14 recall update: Preis/Rechnung articles and meanings, Angebote plural and the sentence meaning correct (4/4). No Stable claim. Evidence: [[2026-10-14__Vocabulary-Revision-und-Einkaufen]].
+
+2026-10-14 production evidence: shopping nouns used appropriately in three meaningful sentences; 0/3 exact due to capitalization and `is → ist`. Practiced status retained. Patterns: `Geben Sie mir die Rechnung, bitte.`, `Der Preis ist hoch.`, `Das Brot ist im Angebot.` Independent delayed use remains open. [[2026-10-14__Vocabulary-Revision-und-Einkaufen]].
+
+2026-10-14 guided recovery: shopping sentences 3/3 correct immediately after correction; retained Practiced status, delayed independent use still open. Reading support introduced: `die Tasche`, plural `die Taschen`, ব্যাগ, phrase `in der Tasche` = ব্যাগের মধ্যে. Status Introduced; recall unassessed. Source: [[2026-10-14__Vocabulary-Revision-und-Einkaufen]], [[Vocabulary-Shopping]].
+
+2026-10-14 final reading: 3/3 correct short answers, including `In der Tasche.` Supported comprehension observed; Tasche independent recall untested. Shopping recall 4/4 and guided sentence recovery 3/3; delayed independent use remains open. [[2026-10-14__Vocabulary-Revision-und-Einkaufen]].

@@ -43,3 +43,7 @@ ich prüfe · du prüfst · er/sie/es prüft · wir prüfen · ihr prüft · sie
 - Ich habe den Vertrag geprüft. — আমি চুক্তিটি যাচাই করেছি।
 
 Revision evidence: [[2026-10-12__Vocabulary-Termin-Vertrag-Pruefen]] (3/6) and [[2026-10-13__Vocabulary-Revision-Vertraege-Perfekt]] (3/5, guided follow-up 3/3, independent translation 0/3, targeted recovery 3/3). Latest guided recovery: ein Termin, zwei Verträge, Gestern habe ich den Vertrag geprüft all correct. Independent transfer and delayed recall remain open.
+
+## Delayed check — 2026-10-14
+
+[[2026-10-14__Vocabulary-Revision-und-Einkaufen]]: Kunde/defekt meanings and Fehlermeldung meaning correct; `zwei Kunden` correct; `drei meldungen` needs capitalization: `drei Meldungen`. Earlier plural follow-up assessed. Independent sentence use remains open.

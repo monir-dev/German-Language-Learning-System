@@ -2,6 +2,8 @@
 
 Vocabulary is tracked by word type so the learner can revise and the agent can measure gaps separately.
 
+**Goethe B1 course:** [Home](<Wordlists/Goethe-B1/README.md>) · [Topic lessons](<Wordlists/Goethe-B1/Lesson-Index.md>) · [A–Z](<Wordlists/Goethe-B1/A-Z.md>) · [Source audit](<Wordlists/Goethe-B1/Coverage.md>)। Starter material ready; full source review/authoring pending. Inventory tracks source mapping, not learner mastery; canonical learning statuses remain in the trackers below.
+
 | Area | Tracker | Roadmap/notes |
 |---|---|---|
 | Verbs | [[Verb-Tracker]] | [[Core-Verbs-Roadmap]], [[Verb-Group-Index]], [[Akkusativ-Verbs]], [[Dative-Verbs]] |

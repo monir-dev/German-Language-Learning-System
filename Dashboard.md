@@ -6,7 +6,15 @@
 >
 > **Formal class:** approximately 4 hours per week
 >
-> **Last updated:** 2026-10-13
+> **Last updated:** 2026-11-12 (course preparation; no new practice assessment)
+
+## 📚 Goethe B1 vocabulary course
+
+**Topic-wise + A–Z lookup** · [Course home](<Vocabulary/Wordlists/Goethe-B1/README.md>) · [Lesson 1](<Vocabulary/Wordlists/Goethe-B1/Lessons/GB1-L001.md>) · [All ready lessons](<Vocabulary/Wordlists/Goethe-B1/Lesson-Index.md>) · [A–Z](<Vocabulary/Wordlists/Goethe-B1/A-Z.md>)
+
+**Material prepared:** 100 targets → 20 new-word lessons + 5 reviews. **Full course: incomplete.** [Coverage and pending work](<Vocabulary/Wordlists/Goethe-B1/Coverage.md>).
+
+`প্রস্তুত material` ≠ `পড়া হয়েছে` ≠ `মনে আছে` ≠ `ব্যবহার করতে পারি`। Candidate count is provisional; no B1 proficiency percentage inferred. Actual latest learner state: [[Current-Progress]].
 
 ## 🧭 Current position
 
@@ -18,7 +26,7 @@
 | Optional later target | C1 |
 | Current phase | Phase 3 — B1.1 consolidation |
 | Canonical progress | [[Current-Progress]] |
-| Last lecture | [[2026-10-13__Vocabulary-Kunde-Meldung-Defekt]] |
+| Last lecture | [[2026-10-14__Vocabulary-Revision-und-Einkaufen]] |
 | Main priority | B1 exam grammar, vocabulary, reading and writing; listening/speaking in class |
 | Vocabulary emphasis | Everyday words: main focus; professional words: smaller parallel strand |
 
@@ -37,7 +45,7 @@
 | B1.1 grammar foundation | Learning           | Modal verbs, tenses, connectors, relative pronouns | Mixed retrieval and error revision         |
 | Verb system             | Learning           | 6 modal verbs; `machen`, `lernen`, `arbeiten`      | More sentence production and Perfekt       |
 | Cases                   | Learning           | Relative-pronoun Nominativ/Akkusativ/Dativ drills  | Akkusativ/Dativ baseline                   |
-| Vocabulary              | Learning           | 28 tracked entries; active recall remains weak     | High-utility B1 verbs, nouns and phrases   |
+| Vocabulary              | Learning           | Evidence in word-type trackers; course preparation is separate | Everyday-first Goethe topic lessons and spaced recall |
 | Reading                 | Not assessed       | No baseline evidence yet                           | Start B1 reading task                      |
 | Writing                 | Learning           | Short sentence production                          | B1 email/opinion tasks                     |
 | Listening/speaking      | Practiced in class | Separate agent baseline deferred                   | Continue in class; add here if requested   |
@@ -115,3 +123,19 @@ The next agent should review the highest-priority recurring error, test retrieva
 - [[Verb-Group-Index]] · modal, regular, irregular, reflexive, and preposition groups
 - [[Connectors-Index]] · connector master tracker
 - [[Resource-Index]] · available study materials
+
+## Latest practice — 2026-10-14
+
+[[2026-10-14__Vocabulary-Revision-und-Einkaufen]]: delayed vocabulary revision 4/5 exact, one capitalization error. Kunde/Meldung plurals retrieved. Three everyday shopping nouns introduced; recall pending. Cheatsheets: [[Vocabulary-Shopping]], [[Vocabulary-Work-and-Appointments]]. Canonical state: [[Current-Progress]].
+
+Latest update — 2026-10-14: shopping recall completed 4/4; three nouns Practiced within immediate recall scope. Sentence/phrase production and delayed recall remain open. Source: [[2026-10-14__Vocabulary-Revision-und-Einkaufen]]; [[Vocabulary-Shopping]].
+
+### Shopping production update — 2026-10-14
+
+Shopping sentence production completed: 0/3 exact; intended meaning, vocabulary selection and word order correct across all three. Corrections: `Geben sie → Geben Sie`, `der Preis is → Der Preis ist`, `Das brot is → Das Brot ist`. Formal Sie, noun/sentence capitalization and ist spelling need revision. Three-item recovery pending; no Stable claim. Source: [[2026-10-14__Vocabulary-Revision-und-Einkaufen]].
+
+2026-10-14 targeted shopping recovery: 3/3 correct — `Geben Sie mir die Rechnung, bitte.`, `Der Preis ist hoch.`, `Das Brot ist im Angebot.` Immediate guided success; delayed independent use remains open. Earlier production errors are retained. Final reading transfer pending. Source: [[2026-10-14__Vocabulary-Revision-und-Einkaufen]].
+
+2026-10-14 reading-task response: learner wrote three correct German questions (3/3 question formation), rather than comprehension answers: `Wie viel kostet das Brot heute?`, `Ist das Brot im Angebot?`, `Wo ist die Rechnung?`. No new grammar errors; reading comprehension unscored, answers pending. Source: [[2026-10-14__Vocabulary-Revision-und-Einkaufen]].
+
+2026-10-14 final reading completed 3/3: `zwei Euro`, `Ja`, `In der Tasche.` Correct short answers; supported reading only. Today: revision 4/5 exact, shopping recall 4/4, initial production 0/3 exact, guided recovery 3/3, question formation 3/3, reading 3/3. No exercise pending. Next: delayed independent shopping use, capitalization/ist check; retain earlier Termin/Vertrag/Perfekt spaced review. No Stable claim. Source: [[2026-10-14__Vocabulary-Revision-und-Einkaufen]].

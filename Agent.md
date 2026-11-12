@@ -66,6 +66,16 @@ If a file is missing or a claim cannot be supported, write `Unknown — needs as
 
 ## Evidence and anti-hallucination rules
 
+### Goethe B1 course continuity
+
+- Course entry point: `Vocabulary/Wordlists/Goethe-B1/README.md`; source/authoring state: `Coverage.md` and `Preparation-Log.md` in that folder.
+- Topic-wise teaching + A–Z lookup were approved on 2026-11-12. Normally five targets per lesson, everyday vocabulary first, with mixed review after four new-word lessons.
+- Prepared course lessons are not dated practice lectures. Start from the first suitable ready lesson after a short recall check; do not force already-known material or infer mastery from a file existing.
+- The full source course is still incomplete: first 100 teaching targets/20 new-word lessons + 5 reviews are ready; the A–Z candidate list is not an audited final word list. Check the latest generated counts before quoting numbers.
+- Word-type trackers remain canonical for learning status. Course Inventory links are references/snapshots; read live trackers and dated lectures for learner evidence. Keep source coverage, content preparation and learner attainment separate.
+- When asked to continue preparing the complete course, resume the approved plan and execution ledger; do not simply repeat the first batch or mark unresolved source blocks complete.
+- Do not overwrite learner-edited lesson notes during regeneration; the builder refuses modified generated lessons for that reason.
+
 - Never mark a topic complete without a link to a lecture, exercise, or assessment.
 - Preserve the learner's original answer before writing the correction.
 - Never claim a session happened if no dated lecture exists.

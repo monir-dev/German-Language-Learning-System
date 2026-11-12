@@ -93,3 +93,13 @@
 | 2026-09-28 | Verb choice/form | `mache ich arbeiten` | `arbeite ich` | 1 | Needs revision | [[2026-09-28__Konnektoren-Obwohl-Weil-Trotzdem-Deshalb]] |
 | 2026-09-28 | Modal Präsens pattern | `willt` | `will` for `er/sie/es` | 1 | Needs revision | [[2026-09-28__Modalverben-Full-Forms-Durfen-Wollen]] |
 | 2026-09-28 | Präteritum spelling | `muchte` | `mochte` | 1 | Needs revision | [[2026-09-28__Modalverben-Sollen-Moegen-Retrieval]] |
+
+## 2026-10-14 — Noun capitalization
+
+- `drei meldungen` → `drei Meldungen`; correct meaning and plural, noun initial must be capitalized. Other four revision answers correct. Source: [[2026-10-14__Vocabulary-Revision-und-Einkaufen]].
+
+### Shopping production update — 2026-10-14
+
+Shopping sentence production completed: 0/3 exact; intended meaning, vocabulary selection and word order correct across all three. Corrections: `Geben sie → Geben Sie`, `der Preis is → Der Preis ist`, `Das brot is → Das Brot ist`. Formal Sie, noun/sentence capitalization and ist spelling need revision. Three-item recovery pending; no Stable claim. Source: [[2026-10-14__Vocabulary-Revision-und-Einkaufen]].
+
+2026-10-14 targeted shopping recovery: 3/3 correct — `Geben Sie mir die Rechnung, bitte.`, `Der Preis ist hoch.`, `Das Brot ist im Angebot.` Immediate guided success; delayed independent use remains open. Earlier production errors are retained. Final reading transfer pending. Source: [[2026-10-14__Vocabulary-Revision-und-Einkaufen]].

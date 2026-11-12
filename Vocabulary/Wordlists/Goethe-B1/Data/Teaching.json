@@ -1,0 +1,2904 @@
+{
+  "gb1-47dc3f0a0879": {
+    "lemma": "Person",
+    "word_type": "noun",
+    "bn_meanings": [
+      "ব্যক্তি"
+    ],
+    "grammar": {
+      "article": "die",
+      "plural": "die Personen"
+    },
+    "usage_notes": "",
+    "original_examples": [
+      {
+        "de": "Diese Person wartet hier.",
+        "bn": "এই ব্যক্তি এখানে অপেক্ষা করছেন।"
+      }
+    ],
+    "exercise": "ব্যক্তি — noun ও article লেখো; plural-ও মনে করার চেষ্টা করো।",
+    "answer": "die Person; plural: die Personen",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "70a8801903d0883c7c9bfe8a0eb2fa242f68fa90a9c08a434f1acc412c6d7152",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-47dc3f0a0879",
+    "pdf_pages": [
+      70
+    ]
+  },
+  "gb1-3f93ab1c5aba": {
+    "lemma": "Name",
+    "word_type": "noun",
+    "bn_meanings": [
+      "নাম"
+    ],
+    "grammar": {
+      "article": "der",
+      "plural": "die Namen"
+    },
+    "usage_notes": "Name-এর Akkusativ: den Namen; নামের বানান বলতে: den Namen buchstabieren।",
+    "original_examples": [
+      {
+        "de": "Mein Name steht auf der Rechnung.",
+        "bn": "বিলের ওপর আমার নাম আছে।"
+      }
+    ],
+    "exercise": "নাম — noun ও article লেখো; plural-ও মনে করার চেষ্টা করো।",
+    "answer": "der Name; plural: die Namen",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "cd18aeb3408b156f85c697336f38b84f8e414cb0735ec40efb52ef1ec3671ccb",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-3f93ab1c5aba",
+    "pdf_pages": [
+      66
+    ]
+  },
+  "gb1-8b6fee8547db": {
+    "lemma": "Vorname",
+    "word_type": "noun",
+    "bn_meanings": [
+      "নামের প্রথম অংশ / first name"
+    ],
+    "grammar": {
+      "article": "der",
+      "plural": "die Vornamen"
+    },
+    "usage_notes": "Vorname এবং Familienname আলাদা করে শিখবে।",
+    "original_examples": [
+      {
+        "de": "Mein Vorname ist Ali.",
+        "bn": "আমার first name আলী।"
+      }
+    ],
+    "exercise": "নামের প্রথম অংশ / first name — noun ও article লেখো; plural-ও মনে করার চেষ্টা করো।",
+    "answer": "der Vorname; plural: die Vornamen",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "b5989ef5ec803cf3caa032022b1a03c202870542a27637b6520ce1de262d5cb3",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-8b6fee8547db",
+    "pdf_pages": [
+      66
+    ]
+  },
+  "gb1-7fcd8346f3a0": {
+    "lemma": "Familienname",
+    "word_type": "noun",
+    "bn_meanings": [
+      "পারিবারিক নাম / surname"
+    ],
+    "grammar": {
+      "article": "der",
+      "plural": "die Familiennamen"
+    },
+    "usage_notes": "সমার্থক প্রচলিত শব্দ: Nachname; এই lesson-এর আলাদা target নয়।",
+    "original_examples": [
+      {
+        "de": "Khan ist mein Familienname.",
+        "bn": "খান আমার পারিবারিক নাম।"
+      }
+    ],
+    "exercise": "পারিবারিক নাম / surname — noun ও article লেখো; plural-ও মনে করার চেষ্টা করো।",
+    "answer": "der Familienname; plural: die Familiennamen",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "0ae4b335c6f7b99a9079f98feeb62e8be12327cfef46fd4855e53e84f1b9463b",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-7fcd8346f3a0",
+    "pdf_pages": [
+      66
+    ]
+  },
+  "gb1-b633d869c8a3": {
+    "lemma": "Adresse",
+    "word_type": "noun",
+    "bn_meanings": [
+      "ঠিকানা"
+    ],
+    "grammar": {
+      "article": "die",
+      "plural": "die Adressen"
+    },
+    "usage_notes": "",
+    "original_examples": [
+      {
+        "de": "Meine Adresse ist neu.",
+        "bn": "আমার ঠিকানা নতুন।"
+      }
+    ],
+    "exercise": "ঠিকানা — noun ও article লেখো; plural-ও মনে করার চেষ্টা করো।",
+    "answer": "die Adresse; plural: die Adressen",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "4f8997951f2a8e88657bad7f5c6bac7296701bc1758f6c9981461e0ab5d9f07f",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-b633d869c8a3",
+    "pdf_pages": [
+      17
+    ]
+  },
+  "gb1-efd7d2a554cf": {
+    "lemma": "Familie",
+    "word_type": "noun",
+    "bn_meanings": [
+      "পরিবার"
+    ],
+    "grammar": {
+      "article": "die",
+      "plural": "die Familien"
+    },
+    "usage_notes": "",
+    "original_examples": [
+      {
+        "de": "Meine Familie wohnt in Berlin.",
+        "bn": "আমার পরিবার বার্লিনে থাকে।"
+      }
+    ],
+    "exercise": "পরিবার — noun ও article লেখো; plural-ও মনে করার চেষ্টা করো।",
+    "answer": "die Familie; plural: die Familien",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "a5092c71f6148f7200f5bc9b1dc6548bd71801569887d644ec01ce082eec8c4b",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-efd7d2a554cf",
+    "pdf_pages": [
+      39
+    ]
+  },
+  "gb1-2efe0e24e5e8": {
+    "lemma": "Eltern",
+    "word_type": "noun",
+    "bn_meanings": [
+      "বাবা-মা / parents"
+    ],
+    "grammar": {
+      "article": "die",
+      "plural": "plural-only: die Eltern"
+    },
+    "usage_notes": "এই অর্থে Eltern plural; Meine Eltern sind …, ist নয়।",
+    "original_examples": [
+      {
+        "de": "Meine Eltern leben in Bangladesch.",
+        "bn": "আমার বাবা-মা বাংলাদেশে থাকেন।"
+      }
+    ],
+    "exercise": "বাবা-মা / parents — noun ও article লেখো; plural-ও মনে করার চেষ্টা করো।",
+    "answer": "die Eltern; plural: plural-only: die Eltern",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "72fec2f599f2aa916b7fca6baa0bcf16bf9e360053e50f62364acf6b7b2e1522",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-2efe0e24e5e8",
+    "pdf_pages": [
+      35
+    ]
+  },
+  "gb1-80a8ef86b390": {
+    "lemma": "Mutter",
+    "word_type": "noun",
+    "bn_meanings": [
+      "মা"
+    ],
+    "grammar": {
+      "article": "die",
+      "plural": "die Mütter"
+    },
+    "usage_notes": "Plural-এ u → ü: Mutter → Mütter।",
+    "original_examples": [
+      {
+        "de": "Meine Mutter kommt morgen.",
+        "bn": "আমার মা আগামীকাল আসবেন।"
+      }
+    ],
+    "exercise": "মা — noun ও article লেখো; plural-ও মনে করার চেষ্টা করো।",
+    "answer": "die Mutter; plural: die Mütter",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "81a079ad74b0a04a17c7a172e7ecd03f82b09eae872de572b44d35d14f4839a8",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-80a8ef86b390",
+    "pdf_pages": [
+      65
+    ]
+  },
+  "gb1-b75c327ee111": {
+    "lemma": "Vater",
+    "word_type": "noun",
+    "bn_meanings": [
+      "বাবা"
+    ],
+    "grammar": {
+      "article": "der",
+      "plural": "die Väter"
+    },
+    "usage_notes": "Plural-এ a → ä: Vater → Väter।",
+    "original_examples": [
+      {
+        "de": "Mein Vater lernt Deutsch.",
+        "bn": "আমার বাবা জার্মান শিখছেন।"
+      }
+    ],
+    "exercise": "বাবা — noun ও article লেখো; plural-ও মনে করার চেষ্টা করো।",
+    "answer": "der Vater; plural: die Väter",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "867cccc554ecb3015914d15c97e29b5a6c1ad9fdb5496d81feb2c6d1eb850df2",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-b75c327ee111",
+    "pdf_pages": [
+      91
+    ]
+  },
+  "gb1-7abc6e626555": {
+    "lemma": "Kind",
+    "word_type": "noun",
+    "bn_meanings": [
+      "শিশু / সন্তান"
+    ],
+    "grammar": {
+      "article": "das",
+      "plural": "die Kinder"
+    },
+    "usage_notes": "",
+    "original_examples": [
+      {
+        "de": "Das Kind spielt im Zimmer.",
+        "bn": "শিশুটি ঘরে খেলছে।"
+      }
+    ],
+    "exercise": "শিশু / সন্তান — noun ও article লেখো; plural-ও মনে করার চেষ্টা করো।",
+    "answer": "das Kind; plural: die Kinder",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "e5adf0b66a78135ae61ae906c14b2ad60fd9f6a5b22be8082a98a28ad66bab1b",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-7abc6e626555",
+    "pdf_pages": [
+      54
+    ]
+  },
+  "gb1-9b8629bf9457": {
+    "lemma": "Preis",
+    "word_type": "noun",
+    "bn_meanings": [
+      "দাম"
+    ],
+    "grammar": {
+      "article": "der",
+      "plural": "die Preise"
+    },
+    "usage_notes": "এই lesson-এ দাম অর্থে; Preis পুরস্কারও বোঝাতে পারে।",
+    "original_examples": [
+      {
+        "de": "Der Preis ist für mich zu hoch.",
+        "bn": "দামটি আমার জন্য খুব বেশি।"
+      }
+    ],
+    "exercise": "দাম — noun ও article লেখো; plural-ও মনে করার চেষ্টা করো।",
+    "answer": "der Preis; plural: die Preise",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "a3bdbd3c2c3aef294aa6285245d201219cb461156192fd8ea8f177cac22713d2",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-9b8629bf9457",
+    "pdf_pages": [
+      71
+    ]
+  },
+  "gb1-b260c644f3ed": {
+    "lemma": "Rechnung",
+    "word_type": "noun",
+    "bn_meanings": [
+      "বিল / invoice"
+    ],
+    "grammar": {
+      "article": "die",
+      "plural": "die Rechnungen"
+    },
+    "usage_notes": "",
+    "original_examples": [
+      {
+        "de": "Ich brauche die Rechnung, bitte.",
+        "bn": "আমার বিলটি দরকার, দয়া করে।"
+      }
+    ],
+    "exercise": "বিল / invoice — noun ও article লেখো; plural-ও মনে করার চেষ্টা করো।",
+    "answer": "die Rechnung; plural: die Rechnungen",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "2834e184711a86fcc9206096cc38bae75236b3ff42969f84bd154e190c63172b",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-b260c644f3ed",
+    "pdf_pages": [
+      73
+    ]
+  },
+  "gb1-badf84832f48": {
+    "lemma": "Angebot",
+    "word_type": "noun",
+    "bn_meanings": [
+      "অফার / প্রস্তাব"
+    ],
+    "grammar": {
+      "article": "das",
+      "plural": "die Angebote"
+    },
+    "usage_notes": "im Angebot = ছাড়ে; ein Angebot bekommen = একটি প্রস্তাব পাওয়া।",
+    "original_examples": [
+      {
+        "de": "Die Milch ist heute im Angebot.",
+        "bn": "দুধ আজ বিশেষ ছাড়ে পাওয়া যাচ্ছে।"
+      }
+    ],
+    "exercise": "অফার / প্রস্তাব — noun ও article লেখো; plural-ও মনে করার চেষ্টা করো।",
+    "answer": "das Angebot; plural: die Angebote",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "599bb7e878eb16f1441ac825a2653511ac07dc66df073e4058e6f0607a86f67c",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-badf84832f48",
+    "pdf_pages": [
+      18
+    ]
+  },
+  "gb1-90a298e5499a": {
+    "lemma": "Brot",
+    "word_type": "noun",
+    "bn_meanings": [
+      "রুটি / bread"
+    ],
+    "grammar": {
+      "article": "das",
+      "plural": "die Brote"
+    },
+    "usage_notes": "Brot সাধারণ খাবার বোঝাতে uncountable-ও হয়; ein Brot একটি গোটা রুটি।",
+    "original_examples": [
+      {
+        "de": "Ich kaufe ein Brot für das Frühstück.",
+        "bn": "সকালের নাশতার জন্য আমি একটি রুটি কিনছি।"
+      }
+    ],
+    "exercise": "রুটি / bread — noun ও article লেখো; plural-ও মনে করার চেষ্টা করো।",
+    "answer": "das Brot; plural: die Brote",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "58d31b593bd31135193167542b08b814694d81c6001ef9705ad3a8aa02b792c7",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-90a298e5499a",
+    "pdf_pages": [
+      28
+    ]
+  },
+  "gb1-b5393e56431b": {
+    "lemma": "Reis",
+    "word_type": "noun",
+    "bn_meanings": [
+      "চাল / ভাত"
+    ],
+    "grammar": {
+      "article": "der",
+      "plural": "usually no plural in food use"
+    },
+    "usage_notes": "রান্না করা বা না-করা—context অনুযায়ী ভাত বা চাল।",
+    "original_examples": [
+      {
+        "de": "Zum Mittag esse ich Reis.",
+        "bn": "দুপুরে আমি ভাত খাই।"
+      }
+    ],
+    "exercise": "চাল / ভাত — noun ও article লেখো; plural-ও মনে করার চেষ্টা করো।",
+    "answer": "der Reis; plural: usually no plural in food use",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "616f79dad86ff81ee668ed36547a10074acb6ea2b8c274bcff34d74b7c0fd38f",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-b5393e56431b",
+    "pdf_pages": [
+      74
+    ]
+  },
+  "gb1-177ad0e9b2b3": {
+    "lemma": "Fleisch",
+    "word_type": "noun",
+    "bn_meanings": [
+      "মাংস"
+    ],
+    "grammar": {
+      "article": "das",
+      "plural": "usually no plural in food use"
+    },
+    "usage_notes": "",
+    "original_examples": [
+      {
+        "de": "Ich esse heute kein Fleisch.",
+        "bn": "আজ আমি মাংস খাচ্ছি না।"
+      }
+    ],
+    "exercise": "মাংস — noun ও article লেখো; plural-ও মনে করার চেষ্টা করো।",
+    "answer": "das Fleisch; plural: usually no plural in food use",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "287ea599e6e1cba55de7dbd892171047db452cac2af73987f62e30079a6d5d46",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-177ad0e9b2b3",
+    "pdf_pages": [
+      40
+    ]
+  },
+  "gb1-40fa0d61120d": {
+    "lemma": "Fisch",
+    "word_type": "noun",
+    "bn_meanings": [
+      "মাছ"
+    ],
+    "grammar": {
+      "article": "der",
+      "plural": "die Fische"
+    },
+    "usage_notes": "জীবন্ত মাছ গুনলে Fische; খাবার হিসেবে Fisch-ও ব্যবহৃত হয়।",
+    "original_examples": [
+      {
+        "de": "Wir essen am Freitag Fisch.",
+        "bn": "শুক্রবার আমরা মাছ খাই।"
+      }
+    ],
+    "exercise": "মাছ — noun ও article লেখো; plural-ও মনে করার চেষ্টা করো।",
+    "answer": "der Fisch; plural: die Fische",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "35924f9a51ce8aeea5084df8a4e28679088092099d8d5db4e1a1a214c9d9492f",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-40fa0d61120d",
+    "pdf_pages": [
+      13
+    ]
+  },
+  "gb1-1798e73cf8f5": {
+    "lemma": "Ei",
+    "word_type": "noun",
+    "bn_meanings": [
+      "ডিম"
+    ],
+    "grammar": {
+      "article": "das",
+      "plural": "die Eier"
+    },
+    "usage_notes": "",
+    "original_examples": [
+      {
+        "de": "Ich brauche zwei Eier.",
+        "bn": "আমার দুটি ডিম দরকার।"
+      }
+    ],
+    "exercise": "ডিম — noun ও article লেখো; plural-ও মনে করার চেষ্টা করো।",
+    "answer": "das Ei; plural: die Eier",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "a7ad85a3b3b9cdc10ac842159de5cedadbc7b4456fd0bdabe9a73218fe186fa0",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-1798e73cf8f5",
+    "pdf_pages": [
+      33
+    ]
+  },
+  "gb1-f732e45c0944": {
+    "lemma": "Frühstück",
+    "word_type": "noun",
+    "bn_meanings": [
+      "সকালের নাশতা"
+    ],
+    "grammar": {
+      "article": "das",
+      "plural": "die Frühstücke (countable meals); often singular"
+    },
+    "usage_notes": "Plural সম্ভব, তবে সাধারণ দৈনন্দিন ব্যবহারে singular বেশি কাজে লাগে।",
+    "original_examples": [
+      {
+        "de": "Das Frühstück ist um acht Uhr.",
+        "bn": "সকালের নাশতা আটটায়।"
+      }
+    ],
+    "exercise": "সকালের নাশতা — noun ও article লেখো; plural-ও মনে করার চেষ্টা করো।",
+    "answer": "das Frühstück; plural: die Frühstücke (countable meals); often singular",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "f78d7d7dfac9f5b829c8d577fe6eb46d2dbaed7ea15c3d49397102b5d834c52a",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-f732e45c0944",
+    "pdf_pages": [
+      42
+    ]
+  },
+  "gb1-697d3a30f3bb": {
+    "lemma": "Hunger",
+    "word_type": "noun",
+    "bn_meanings": [
+      "ক্ষুধা"
+    ],
+    "grammar": {
+      "article": "der",
+      "plural": "no usual plural"
+    },
+    "usage_notes": "German pattern: Hunger haben; Ich bin Hunger নয়।",
+    "original_examples": [
+      {
+        "de": "Nach der Arbeit habe ich Hunger.",
+        "bn": "কাজের পরে আমার ক্ষুধা লাগে।"
+      }
+    ],
+    "exercise": "ক্ষুধা — noun ও article লেখো; plural-ও মনে করার চেষ্টা করো।",
+    "answer": "der Hunger; plural: no usual plural",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "c9c434492ab47d5bb57ae90a694abd04dbff29f06b89aed850067133a6f07e12",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-697d3a30f3bb",
+    "pdf_pages": [
+      51
+    ]
+  },
+  "gb1-10461a743cb4": {
+    "lemma": "Durst",
+    "word_type": "noun",
+    "bn_meanings": [
+      "তৃষ্ণা / পিপাসা"
+    ],
+    "grammar": {
+      "article": "der",
+      "plural": "no usual plural"
+    },
+    "usage_notes": "German pattern: Durst haben।",
+    "original_examples": [
+      {
+        "de": "Ich habe Durst und trinke Wasser.",
+        "bn": "আমার পিপাসা পেয়েছে এবং আমি পানি পান করছি।"
+      }
+    ],
+    "exercise": "তৃষ্ণা / পিপাসা — noun ও article লেখো; plural-ও মনে করার চেষ্টা করো।",
+    "answer": "der Durst; plural: no usual plural",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "6161cec09d45d1428f89bb88c706f70aaf8ea27ab6ce1989cb46d0a3552a07cd",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-10461a743cb4",
+    "pdf_pages": [
+      32
+    ]
+  },
+  "gb1-cd08f6fc0f5e": {
+    "lemma": "Wohnung",
+    "word_type": "noun",
+    "bn_meanings": [
+      "বাসা / flat"
+    ],
+    "grammar": {
+      "article": "die",
+      "plural": "die Wohnungen"
+    },
+    "usage_notes": "",
+    "original_examples": [
+      {
+        "de": "Unsere Wohnung hat drei Zimmer.",
+        "bn": "আমাদের বাসায় তিনটি ঘর আছে।"
+      }
+    ],
+    "exercise": "বাসা / flat — noun ও article লেখো; plural-ও মনে করার চেষ্টা করো।",
+    "answer": "die Wohnung; plural: die Wohnungen",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "a62a2146971b4c57a4581b3d19fb2c0d9e9132bd5cb9db82d998b98b5f20d14f",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-cd08f6fc0f5e",
+    "pdf_pages": [
+      99
+    ]
+  },
+  "gb1-47a6f6a3e0bd": {
+    "lemma": "Zimmer",
+    "word_type": "noun",
+    "bn_meanings": [
+      "ঘর / room"
+    ],
+    "grammar": {
+      "article": "das",
+      "plural": "die Zimmer"
+    },
+    "usage_notes": "Singular ও plural noun একই: Zimmer।",
+    "original_examples": [
+      {
+        "de": "Mein Zimmer ist klein.",
+        "bn": "আমার ঘর ছোট।"
+      }
+    ],
+    "exercise": "ঘর / room — noun ও article লেখো; plural-ও মনে করার চেষ্টা করো।",
+    "answer": "das Zimmer; plural: die Zimmer",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "9cf1eac9aba594d88003956f91a91941cb070d887860c336c06592112153b188",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-47a6f6a3e0bd",
+    "pdf_pages": [
+      100
+    ]
+  },
+  "gb1-6dc3644b4f57": {
+    "lemma": "Küche",
+    "word_type": "noun",
+    "bn_meanings": [
+      "রান্নাঘর"
+    ],
+    "grammar": {
+      "article": "die",
+      "plural": "die Küchen"
+    },
+    "usage_notes": "",
+    "original_examples": [
+      {
+        "de": "Wir essen in der Küche.",
+        "bn": "আমরা রান্নাঘরে খাই।"
+      }
+    ],
+    "exercise": "রান্নাঘর — noun ও article লেখো; plural-ও মনে করার চেষ্টা করো।",
+    "answer": "die Küche; plural: die Küchen",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "6c1290dc73b5e0322e76d974c87894085ab7312b34ac91c4cbcfeb299ff405cb",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-6dc3644b4f57",
+    "pdf_pages": [
+      57
+    ]
+  },
+  "gb1-aabafd741340": {
+    "lemma": "Bad",
+    "word_type": "noun",
+    "bn_meanings": [
+      "বাথরুম; স্নান"
+    ],
+    "grammar": {
+      "article": "das",
+      "plural": "die Bäder"
+    },
+    "usage_notes": "এই lesson-এ bathroom অর্থে।",
+    "original_examples": [
+      {
+        "de": "Das Bad ist neben der Küche.",
+        "bn": "বাথরুমটি রান্নাঘরের পাশে।"
+      }
+    ],
+    "exercise": "বাথরুম; স্নান — noun ও article লেখো; plural-ও মনে করার চেষ্টা করো।",
+    "answer": "das Bad; plural: die Bäder",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "13c462f45e86eb67682c6408dd2386332ed0b859e35cc41a04a9e99f2db3b3b8",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-aabafd741340",
+    "pdf_pages": [
+      23
+    ]
+  },
+  "gb1-30b2ebedf9bc": {
+    "lemma": "Möbel",
+    "word_type": "noun",
+    "bn_meanings": [
+      "আসবাবপত্র"
+    ],
+    "grammar": {
+      "article": "die",
+      "plural": "plural-only: die Möbel"
+    },
+    "usage_notes": "একটি আসবাবের জন্য ein Möbelstück; Möbel plural।",
+    "original_examples": [
+      {
+        "de": "Die Möbel sind neu.",
+        "bn": "আসবাবপত্র নতুন।"
+      }
+    ],
+    "exercise": "আসবাবপত্র — noun ও article লেখো; plural-ও মনে করার চেষ্টা করো।",
+    "answer": "die Möbel; plural: plural-only: die Möbel",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "18138ded4570839b13f3ac74d7abfece57df083826b369d0a83da315c93b4d93",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-30b2ebedf9bc",
+    "pdf_pages": [
+      64
+    ]
+  },
+  "gb1-40e255915ddb": {
+    "lemma": "Tisch",
+    "word_type": "noun",
+    "bn_meanings": [
+      "টেবিল"
+    ],
+    "grammar": {
+      "article": "der",
+      "plural": "die Tische"
+    },
+    "usage_notes": "",
+    "original_examples": [
+      {
+        "de": "Die Rechnung liegt auf dem Tisch.",
+        "bn": "বিলটি টেবিলের ওপর আছে।"
+      }
+    ],
+    "exercise": "টেবিল — noun ও article লেখো; plural-ও মনে করার চেষ্টা করো।",
+    "answer": "der Tisch; plural: die Tische",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "bdf58eee563a4e0bd2f87a7f2d6071a8b3f8a82cdf2b5b218cd240854d633907",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-40e255915ddb",
+    "pdf_pages": [
+      87
+    ]
+  },
+  "gb1-fea62de95d74": {
+    "lemma": "Stuhl",
+    "word_type": "noun",
+    "bn_meanings": [
+      "চেয়ার"
+    ],
+    "grammar": {
+      "article": "der",
+      "plural": "die Stühle"
+    },
+    "usage_notes": "",
+    "original_examples": [
+      {
+        "de": "Der Stuhl ist bequem.",
+        "bn": "চেয়ারটি আরামদায়ক।"
+      }
+    ],
+    "exercise": "চেয়ার — noun ও article লেখো; plural-ও মনে করার চেষ্টা করো।",
+    "answer": "der Stuhl; plural: die Stühle",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "419acd3536279fe2dac85aa18753e3740cdf8e539a6fc221821a1c93e351d9e2",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-fea62de95d74",
+    "pdf_pages": [
+      84
+    ]
+  },
+  "gb1-451c4c5a8453": {
+    "lemma": "Bett",
+    "word_type": "noun",
+    "bn_meanings": [
+      "বিছানা"
+    ],
+    "grammar": {
+      "article": "das",
+      "plural": "die Betten"
+    },
+    "usage_notes": "",
+    "original_examples": [
+      {
+        "de": "Das Bett steht im Schlafzimmer.",
+        "bn": "বিছানাটি শোবার ঘরে আছে।"
+      }
+    ],
+    "exercise": "বিছানা — noun ও article লেখো; plural-ও মনে করার চেষ্টা করো।",
+    "answer": "das Bett; plural: die Betten",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "8a15a86e2c352d86f9658cfd62d5891ba4f38bce81b6f97e94d7b92a1786cdd0",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-451c4c5a8453",
+    "pdf_pages": [
+      26
+    ]
+  },
+  "gb1-91e4e3f80a58": {
+    "lemma": "Schrank",
+    "word_type": "noun",
+    "bn_meanings": [
+      "আলমারি"
+    ],
+    "grammar": {
+      "article": "der",
+      "plural": "die Schränke"
+    },
+    "usage_notes": "Deutschland-এর standard form; regional alternative Kasten পরে recognition-এ আসবে।",
+    "original_examples": [
+      {
+        "de": "Meine Jacke hängt im Schrank.",
+        "bn": "আমার জ্যাকেট আলমারিতে ঝুলছে।"
+      }
+    ],
+    "exercise": "আলমারি — noun ও article লেখো; plural-ও মনে করার চেষ্টা করো।",
+    "answer": "der Schrank; plural: die Schränke",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "1187b89f143da0791a23ca81c16d2e9e8f8841966c6e15b1c7fca8bd855b8382",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-91e4e3f80a58",
+    "pdf_pages": [
+      78
+    ]
+  },
+  "gb1-a81db4f9d526": {
+    "lemma": "Fenster",
+    "word_type": "noun",
+    "bn_meanings": [
+      "জানালা"
+    ],
+    "grammar": {
+      "article": "das",
+      "plural": "die Fenster"
+    },
+    "usage_notes": "Plural-এ noun-এর বানান বদলায় না।",
+    "original_examples": [
+      {
+        "de": "Das Fenster ist offen.",
+        "bn": "জানালা খোলা।"
+      }
+    ],
+    "exercise": "জানালা — noun ও article লেখো; plural-ও মনে করার চেষ্টা করো।",
+    "answer": "das Fenster; plural: die Fenster",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "c1386fb59906e3cb0f9a06a99c9661a93f787863cfce5190daa9415b65c59448",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-a81db4f9d526",
+    "pdf_pages": [
+      39
+    ]
+  },
+  "gb1-2181188c6017": {
+    "lemma": "Bahnhof",
+    "word_type": "noun",
+    "bn_meanings": [
+      "রেলস্টেশন"
+    ],
+    "grammar": {
+      "article": "der",
+      "plural": "die Bahnhöfe"
+    },
+    "usage_notes": "",
+    "original_examples": [
+      {
+        "de": "Ich warte am Bahnhof.",
+        "bn": "আমি রেলস্টেশনে অপেক্ষা করছি।"
+      }
+    ],
+    "exercise": "রেলস্টেশন — noun ও article লেখো; plural-ও মনে করার চেষ্টা করো।",
+    "answer": "der Bahnhof; plural: die Bahnhöfe",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "ceaead199f8939c76c50c6aa5660feb56844a5598802769ecef6fe730073d226",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-2181188c6017",
+    "pdf_pages": [
+      23
+    ]
+  },
+  "gb1-0ba38628ca02": {
+    "lemma": "Haltestelle",
+    "word_type": "noun",
+    "bn_meanings": [
+      "বাস / ট্রাম থামার নির্ধারিত স্থান"
+    ],
+    "grammar": {
+      "article": "die",
+      "plural": "die Haltestellen"
+    },
+    "usage_notes": "",
+    "original_examples": [
+      {
+        "de": "Die Haltestelle ist vor dem Haus.",
+        "bn": "বাস বা ট্রামের স্টপটি বাড়ির সামনে।"
+      }
+    ],
+    "exercise": "বাস / ট্রাম থামার নির্ধারিত স্থান — noun ও article লেখো; plural-ও মনে করার চেষ্টা করো।",
+    "answer": "die Haltestelle; plural: die Haltestellen",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "aa880352a8a72d2a3b9f9f2dab38a314483f26d350c04e650d97f528518b91ba",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-0ba38628ca02",
+    "pdf_pages": [
+      48
+    ]
+  },
+  "gb1-d1941ddebbec": {
+    "lemma": "Fahrkarte",
+    "word_type": "noun",
+    "bn_meanings": [
+      "যাতায়াতের টিকিট"
+    ],
+    "grammar": {
+      "article": "die",
+      "plural": "die Fahrkarten"
+    },
+    "usage_notes": "",
+    "original_examples": [
+      {
+        "de": "Ich kaufe eine Fahrkarte nach Berlin.",
+        "bn": "আমি বার্লিন যাওয়ার একটি টিকিট কিনছি।"
+      }
+    ],
+    "exercise": "যাতায়াতের টিকিট — noun ও article লেখো; plural-ও মনে করার চেষ্টা করো।",
+    "answer": "die Fahrkarte; plural: die Fahrkarten",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "28cc8a3477d44e64a464085231ce86c143f7391316ab2f8ae0fef51abdd92625",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-d1941ddebbec",
+    "pdf_pages": [
+      39
+    ]
+  },
+  "gb1-830a38106ed8": {
+    "lemma": "Zug",
+    "word_type": "noun",
+    "bn_meanings": [
+      "ট্রেন"
+    ],
+    "grammar": {
+      "article": "der",
+      "plural": "die Züge"
+    },
+    "usage_notes": "এই lesson-এ train অর্থে।",
+    "original_examples": [
+      {
+        "de": "Mein Zug kommt um neun Uhr.",
+        "bn": "আমার ট্রেন নয়টায় আসে।"
+      }
+    ],
+    "exercise": "ট্রেন — noun ও article লেখো; plural-ও মনে করার চেষ্টা করো।",
+    "answer": "der Zug; plural: die Züge",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "99b3ba3c24f955af7e51e813a9d5913a875e178818d073e59dce9c4e0be16844",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-830a38106ed8",
+    "pdf_pages": [
+      101
+    ]
+  },
+  "gb1-f6c51cdcab21": {
+    "lemma": "Bus",
+    "word_type": "noun",
+    "bn_meanings": [
+      "বাস"
+    ],
+    "grammar": {
+      "article": "der",
+      "plural": "die Busse"
+    },
+    "usage_notes": "",
+    "original_examples": [
+      {
+        "de": "Der Bus hält hier.",
+        "bn": "বাস এখানে থামে।"
+      }
+    ],
+    "exercise": "বাস — noun ও article লেখো; plural-ও মনে করার চেষ্টা করো।",
+    "answer": "der Bus; plural: die Busse",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "0a47a3433e8ac91cd7090c815bc585b8bf0659f9d58920a217467252e6d19f07",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-f6c51cdcab21",
+    "pdf_pages": [
+      29
+    ]
+  },
+  "gb1-0ca4f4c8dd56": {
+    "lemma": "Arzt",
+    "word_type": "noun",
+    "bn_meanings": [
+      "ডাক্তার (পুরুষ / generic)"
+    ],
+    "grammar": {
+      "article": "der",
+      "plural": "die Ärzte"
+    },
+    "usage_notes": "Arzt → Ärzte; Ä-টি মনে রাখবে।",
+    "original_examples": [
+      {
+        "de": "Ich habe einen Termin beim Arzt.",
+        "bn": "ডাক্তারের কাছে আমার একটি appointment আছে।"
+      }
+    ],
+    "exercise": "ডাক্তার (পুরুষ / generic) — noun ও article লেখো; plural-ও মনে করার চেষ্টা করো।",
+    "answer": "der Arzt; plural: die Ärzte",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "bd44036117bfd5f4b6dfb3a31b3e8f6197ab72687f37937f0fa397800d15ea71",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-0ca4f4c8dd56",
+    "pdf_pages": [
+      20
+    ]
+  },
+  "gb1-7e48f0570604": {
+    "lemma": "Ärztin",
+    "word_type": "noun",
+    "bn_meanings": [
+      "মহিলা ডাক্তার"
+    ],
+    "grammar": {
+      "article": "die",
+      "plural": "die Ärztinnen"
+    },
+    "usage_notes": "-in → -innen: Ärztin → Ärztinnen।",
+    "original_examples": [
+      {
+        "de": "Die Ärztin erklärt mir das Problem.",
+        "bn": "মহিলা ডাক্তার আমাকে সমস্যাটি বুঝিয়ে বলেন।"
+      }
+    ],
+    "exercise": "মহিলা ডাক্তার — noun ও article লেখো; plural-ও মনে করার চেষ্টা করো।",
+    "answer": "die Ärztin; plural: die Ärztinnen",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "ad6c9079193af4a3a7ad87baaf7f713d86f2a052b8cc22a30956df3a214f2ba8",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-7e48f0570604",
+    "pdf_pages": [
+      20
+    ]
+  },
+  "gb1-cb73c4d0ff92": {
+    "lemma": "Krankenhaus",
+    "word_type": "noun",
+    "bn_meanings": [
+      "হাসপাতাল"
+    ],
+    "grammar": {
+      "article": "das",
+      "plural": "die Krankenhäuser"
+    },
+    "usage_notes": "krank + Haus; plural-এ Häuser।",
+    "original_examples": [
+      {
+        "de": "Mein Bruder arbeitet im Krankenhaus.",
+        "bn": "আমার ভাই হাসপাতালে কাজ করেন।"
+      }
+    ],
+    "exercise": "হাসপাতাল — noun ও article লেখো; plural-ও মনে করার চেষ্টা করো।",
+    "answer": "das Krankenhaus; plural: die Krankenhäuser",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "4a353a98b4c2cca98c696119b1a297e750eb6d838e84ad62bd912e52db614f79",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-cb73c4d0ff92",
+    "pdf_pages": [
+      57
+    ]
+  },
+  "gb1-5dec37c6c07b": {
+    "lemma": "Apotheke",
+    "word_type": "noun",
+    "bn_meanings": [
+      "ফার্মেসি / ওষুধের দোকান"
+    ],
+    "grammar": {
+      "article": "die",
+      "plural": "die Apotheken"
+    },
+    "usage_notes": "",
+    "original_examples": [
+      {
+        "de": "Die Apotheke ist heute offen.",
+        "bn": "ফার্মেসি আজ খোলা।"
+      }
+    ],
+    "exercise": "ফার্মেসি / ওষুধের দোকান — noun ও article লেখো; plural-ও মনে করার চেষ্টা করো।",
+    "answer": "die Apotheke; plural: die Apotheken",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "051b3e21e4f5594e66c617a84adf24f3bf86ccdb15a151dd24de16f42c1cb052",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-5dec37c6c07b",
+    "pdf_pages": [
+      19
+    ]
+  },
+  "gb1-9bf0810ea4ec": {
+    "lemma": "Medikament",
+    "word_type": "noun",
+    "bn_meanings": [
+      "ওষুধ"
+    ],
+    "grammar": {
+      "article": "das",
+      "plural": "die Medikamente"
+    },
+    "usage_notes": "এটি ভাষার উদাহরণ, চিকিৎসা-পরামর্শ নয়।",
+    "original_examples": [
+      {
+        "de": "Ich hole das Medikament aus der Apotheke.",
+        "bn": "আমি ফার্মেসি থেকে ওষুধটি আনছি।"
+      }
+    ],
+    "exercise": "ওষুধ — noun ও article লেখো; plural-ও মনে করার চেষ্টা করো।",
+    "answer": "das Medikament; plural: die Medikamente",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "5595016bac31053f3c5f7763ccf19563235c358a93488b8502c34691a488ea61",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-9bf0810ea4ec",
+    "pdf_pages": [
+      62
+    ]
+  },
+  "gb1-ae1363adf190": {
+    "lemma": "Termin",
+    "word_type": "noun",
+    "bn_meanings": [
+      "নির্ধারিত সাক্ষাৎ / appointment"
+    ],
+    "grammar": {
+      "article": "der",
+      "plural": "die Termine"
+    },
+    "usage_notes": "Termin = appointment; Vertrag = চুক্তি।",
+    "original_examples": [
+      {
+        "de": "Morgen haben wir zwei Termine.",
+        "bn": "আগামীকাল আমাদের দুটি appointment আছে।"
+      }
+    ],
+    "exercise": "নির্ধারিত সাক্ষাৎ / appointment — noun ও article লেখো; plural-ও মনে করার চেষ্টা করো।",
+    "answer": "der Termin; plural: die Termine",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "12da24b0dbf9e78be90929289c7ea1b2b1834e2950e0b22f1b3aeb4c91079a40",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-ae1363adf190",
+    "pdf_pages": [
+      86
+    ]
+  },
+  "gb1-7cc816dcf92f": {
+    "lemma": "Schmerz",
+    "word_type": "noun",
+    "bn_meanings": [
+      "ব্যথা"
+    ],
+    "grammar": {
+      "article": "der",
+      "plural": "die Schmerzen"
+    },
+    "usage_notes": "প্রায়ই plural Schmerzen ব্যবহার হয়; এটিই একমাত্র health-word pattern নয়।",
+    "original_examples": [
+      {
+        "de": "Ich habe Schmerzen im Rücken.",
+        "bn": "আমার পিঠে ব্যথা হচ্ছে।"
+      }
+    ],
+    "exercise": "ব্যথা — noun ও article লেখো; plural-ও মনে করার চেষ্টা করো।",
+    "answer": "der Schmerz; plural: die Schmerzen",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "5142e63cd0029bf6c1a3ba4ce2b9b6fb386790e09a84cf25a70ce127f11762c0",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-7cc816dcf92f",
+    "pdf_pages": [
+      77
+    ]
+  },
+  "gb1-b141ff41e317": {
+    "lemma": "Tag",
+    "word_type": "noun",
+    "bn_meanings": [
+      "দিন"
+    ],
+    "grammar": {
+      "article": "der",
+      "plural": "die Tage"
+    },
+    "usage_notes": "jeden Tag-এ jeden ছোট হাতের; Tag noun বলে বড়।",
+    "original_examples": [
+      {
+        "de": "Ich lerne jeden Tag Deutsch.",
+        "bn": "আমি প্রতিদিন জার্মান শিখি।"
+      }
+    ],
+    "exercise": "দিন — noun ও article লেখো; plural-ও মনে করার চেষ্টা করো।",
+    "answer": "der Tag; plural: die Tage",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "1ce60e0ed1a2476ed5be115778bd8f2c6ff26531bd29cb4809a47809b77260ab",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-b141ff41e317",
+    "pdf_pages": [
+      15
+    ]
+  },
+  "gb1-8fa12de8926d": {
+    "lemma": "Woche",
+    "word_type": "noun",
+    "bn_meanings": [
+      "সপ্তাহ"
+    ],
+    "grammar": {
+      "article": "die",
+      "plural": "die Wochen"
+    },
+    "usage_notes": "",
+    "original_examples": [
+      {
+        "de": "Nächste Woche habe ich Urlaub.",
+        "bn": "আগামী সপ্তাহে আমার ছুটি আছে।"
+      }
+    ],
+    "exercise": "সপ্তাহ — noun ও article লেখো; plural-ও মনে করার চেষ্টা করো।",
+    "answer": "die Woche; plural: die Wochen",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "a1f246162b217c7cf03ecc5b1e360c2de2a432455d215cc438fe4e8c64346c42",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-8fa12de8926d",
+    "pdf_pages": [
+      15
+    ]
+  },
+  "gb1-eb4d52ff8188": {
+    "lemma": "Monat",
+    "word_type": "noun",
+    "bn_meanings": [
+      "মাস"
+    ],
+    "grammar": {
+      "article": "der",
+      "plural": "die Monate"
+    },
+    "usage_notes": "",
+    "original_examples": [
+      {
+        "de": "Ein Jahr hat zwölf Monate.",
+        "bn": "এক বছরে বারো মাস।"
+      }
+    ],
+    "exercise": "মাস — noun ও article লেখো; plural-ও মনে করার চেষ্টা করো।",
+    "answer": "der Monat; plural: die Monate",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "331c4baa3000b227093af3320f8a08c9ec1e7d53e73ca6055bfb595020e944dc",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-eb4d52ff8188",
+    "pdf_pages": [
+      15
+    ]
+  },
+  "gb1-2e751c6be4c1": {
+    "lemma": "Uhr",
+    "word_type": "noun",
+    "bn_meanings": [
+      "ঘড়ি; সময় বলার Uhr"
+    ],
+    "grammar": {
+      "article": "die",
+      "plural": "die Uhren"
+    },
+    "usage_notes": "ঘড়ি গুনলে Uhren; সময় বললে um acht Uhr, আটটা।",
+    "original_examples": [
+      {
+        "de": "Meine Uhr ist kaputt.",
+        "bn": "আমার ঘড়ি নষ্ট।"
+      }
+    ],
+    "exercise": "ঘড়ি; সময় বলার Uhr — noun ও article লেখো; plural-ও মনে করার চেষ্টা করো।",
+    "answer": "die Uhr; plural: die Uhren",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "9e64ff764044cb874ca4ab9caa911256d1c198b8430901d47c0b1e9c0c21ecd0",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-2e751c6be4c1",
+    "pdf_pages": [
+      89
+    ]
+  },
+  "gb1-d7ab7ecdc11c": {
+    "lemma": "Stunde",
+    "word_type": "noun",
+    "bn_meanings": [
+      "এক ঘণ্টা / hour"
+    ],
+    "grammar": {
+      "article": "die",
+      "plural": "die Stunden"
+    },
+    "usage_notes": "Uhr = clock/time expression; Stunde = duration unit।",
+    "original_examples": [
+      {
+        "de": "Der Kurs dauert zwei Stunden.",
+        "bn": "কোর্সের ক্লাসটি দুই ঘণ্টা চলে।"
+      }
+    ],
+    "exercise": "এক ঘণ্টা / hour — noun ও article লেখো; plural-ও মনে করার চেষ্টা করো।",
+    "answer": "die Stunde; plural: die Stunden",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "ae8fe16821a36e063e79545c82b02b288af19dfcc1eb5944e598dc883bf21860",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-d7ab7ecdc11c",
+    "pdf_pages": [
+      85
+    ]
+  },
+  "gb1-f553e11e34fd": {
+    "lemma": "Frage",
+    "word_type": "noun",
+    "bn_meanings": [
+      "প্রশ্ন"
+    ],
+    "grammar": {
+      "article": "die",
+      "plural": "die Fragen"
+    },
+    "usage_notes": "",
+    "original_examples": [
+      {
+        "de": "Ich habe eine Frage zum Vertrag.",
+        "bn": "চুক্তিটি সম্পর্কে আমার একটি প্রশ্ন আছে।"
+      }
+    ],
+    "exercise": "প্রশ্ন — noun ও article লেখো; plural-ও মনে করার চেষ্টা করো।",
+    "answer": "die Frage; plural: die Fragen",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "01eb45a1771b57fa05f18a63637ca032bb204576140a61cc863d9df63f70b38e",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-f553e11e34fd",
+    "pdf_pages": [
+      41
+    ]
+  },
+  "gb1-7bd692124367": {
+    "lemma": "Antwort",
+    "word_type": "noun",
+    "bn_meanings": [
+      "উত্তর"
+    ],
+    "grammar": {
+      "article": "die",
+      "plural": "die Antworten"
+    },
+    "usage_notes": "",
+    "original_examples": [
+      {
+        "de": "Danke für deine Antwort.",
+        "bn": "তোমার উত্তরের জন্য ধন্যবাদ।"
+      }
+    ],
+    "exercise": "উত্তর — noun ও article লেখো; plural-ও মনে করার চেষ্টা করো।",
+    "answer": "die Antwort; plural: die Antworten",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "94306d300238f60b34804b70f6bfc86e656823f1666fe862c314ff8ce1017b17",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-7bd692124367",
+    "pdf_pages": [
+      19
+    ]
+  },
+  "gb1-6f141b591151": {
+    "lemma": "Kunde",
+    "word_type": "noun",
+    "bn_meanings": [
+      "গ্রাহক / customer"
+    ],
+    "grammar": {
+      "article": "der",
+      "plural": "die Kunden"
+    },
+    "usage_notes": "Weak noun: der Kunde, কিন্তু den/dem Kunden। Article/plural আগে মনে করবে।",
+    "original_examples": [
+      {
+        "de": "Der Kunde wartet auf eine Antwort.",
+        "bn": "গ্রাহক একটি উত্তরের জন্য অপেক্ষা করছেন।"
+      }
+    ],
+    "exercise": "গ্রাহক / customer — noun ও article লেখো; plural-ও মনে করার চেষ্টা করো।",
+    "answer": "der Kunde; plural: die Kunden",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "16005d26694ee1ca33a97177ebbf83fabe92befe164bec3f2d288e03d0941e44",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-6f141b591151",
+    "pdf_pages": [
+      58
+    ]
+  },
+  "gb1-0aecfda6c82f": {
+    "lemma": "Kollege",
+    "word_type": "noun",
+    "bn_meanings": [
+      "সহকর্মী (পুরুষ)"
+    ],
+    "grammar": {
+      "article": "der",
+      "plural": "die Kollegen"
+    },
+    "usage_notes": "Weak noun: der Kollege, den/dem Kollegen। মহিলা: die Kollegin; এই lesson-এর অতিরিক্ত reference।",
+    "original_examples": [
+      {
+        "de": "Mein Kollege hilft mir.",
+        "bn": "আমার সহকর্মী আমাকে সাহায্য করেন।"
+      }
+    ],
+    "exercise": "সহকর্মী (পুরুষ) — noun ও article লেখো; plural-ও মনে করার চেষ্টা করো।",
+    "answer": "der Kollege; plural: die Kollegen",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "ed67fc586b584950980259cd95b8ca8c7ae34a708cba73c594fb571619b97631",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-0aecfda6c82f",
+    "pdf_pages": [
+      55
+    ]
+  },
+  "gb1-7d742e02a340": {
+    "lemma": "Besprechung",
+    "word_type": "noun",
+    "bn_meanings": [
+      "কাজের আলোচনা / meeting"
+    ],
+    "grammar": {
+      "article": "die",
+      "plural": "die Besprechungen"
+    },
+    "usage_notes": "",
+    "original_examples": [
+      {
+        "de": "Die Besprechung beginnt um zehn Uhr.",
+        "bn": "মিটিং দশটায় শুরু হয়।"
+      }
+    ],
+    "exercise": "কাজের আলোচনা / meeting — noun ও article লেখো; plural-ও মনে করার চেষ্টা করো।",
+    "answer": "die Besprechung; plural: die Besprechungen",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "717737c648d09ddab3b1a17a4c9ffb07c52b397fc7fc700c0baa406b5e6a6b9f",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-7d742e02a340",
+    "pdf_pages": [
+      26
+    ]
+  },
+  "gb1-46b2c668e9d8": {
+    "lemma": "Aufgabe",
+    "word_type": "noun",
+    "bn_meanings": [
+      "কাজ / task; অনুশীলনীর প্রশ্ন"
+    ],
+    "grammar": {
+      "article": "die",
+      "plural": "die Aufgaben"
+    },
+    "usage_notes": "পরীক্ষার context-এ Aufgabe = task/question।",
+    "original_examples": [
+      {
+        "de": "Diese Aufgabe ist wichtig.",
+        "bn": "এই কাজটি গুরুত্বপূর্ণ।"
+      }
+    ],
+    "exercise": "কাজ / task; অনুশীলনীর প্রশ্ন — noun ও article লেখো; plural-ও মনে করার চেষ্টা করো।",
+    "answer": "die Aufgabe; plural: die Aufgaben",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "454644a1151fcbd8c1c9d0a7c09f8a9ce3e1e09b65611d698dc9582598a65fa4",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-46b2c668e9d8",
+    "pdf_pages": [
+      20
+    ]
+  },
+  "gb1-135afbbc84c2": {
+    "lemma": "Geschäft",
+    "word_type": "noun",
+    "bn_meanings": [
+      "দোকান; ব্যবসা"
+    ],
+    "grammar": {
+      "article": "das",
+      "plural": "die Geschäfte"
+    },
+    "usage_notes": "এই lesson-এ shop অর্থে।",
+    "original_examples": [
+      {
+        "de": "Das Geschäft öffnet um neun Uhr.",
+        "bn": "দোকান নয়টায় খোলে।"
+      }
+    ],
+    "exercise": "দোকান; ব্যবসা — noun ও article লেখো; plural-ও মনে করার চেষ্টা করো।",
+    "answer": "das Geschäft; plural: die Geschäfte",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "17a0e60ca7ff99b4ee802de51dfb7bf51a061640ea2adb4137560c5cff3452a6",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-135afbbc84c2",
+    "pdf_pages": [
+      45
+    ]
+  },
+  "gb1-e8eca2206559": {
+    "lemma": "Markt",
+    "word_type": "noun",
+    "bn_meanings": [
+      "বাজার"
+    ],
+    "grammar": {
+      "article": "der",
+      "plural": "die Märkte"
+    },
+    "usage_notes": "",
+    "original_examples": [
+      {
+        "de": "Am Samstag gehe ich auf den Markt.",
+        "bn": "শনিবার আমি বাজারে যাই।"
+      }
+    ],
+    "exercise": "বাজার — noun ও article লেখো; plural-ও মনে করার চেষ্টা করো।",
+    "answer": "der Markt; plural: die Märkte",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "2877410358053b8bbf1b693966f5471ac72d1d4f5ae2c63c24e3333f8a751918",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-e8eca2206559",
+    "pdf_pages": [
+      62
+    ]
+  },
+  "gb1-4e6780461da0": {
+    "lemma": "Kasse",
+    "word_type": "noun",
+    "bn_meanings": [
+      "ক্যাশ কাউন্টার / checkout"
+    ],
+    "grammar": {
+      "article": "die",
+      "plural": "die Kassen"
+    },
+    "usage_notes": "",
+    "original_examples": [
+      {
+        "de": "Ich bezahle an der Kasse.",
+        "bn": "আমি ক্যাশ কাউন্টারে দাম দিই।"
+      }
+    ],
+    "exercise": "ক্যাশ কাউন্টার / checkout — noun ও article লেখো; plural-ও মনে করার চেষ্টা করো।",
+    "answer": "die Kasse; plural: die Kassen",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "2cec7eb3e29f08f361ab8aed4be3069140632d7d0e20eb022cda53dd548c4fd7",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-4e6780461da0",
+    "pdf_pages": [
+      54
+    ]
+  },
+  "gb1-cf7a2587360a": {
+    "lemma": "Quittung",
+    "word_type": "noun",
+    "bn_meanings": [
+      "টাকা দেওয়ার রসিদ"
+    ],
+    "grammar": {
+      "article": "die",
+      "plural": "die Quittungen"
+    },
+    "usage_notes": "Rechnung = bill/invoice; Quittung = payment receipt।",
+    "original_examples": [
+      {
+        "de": "Kann ich eine Quittung bekommen?",
+        "bn": "আমি কি একটি রসিদ পেতে পারি?"
+      }
+    ],
+    "exercise": "টাকা দেওয়ার রসিদ — noun ও article লেখো; plural-ও মনে করার চেষ্টা করো।",
+    "answer": "die Quittung; plural: die Quittungen",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "4e3a1f27132d410ce9a372e186bbd1c1ab7266b19562a10ae970895e53963bf5",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-cf7a2587360a",
+    "pdf_pages": [
+      72
+    ]
+  },
+  "gb1-6bdb7a17de4e": {
+    "lemma": "Geld",
+    "word_type": "noun",
+    "bn_meanings": [
+      "টাকা / অর্থ"
+    ],
+    "grammar": {
+      "article": "das",
+      "plural": "usually no plural for money"
+    },
+    "usage_notes": "Gelder অর্থ তহবিলসমূহ হতে পারে; সাধারণ money অর্থে plural মুখস্থ দরকার নেই।",
+    "original_examples": [
+      {
+        "de": "Ich habe heute kein Bargeld, aber genug Geld auf dem Konto.",
+        "bn": "আজ আমার কাছে নগদ টাকা নেই, তবে অ্যাকাউন্টে যথেষ্ট টাকা আছে।"
+      }
+    ],
+    "exercise": "টাকা / অর্থ — noun ও article লেখো; plural-ও মনে করার চেষ্টা করো।",
+    "answer": "das Geld; plural: usually no plural for money",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "b49bb570676987d2048b3995cc8d681c3c7daddc18948b20389d2eeac8ed95c4",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-6bdb7a17de4e",
+    "pdf_pages": [
+      44
+    ]
+  },
+  "gb1-41b6bf01d976": {
+    "lemma": "Angst",
+    "word_type": "noun",
+    "bn_meanings": [
+      "ভয়"
+    ],
+    "grammar": {
+      "article": "die",
+      "plural": "die Ängste"
+    },
+    "usage_notes": "Pattern: Angst haben; Angst vor + Dativ।",
+    "original_examples": [
+      {
+        "de": "Vor der Prüfung habe ich etwas Angst.",
+        "bn": "পরীক্ষার আগে আমার একটু ভয় লাগে।"
+      }
+    ],
+    "exercise": "ভয় — noun ও article লেখো; plural-ও মনে করার চেষ্টা করো।",
+    "answer": "die Angst; plural: die Ängste",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "e7038b18f2d8b6a00f25d9b34c92e36718150111ea683b72a0bb9ebaad4e57d3",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-41b6bf01d976",
+    "pdf_pages": [
+      18
+    ]
+  },
+  "gb1-103407c58365": {
+    "lemma": "krank",
+    "word_type": "adjective",
+    "bn_meanings": [
+      "অসুস্থ"
+    ],
+    "grammar": {},
+    "usage_notes": "krank ↔ gesund।",
+    "original_examples": [
+      {
+        "de": "Heute bin ich krank und bleibe zu Hause.",
+        "bn": "আজ আমি অসুস্থ এবং বাসায় থাকছি।"
+      }
+    ],
+    "exercise": "অসুস্থ — German word লেখো।",
+    "answer": "krank",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "dc43a45408df765edd0a346bdf360557452f44c9451b6530d3dd20eab06a2597",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-103407c58365",
+    "pdf_pages": [
+      57
+    ]
+  },
+  "gb1-4c97c33ffe68": {
+    "lemma": "gesund",
+    "word_type": "adjective",
+    "bn_meanings": [
+      "সুস্থ; স্বাস্থ্যকর"
+    ],
+    "grammar": {},
+    "usage_notes": "মানুষের ক্ষেত্রে সুস্থ; খাবার বা অভ্যাসের ক্ষেত্রে স্বাস্থ্যকরও বোঝায়।",
+    "original_examples": [
+      {
+        "de": "Nach der Krankheit bin ich wieder gesund.",
+        "bn": "অসুস্থতার পরে আমি আবার সুস্থ।"
+      }
+    ],
+    "exercise": "সুস্থ; স্বাস্থ্যকর — German word লেখো।",
+    "answer": "gesund",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "1f162a793abda975374f3dd448ff039be11fdaf9c123a5acd3d45d8467a9a30a",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-4c97c33ffe68",
+    "pdf_pages": [
+      46
+    ]
+  },
+  "gb1-83e0554aea18": {
+    "lemma": "müde",
+    "word_type": "adjective",
+    "bn_meanings": [
+      "ক্লান্ত / ঘুমঘুম"
+    ],
+    "grammar": {},
+    "usage_notes": "",
+    "original_examples": [
+      {
+        "de": "Nach dem Kurs bin ich müde.",
+        "bn": "ক্লাসের পরে আমি ক্লান্ত।"
+      }
+    ],
+    "exercise": "ক্লান্ত / ঘুমঘুম — German word লেখো।",
+    "answer": "müde",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "8bf5973d3d1c7c4983eb701b9960b1509da9242bc5c4e8104d5b2e5fd33d6a97",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-83e0554aea18",
+    "pdf_pages": [
+      64
+    ]
+  },
+  "gb1-ccdc1f2b34ad": {
+    "lemma": "heute",
+    "word_type": "adverb",
+    "bn_meanings": [
+      "আজ"
+    ],
+    "grammar": {},
+    "usage_notes": "বাক্যের মাঝে heute ছোট হাতের।",
+    "original_examples": [
+      {
+        "de": "Heute kaufe ich Gemüse.",
+        "bn": "আজ আমি সবজি কিনছি।"
+      }
+    ],
+    "exercise": "আজ — German word লেখো।",
+    "answer": "heute",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "315b227a26a6863468b17c5a043e33d815a4af4ae6067beddabf321f71c14a50",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-ccdc1f2b34ad",
+    "pdf_pages": [
+      50
+    ]
+  },
+  "gb1-29f0586e1cd0": {
+    "lemma": "gestern",
+    "word_type": "adverb",
+    "bn_meanings": [
+      "গতকাল"
+    ],
+    "grammar": {},
+    "usage_notes": "",
+    "original_examples": [
+      {
+        "de": "Gestern habe ich Brot gekauft.",
+        "bn": "গতকাল আমি রুটি কিনেছি।"
+      }
+    ],
+    "exercise": "গতকাল — German word লেখো।",
+    "answer": "gestern",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "f1c9045914e3ae7e3a78e835f1d89fe2251b3018e75f77f86bdda8e6221244d2",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-29f0586e1cd0",
+    "pdf_pages": [
+      46
+    ]
+  },
+  "gb1-d896ed56414f": {
+    "lemma": "früh",
+    "word_type": "adjective/adverb",
+    "bn_meanings": [
+      "তাড়াতাড়ি / আগেভাগে"
+    ],
+    "grammar": {},
+    "usage_notes": "früh ↔ spät।",
+    "original_examples": [
+      {
+        "de": "Ich stehe früh auf.",
+        "bn": "আমি তাড়াতাড়ি উঠি।"
+      }
+    ],
+    "exercise": "তাড়াতাড়ি / আগেভাগে — German word লেখো।",
+    "answer": "früh",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "47b51475905f22cf41d6a1c9e50aa2e9739fa77eb2879edc83511ffa813a0389",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-d896ed56414f",
+    "pdf_pages": [
+      42
+    ]
+  },
+  "gb1-6cec092fd49f": {
+    "lemma": "spät",
+    "word_type": "adjective/adverb",
+    "bn_meanings": [
+      "দেরিতে"
+    ],
+    "grammar": {},
+    "usage_notes": "zu spät = প্রয়োজনীয় সময়ের চেয়ে দেরি।",
+    "original_examples": [
+      {
+        "de": "Der Bus kommt heute spät.",
+        "bn": "বাস আজ দেরিতে আসে।"
+      }
+    ],
+    "exercise": "দেরিতে — German word লেখো।",
+    "answer": "spät",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "02297d24c73eac69d35c97f57ca8a065503a7c3aa6e9d41a2129e042716ccc73",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-6cec092fd49f",
+    "pdf_pages": [
+      81
+    ]
+  },
+  "gb1-53de4f752e69": {
+    "lemma": "pünktlich",
+    "word_type": "adjective/adverb",
+    "bn_meanings": [
+      "ঠিক সময়ে / সময়নিষ্ঠ"
+    ],
+    "grammar": {},
+    "usage_notes": "",
+    "original_examples": [
+      {
+        "de": "Ich komme pünktlich zum Termin.",
+        "bn": "আমি appointment-এ ঠিক সময়ে আসি।"
+      }
+    ],
+    "exercise": "ঠিক সময়ে / সময়নিষ্ঠ — German word লেখো।",
+    "answer": "pünktlich",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "f0a1a643a33a1bfbbefc12c31dd4fa4439e2a8b594a03a655ceae18273e70771",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-53de4f752e69",
+    "pdf_pages": [
+      72
+    ]
+  },
+  "gb1-d63d99892fa7": {
+    "lemma": "wichtig",
+    "word_type": "adjective",
+    "bn_meanings": [
+      "গুরুত্বপূর্ণ"
+    ],
+    "grammar": {},
+    "usage_notes": "wichtig ↔ unwichtig।",
+    "original_examples": [
+      {
+        "de": "Diese Rechnung ist wichtig.",
+        "bn": "এই বিলটি গুরুত্বপূর্ণ।"
+      }
+    ],
+    "exercise": "গুরুত্বপূর্ণ — German word লেখো।",
+    "answer": "wichtig",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "fc49ef81fc8909317075e9a6f856f337099f562382a5119d6f629fcb2e289921",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-d63d99892fa7",
+    "pdf_pages": [
+      98
+    ]
+  },
+  "gb1-5656522c0f35": {
+    "lemma": "teuer",
+    "word_type": "adjective",
+    "bn_meanings": [
+      "দামি"
+    ],
+    "grammar": {},
+    "usage_notes": "teuer ↔ billig/günstig; context অনুযায়ী।",
+    "original_examples": [
+      {
+        "de": "Die Wohnung ist zu teuer.",
+        "bn": "বাসাটির ভাড়া খুব বেশি।"
+      }
+    ],
+    "exercise": "দামি — German word লেখো।",
+    "answer": "teuer",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "05dc7a443f6ae13c52a9a7dfd544f23a45438652ccead212cd604ff3d093f3fe",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-5656522c0f35",
+    "pdf_pages": [
+      86
+    ]
+  },
+  "gb1-f3f47382a985": {
+    "lemma": "billig",
+    "word_type": "adjective",
+    "bn_meanings": [
+      "সস্তা"
+    ],
+    "grammar": {},
+    "usage_notes": "billig কখনও নিম্নমানের ইঙ্গিতও দিতে পারে; günstig বেশি নিরপেক্ষ হতে পারে।",
+    "original_examples": [
+      {
+        "de": "Dieses Brot ist billig.",
+        "bn": "এই রুটি সস্তা।"
+      }
+    ],
+    "exercise": "সস্তা — German word লেখো।",
+    "answer": "billig",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "12cec99c16bd48eeeea59e158debd9db6ce6ed97d33bcb3ff83afd0e308dda4d",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-f3f47382a985",
+    "pdf_pages": [
+      27
+    ]
+  },
+  "gb1-af6f07cfa133": {
+    "lemma": "offen",
+    "word_type": "adjective",
+    "bn_meanings": [
+      "খোলা"
+    ],
+    "grammar": {},
+    "usage_notes": "দোকান খোলা বোঝাতে geöffnet-ও ব্যবহৃত হয়।",
+    "original_examples": [
+      {
+        "de": "Ist die Apotheke noch offen?",
+        "bn": "ফার্মেসি কি এখনও খোলা?"
+      }
+    ],
+    "exercise": "খোলা — German word লেখো।",
+    "answer": "offen",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "1e5aee71a176264956215bd1129a4b5e71b616035e353048e13c0fef8cd09726",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-af6f07cfa133",
+    "pdf_pages": [
+      68
+    ]
+  },
+  "gb1-6ef64d3e7411": {
+    "lemma": "kaputt",
+    "word_type": "adjective",
+    "bn_meanings": [
+      "নষ্ট / ভাঙা"
+    ],
+    "grammar": {},
+    "usage_notes": "সাধারণ কথায় kaputt; প্রযুক্তিগত context-এ defekt-ও কাজে লাগে।",
+    "original_examples": [
+      {
+        "de": "Mein Handy ist kaputt.",
+        "bn": "আমার মোবাইল নষ্ট।"
+      }
+    ],
+    "exercise": "নষ্ট / ভাঙা — German word লেখো।",
+    "answer": "kaputt",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "1d096def42bcff21b8469538260453f392e29e5588170caacce5a92c8ebafe03",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-6ef64d3e7411",
+    "pdf_pages": [
+      54
+    ]
+  },
+  "gb1-d5c1c3ea36bd": {
+    "lemma": "sauber",
+    "word_type": "adjective",
+    "bn_meanings": [
+      "পরিষ্কার"
+    ],
+    "grammar": {},
+    "usage_notes": "sauber ↔ schmutzig।",
+    "original_examples": [
+      {
+        "de": "Die Küche ist sauber.",
+        "bn": "রান্নাঘর পরিষ্কার।"
+      }
+    ],
+    "exercise": "পরিষ্কার — German word লেখো।",
+    "answer": "sauber",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "766b223363a618650fa1dc0605d66280057e90ba420863b6232d30c0361a163d",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-d5c1c3ea36bd",
+    "pdf_pages": [
+      76
+    ]
+  },
+  "gb1-32494a58b0dd": {
+    "lemma": "glücklich",
+    "word_type": "adjective",
+    "bn_meanings": [
+      "সুখী / আনন্দিত"
+    ],
+    "grammar": {},
+    "usage_notes": "",
+    "original_examples": [
+      {
+        "de": "Ich bin mit meiner Familie glücklich.",
+        "bn": "পরিবারের সঙ্গে আমি সুখী।"
+      }
+    ],
+    "exercise": "সুখী / আনন্দিত — German word লেখো।",
+    "answer": "glücklich",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "f2ef4af06a03f0316955970ea8a67331706f5b41d05ab50a32b1e09768171c3c",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-32494a58b0dd",
+    "pdf_pages": [
+      46
+    ]
+  },
+  "gb1-3bba22e9c852": {
+    "lemma": "traurig",
+    "word_type": "adjective",
+    "bn_meanings": [
+      "মন খারাপ / দুঃখিত"
+    ],
+    "grammar": {},
+    "usage_notes": "দুঃখের অনুভূতি; ক্ষমা চাওয়ার জন্য সবসময় traurig নয়।",
+    "original_examples": [
+      {
+        "de": "Heute bin ich ein bisschen traurig.",
+        "bn": "আজ আমার একটু মন খারাপ।"
+      }
+    ],
+    "exercise": "মন খারাপ / দুঃখিত — German word লেখো।",
+    "answer": "traurig",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "f82e1dc96042088e17dfcf2ca7ab366cebf17a8c3079d7f5bfc90f705f61fb66",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-3bba22e9c852",
+    "pdf_pages": [
+      87
+    ]
+  },
+  "gb1-d1aaef3aac03": {
+    "lemma": "zufrieden",
+    "word_type": "adjective",
+    "bn_meanings": [
+      "সন্তুষ্ট"
+    ],
+    "grammar": {},
+    "usage_notes": "zufrieden mit + Dativ।",
+    "original_examples": [
+      {
+        "de": "Ich bin mit dem Kurs zufrieden.",
+        "bn": "আমি কোর্সটি নিয়ে সন্তুষ্ট।"
+      }
+    ],
+    "exercise": "সন্তুষ্ট — German word লেখো।",
+    "answer": "zufrieden",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "e6f20fb0c154f288aecf239f5bc9e66b8507719a9a44a0e47cfe7d392d970740",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-d1aaef3aac03",
+    "pdf_pages": [
+      101
+    ]
+  },
+  "gb1-1d8ad3aa4f37": {
+    "lemma": "wohnen",
+    "word_type": "verb",
+    "bn_meanings": [
+      "বাস করা / থাকা"
+    ],
+    "grammar": {
+      "praesens": [
+        "wohne",
+        "wohnst",
+        "wohnt",
+        "wohnen",
+        "wohnt",
+        "wohnen"
+      ],
+      "partizip_ii": "gewohnt",
+      "auxiliary": "haben",
+      "praeteritum": "wohnte",
+      "case": "in + Dativ for location; usually no direct object",
+      "group": "regular: wohn- + e/st/t/en/t/en"
+    },
+    "usage_notes": "wohnen = বসবাস করা; leben-এর অর্থ আরও বিস্তৃত।",
+    "original_examples": [
+      {
+        "de": "Ich wohne seit einem Jahr in Berlin.",
+        "bn": "আমি এক বছর ধরে বার্লিনে থাকি।"
+      }
+    ],
+    "exercise": "বাস করা / থাকা — infinitive ও Partizip II লেখো; ich-form বলো।",
+    "answer": "wohnen; gewohnt; ich wohne",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "f1e5880f2fc824b1ad36aaeb55c010c9e2933487f9e1b9bc58daf5d0345beda2",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-1d8ad3aa4f37",
+    "pdf_pages": [
+      99
+    ]
+  },
+  "gb1-228192eb9692": {
+    "lemma": "leben",
+    "word_type": "verb",
+    "bn_meanings": [
+      "জীবনযাপন করা / বেঁচে থাকা"
+    ],
+    "grammar": {
+      "praesens": [
+        "lebe",
+        "lebst",
+        "lebt",
+        "leben",
+        "lebt",
+        "leben"
+      ],
+      "partizip_ii": "gelebt",
+      "auxiliary": "haben",
+      "praeteritum": "lebte",
+      "case": "usually no direct object; location often in + Dativ",
+      "group": "regular"
+    },
+    "usage_notes": "",
+    "original_examples": [
+      {
+        "de": "Meine Eltern leben in einer kleinen Stadt.",
+        "bn": "আমার বাবা-মা একটি ছোট শহরে থাকেন।"
+      }
+    ],
+    "exercise": "জীবনযাপন করা / বেঁচে থাকা — infinitive ও Partizip II লেখো; ich-form বলো।",
+    "answer": "leben; gelebt; ich lebe",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "dc081d933750573922b6a1c12103a119fa8db3a0b598e1044b06f06a2e078705",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-228192eb9692",
+    "pdf_pages": [
+      59
+    ]
+  },
+  "gb1-8203128578ed": {
+    "lemma": "heißen",
+    "word_type": "verb",
+    "bn_meanings": [
+      "নাম হওয়া / বলা হওয়া"
+    ],
+    "grammar": {
+      "praesens": [
+        "heiße",
+        "heißt",
+        "heißt",
+        "heißen",
+        "heißt",
+        "heißen"
+      ],
+      "partizip_ii": "geheißen",
+      "auxiliary": "haben",
+      "praeteritum": "hieß",
+      "case": "no Akkusativ object for naming: Ich heiße …",
+      "group": "irregular past; du heißt (not heißst), ß already ends in an s-sound"
+    },
+    "usage_notes": "প্রথমে Wie heißt du? / Ich heiße … শিখবে। Perfekt form reference; সাধারণ পরিচয়ে Präsens ব্যবহার করো।",
+    "original_examples": [
+      {
+        "de": "Wie heißt dein Kollege?",
+        "bn": "তোমার সহকর্মীর নাম কী?"
+      }
+    ],
+    "exercise": "নাম হওয়া / বলা হওয়া — infinitive ও Partizip II লেখো; ich-form বলো।",
+    "answer": "heißen; geheißen; ich heiße",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "6320aca46a082a5941569f954600e5cc38d464fe9aff15b193063152cdfe37a9",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-8203128578ed",
+    "pdf_pages": [
+      49
+    ]
+  },
+  "gb1-b182231dffa4": {
+    "lemma": "kommen",
+    "word_type": "verb",
+    "bn_meanings": [
+      "আসা"
+    ],
+    "grammar": {
+      "praesens": [
+        "komme",
+        "kommst",
+        "kommt",
+        "kommen",
+        "kommt",
+        "kommen"
+      ],
+      "partizip_ii": "gekommen",
+      "auxiliary": "sein",
+      "praeteritum": "kam",
+      "case": "no direct object; aus + Dativ for origin",
+      "group": "irregular past; Präsens regular endings"
+    },
+    "usage_notes": "Movement verb: Perfekt-এ bin/bist/ist … gekommen।",
+    "original_examples": [
+      {
+        "de": "Ich bin gestern aus Hamburg gekommen.",
+        "bn": "গতকাল আমি হামবুর্গ থেকে এসেছি।"
+      }
+    ],
+    "exercise": "আসা — infinitive ও Partizip II লেখো; ich-form বলো।",
+    "answer": "kommen; gekommen; ich komme",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "f6ce5043e4e9708580394d76a8d1322bf40d99c2d2ce17be610de4e9d39770e1",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-b182231dffa4",
+    "pdf_pages": [
+      56
+    ]
+  },
+  "gb1-c0e2af4cb45d": {
+    "lemma": "sprechen",
+    "word_type": "verb",
+    "bn_meanings": [
+      "কথা বলা"
+    ],
+    "grammar": {
+      "praesens": [
+        "spreche",
+        "sprichst",
+        "spricht",
+        "sprechen",
+        "sprecht",
+        "sprechen"
+      ],
+      "partizip_ii": "gesprochen",
+      "auxiliary": "haben",
+      "praeteritum": "sprach",
+      "case": "mit + Dativ; über + Akkusativ; eine Sprache sprechen",
+      "group": "irregular: du/er e → i"
+    },
+    "usage_notes": "ich spreche, কিন্তু du sprichst / er spricht।",
+    "original_examples": [
+      {
+        "de": "Ich spreche mit meinem Kollegen Deutsch.",
+        "bn": "আমি আমার সহকর্মীর সঙ্গে জার্মানে কথা বলি।"
+      }
+    ],
+    "exercise": "কথা বলা — infinitive ও Partizip II লেখো; ich-form বলো।",
+    "answer": "sprechen; gesprochen; ich spreche",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "6ed65b6533403c67472a4e06b6fe95a08051cd4c6784ee4bf3528edef8f7477a",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-c0e2af4cb45d",
+    "pdf_pages": [
+      82
+    ]
+  },
+  "gb1-5bbcc1da4567": {
+    "lemma": "kaufen",
+    "word_type": "verb",
+    "bn_meanings": [
+      "কেনা"
+    ],
+    "grammar": {
+      "praesens": [
+        "kaufe",
+        "kaufst",
+        "kauft",
+        "kaufen",
+        "kauft",
+        "kaufen"
+      ],
+      "partizip_ii": "gekauft",
+      "auxiliary": "haben",
+      "praeteritum": "kaufte",
+      "case": "Akkusativ: etwas kaufen; optional beneficiary Dativ",
+      "group": "regular: ge- + kauf + -t"
+    },
+    "usage_notes": "মূল pattern etwas kaufen; sich etwas kaufen-এ optional Dativ reflexive-ও হতে পারে।",
+    "original_examples": [
+      {
+        "de": "Gestern habe ich zwei Fahrkarten gekauft.",
+        "bn": "গতকাল আমি দুটি টিকিট কিনেছি।"
+      }
+    ],
+    "exercise": "কেনা — infinitive ও Partizip II লেখো; ich-form বলো।",
+    "answer": "kaufen; gekauft; ich kaufe",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "3ef9a59197a9e26a98d5a0d53d74b276a318a9d199020c06bb82b8cdab92ff9f",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-5bbcc1da4567",
+    "pdf_pages": [
+      54
+    ]
+  },
+  "gb1-035bf0cf765d": {
+    "lemma": "bezahlen",
+    "word_type": "verb",
+    "bn_meanings": [
+      "দাম / বিল পরিশোধ করা"
+    ],
+    "grammar": {
+      "praesens": [
+        "bezahle",
+        "bezahlst",
+        "bezahlt",
+        "bezahlen",
+        "bezahlt",
+        "bezahlen"
+      ],
+      "partizip_ii": "bezahlt",
+      "auxiliary": "haben",
+      "praeteritum": "bezahlte",
+      "case": "Akkusativ: die Rechnung bezahlen; für + Akkusativ also possible",
+      "group": "regular, inseparable be-: no ge- in Partizip II"
+    },
+    "usage_notes": "be-zahlen → bezahlt; gebezahlt নয়।",
+    "original_examples": [
+      {
+        "de": "Ich habe die Rechnung schon bezahlt.",
+        "bn": "আমি বিলটি ইতিমধ্যে পরিশোধ করেছি।"
+      }
+    ],
+    "exercise": "দাম / বিল পরিশোধ করা — infinitive ও Partizip II লেখো; ich-form বলো।",
+    "answer": "bezahlen; bezahlt; ich bezahle",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "686bb24a26b124a0820e082a1b3693c6d1cb36922b11c5496de315735e167e4b",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-035bf0cf765d",
+    "pdf_pages": [
+      27
+    ]
+  },
+  "gb1-00f7d5733c68": {
+    "lemma": "essen",
+    "word_type": "verb",
+    "bn_meanings": [
+      "খাওয়া"
+    ],
+    "grammar": {
+      "praesens": [
+        "esse",
+        "isst",
+        "isst",
+        "essen",
+        "esst",
+        "essen"
+      ],
+      "partizip_ii": "gegessen",
+      "auxiliary": "haben",
+      "praeteritum": "aß",
+      "case": "Akkusativ: etwas essen",
+      "group": "irregular: du/er essen → isst; ihr esst"
+    },
+    "usage_notes": "du isst = তুমি খাও; er ist = সে হয়/আছে—বানান আলাদা।",
+    "original_examples": [
+      {
+        "de": "Zum Frühstück esse ich Brot und ein Ei.",
+        "bn": "সকালের নাশতায় আমি রুটি ও একটি ডিম খাই।"
+      }
+    ],
+    "exercise": "খাওয়া — infinitive ও Partizip II লেখো; ich-form বলো।",
+    "answer": "essen; gegessen; ich esse",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "6feaee00c909cf7b6a44e4b20e56f5389d05b0102c5577bf0b38cada09ac35e7",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-00f7d5733c68",
+    "pdf_pages": [
+      38
+    ]
+  },
+  "gb1-5638254de7ba": {
+    "lemma": "trinken",
+    "word_type": "verb",
+    "bn_meanings": [
+      "পান করা"
+    ],
+    "grammar": {
+      "praesens": [
+        "trinke",
+        "trinkst",
+        "trinkt",
+        "trinken",
+        "trinkt",
+        "trinken"
+      ],
+      "partizip_ii": "getrunken",
+      "auxiliary": "haben",
+      "praeteritum": "trank",
+      "case": "Akkusativ: etwas trinken",
+      "group": "irregular past; regular Präsens endings"
+    },
+    "usage_notes": "",
+    "original_examples": [
+      {
+        "de": "Ich habe heute viel Wasser getrunken.",
+        "bn": "আজ আমি অনেক পানি পান করেছি।"
+      }
+    ],
+    "exercise": "পান করা — infinitive ও Partizip II লেখো; ich-form বলো।",
+    "answer": "trinken; getrunken; ich trinke",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "d37b27f0579162679a1a56468369554b213d03868f997d98918e910d1efd7bb8",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-5638254de7ba",
+    "pdf_pages": [
+      88
+    ]
+  },
+  "gb1-1b8218338b12": {
+    "lemma": "fahren",
+    "word_type": "verb",
+    "bn_meanings": [
+      "যানবাহনে যাওয়া; চালানো"
+    ],
+    "grammar": {
+      "praesens": [
+        "fahre",
+        "fährst",
+        "fährt",
+        "fahren",
+        "fahrt",
+        "fahren"
+      ],
+      "partizip_ii": "gefahren",
+      "auxiliary": "sein for travel; haben for transitive driving",
+      "praeteritum": "fuhr",
+      "case": "mit + Dativ for transport; Akkusativ when driving a vehicle as object",
+      "group": "irregular: du/er a → ä"
+    },
+    "usage_notes": "এই lesson-এর travel অর্থে: bin gefahren। Ich habe den Wagen gefahren-এ haben সম্ভব।",
+    "original_examples": [
+      {
+        "de": "Ich bin mit dem Bus zur Arbeit gefahren.",
+        "bn": "আমি বাসে করে কাজে গিয়েছি।"
+      }
+    ],
+    "exercise": "যানবাহনে যাওয়া; চালানো — infinitive ও Partizip II লেখো; ich-form বলো।",
+    "answer": "fahren; gefahren; ich fahre",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "6d6178c83a8765bb36ad564442881da23adf05c4616faffa830480a3b15f6b62",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-1b8218338b12",
+    "pdf_pages": [
+      38
+    ]
+  },
+  "gb1-94cc63d2fb22": {
+    "lemma": "gehen",
+    "word_type": "verb",
+    "bn_meanings": [
+      "যাওয়া / হাঁটা"
+    ],
+    "grammar": {
+      "praesens": [
+        "gehe",
+        "gehst",
+        "geht",
+        "gehen",
+        "geht",
+        "gehen"
+      ],
+      "partizip_ii": "gegangen",
+      "auxiliary": "sein",
+      "praeteritum": "ging",
+      "case": "no direct object in movement use; zu + Dativ; location prepositions vary",
+      "group": "irregular past"
+    },
+    "usage_notes": "zu Fuß gehen = হেঁটে যাওয়া।",
+    "original_examples": [
+      {
+        "de": "Heute gehe ich zu Fuß zum Bahnhof.",
+        "bn": "আজ আমি হেঁটে রেলস্টেশনে যাই।"
+      }
+    ],
+    "exercise": "যাওয়া / হাঁটা — infinitive ও Partizip II লেখো; ich-form বলো।",
+    "answer": "gehen; gegangen; ich gehe",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "6dc4017850d79d9377b8dc60c263649c1c2af3cb38dd8a61b95a14ff5176c0f5",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-94cc63d2fb22",
+    "pdf_pages": [
+      44
+    ]
+  },
+  "gb1-3a8f1fe20d35": {
+    "lemma": "warten",
+    "word_type": "verb",
+    "bn_meanings": [
+      "অপেক্ষা করা"
+    ],
+    "grammar": {
+      "praesens": [
+        "warte",
+        "wartest",
+        "wartet",
+        "warten",
+        "wartet",
+        "warten"
+      ],
+      "partizip_ii": "gewartet",
+      "auxiliary": "haben",
+      "praeteritum": "wartete",
+      "case": "auf + Akkusativ: auf den Bus warten",
+      "group": "regular -t stem: extra e in wartest/wartet"
+    },
+    "usage_notes": "",
+    "original_examples": [
+      {
+        "de": "Wir haben zehn Minuten auf den Bus gewartet.",
+        "bn": "আমরা বাসের জন্য দশ মিনিট অপেক্ষা করেছি।"
+      }
+    ],
+    "exercise": "অপেক্ষা করা — infinitive ও Partizip II লেখো; ich-form বলো।",
+    "answer": "warten; gewartet; ich warte",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "9249b6b0c5535d56942dea09bf791cd7ea4df1943e0c0de49e64ba3228f7ddd1",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-3a8f1fe20d35",
+    "pdf_pages": [
+      96
+    ]
+  },
+  "gb1-658b78d30529": {
+    "lemma": "ankommen",
+    "word_type": "verb",
+    "bn_meanings": [
+      "পৌঁছানো"
+    ],
+    "grammar": {
+      "praesens": [
+        "komme an",
+        "kommst an",
+        "kommt an",
+        "kommen an",
+        "kommt an",
+        "kommen an"
+      ],
+      "partizip_ii": "angekommen",
+      "auxiliary": "sein",
+      "praeteritum": "kam an",
+      "case": "in + Dativ / an + Dativ for arrival location; no direct object",
+      "group": "separable an- + irregular kommen"
+    },
+    "usage_notes": "Main clause-এ an শেষে: Der Zug kommt an।",
+    "original_examples": [
+      {
+        "de": "Der Zug ist pünktlich angekommen.",
+        "bn": "ট্রেন ঠিক সময়ে পৌঁছেছে।"
+      }
+    ],
+    "exercise": "পৌঁছানো — infinitive ও Partizip II লেখো; ich-form বলো।",
+    "answer": "ankommen; angekommen; ich komme an",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "b51d6b4b6e8f0fa01cc96e60ff02d46230cf9632fe88eb8a7bcba3a85f96c8bf",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-658b78d30529",
+    "pdf_pages": [
+      18
+    ]
+  },
+  "gb1-99142bf1fe36": {
+    "lemma": "umsteigen",
+    "word_type": "verb",
+    "bn_meanings": [
+      "যানবাহন বদলানো / transfer করা"
+    ],
+    "grammar": {
+      "praesens": [
+        "steige um",
+        "steigst um",
+        "steigt um",
+        "steigen um",
+        "steigt um",
+        "steigen um"
+      ],
+      "partizip_ii": "umgestiegen",
+      "auxiliary": "sein",
+      "praeteritum": "stieg um",
+      "case": "in + Akkusativ for the next vehicle: in den Bus umsteigen",
+      "group": "separable um- + irregular steigen"
+    },
+    "usage_notes": "",
+    "original_examples": [
+      {
+        "de": "In Hamburg bin ich in einen anderen Zug umgestiegen.",
+        "bn": "হামবুর্গে আমি অন্য একটি ট্রেনে উঠতে বদল করেছি।"
+      }
+    ],
+    "exercise": "যানবাহন বদলানো / transfer করা — infinitive ও Partizip II লেখো; ich-form বলো।",
+    "answer": "umsteigen; umgestiegen; ich steige um",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "6891c29cb00fc95939c782770f0aa5159ab17999ccb1e39567b6062442dc012a",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-99142bf1fe36",
+    "pdf_pages": [
+      90
+    ]
+  },
+  "gb1-9f6c18a24230": {
+    "lemma": "fragen",
+    "word_type": "verb",
+    "bn_meanings": [
+      "জিজ্ঞাসা করা"
+    ],
+    "grammar": {
+      "praesens": [
+        "frage",
+        "fragst",
+        "fragt",
+        "fragen",
+        "fragt",
+        "fragen"
+      ],
+      "partizip_ii": "gefragt",
+      "auxiliary": "haben",
+      "praeteritum": "fragte",
+      "case": "person in Akkusativ; nach + Dativ for the thing asked about",
+      "group": "regular"
+    },
+    "usage_notes": "jemanden fragen, কিন্তু jemandem antworten।",
+    "original_examples": [
+      {
+        "de": "Ich frage den Kollegen nach dem Termin.",
+        "bn": "আমি সহকর্মীকে appointment সম্পর্কে জিজ্ঞাসা করি।"
+      }
+    ],
+    "exercise": "জিজ্ঞাসা করা — infinitive ও Partizip II লেখো; ich-form বলো।",
+    "answer": "fragen; gefragt; ich frage",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "6d2bd7abd32d82ab3ae2a5359e3a999c7bfcf4443d1bb4d243c00061c7107c8f",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-9f6c18a24230",
+    "pdf_pages": [
+      41
+    ]
+  },
+  "gb1-a544984a41b5": {
+    "lemma": "antworten",
+    "word_type": "verb",
+    "bn_meanings": [
+      "উত্তর দেওয়া"
+    ],
+    "grammar": {
+      "praesens": [
+        "antworte",
+        "antwortest",
+        "antwortet",
+        "antworten",
+        "antwortet",
+        "antworten"
+      ],
+      "partizip_ii": "geantwortet",
+      "auxiliary": "haben",
+      "praeteritum": "antwortete",
+      "case": "Dativ person; auf + Akkusativ for a question/message",
+      "group": "regular -t stem: extra e"
+    },
+    "usage_notes": "antworten + Dativ: ihm/ihr/ihnen।",
+    "original_examples": [
+      {
+        "de": "Ich habe der Kollegin auf ihre Frage geantwortet.",
+        "bn": "আমি সহকর্মীকে তাঁর প্রশ্নের উত্তর দিয়েছি।"
+      }
+    ],
+    "exercise": "উত্তর দেওয়া — infinitive ও Partizip II লেখো; ich-form বলো।",
+    "answer": "antworten; geantwortet; ich antworte",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "adaf55bc86704de915a4e58f6b9f6a35f1929e5770609d16e44f0c31f78c51a6",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-a544984a41b5",
+    "pdf_pages": [
+      19
+    ]
+  },
+  "gb1-371ac254768a": {
+    "lemma": "verstehen",
+    "word_type": "verb",
+    "bn_meanings": [
+      "বোঝা"
+    ],
+    "grammar": {
+      "praesens": [
+        "verstehe",
+        "verstehst",
+        "versteht",
+        "verstehen",
+        "versteht",
+        "verstehen"
+      ],
+      "partizip_ii": "verstanden",
+      "auxiliary": "haben",
+      "praeteritum": "verstand",
+      "case": "Akkusativ: jemanden/etwas verstehen",
+      "group": "irregular, inseparable ver-; no ge-"
+    },
+    "usage_notes": "মূল বোঝা অর্থে reflexive লাগে না; sich verstehen-এর আলাদা ব্যবহার আছে।",
+    "original_examples": [
+      {
+        "de": "Ich habe die Frage nicht verstanden.",
+        "bn": "আমি প্রশ্নটি বুঝিনি।"
+      }
+    ],
+    "exercise": "বোঝা — infinitive ও Partizip II লেখো; ich-form বলো।",
+    "answer": "verstehen; verstanden; ich verstehe",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "19332a02faf438d5e8eee399a974caff9c99b6ac9f8c4476b11c03fdd883bec0",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-371ac254768a",
+    "pdf_pages": [
+      94
+    ]
+  },
+  "gb1-6ec0a45c96c5": {
+    "lemma": "aufstehen",
+    "word_type": "verb",
+    "bn_meanings": [
+      "ঘুম থেকে ওঠা; উঠে দাঁড়ানো"
+    ],
+    "grammar": {
+      "praesens": [
+        "stehe auf",
+        "stehst auf",
+        "steht auf",
+        "stehen auf",
+        "steht auf",
+        "stehen auf"
+      ],
+      "partizip_ii": "aufgestanden",
+      "auxiliary": "sein",
+      "praeteritum": "stand auf",
+      "case": "no direct object",
+      "group": "separable auf- + irregular stehen"
+    },
+    "usage_notes": "aufstehen → auf-ge-standen।",
+    "original_examples": [
+      {
+        "de": "Heute bin ich um sieben Uhr aufgestanden.",
+        "bn": "আজ আমি সাতটায় ঘুম থেকে উঠেছি।"
+      }
+    ],
+    "exercise": "ঘুম থেকে ওঠা; উঠে দাঁড়ানো — infinitive ও Partizip II লেখো; ich-form বলো।",
+    "answer": "aufstehen; aufgestanden; ich stehe auf",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "aa795245682aa2783634def85106b34f04a80e87992d71d176963c6c3537a783",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-6ec0a45c96c5",
+    "pdf_pages": [
+      21
+    ]
+  },
+  "gb1-d56eb128d928": {
+    "lemma": "schlafen",
+    "word_type": "verb",
+    "bn_meanings": [
+      "ঘুমানো"
+    ],
+    "grammar": {
+      "praesens": [
+        "schlafe",
+        "schläfst",
+        "schläft",
+        "schlafen",
+        "schlaft",
+        "schlafen"
+      ],
+      "partizip_ii": "geschlafen",
+      "auxiliary": "haben",
+      "praeteritum": "schlief",
+      "case": "no direct object in ordinary sleeping use",
+      "group": "irregular: du/er a → ä"
+    },
+    "usage_notes": "",
+    "original_examples": [
+      {
+        "de": "Ich habe letzte Nacht gut geschlafen.",
+        "bn": "গত রাতে আমি ভালো ঘুমিয়েছি।"
+      }
+    ],
+    "exercise": "ঘুমানো — infinitive ও Partizip II লেখো; ich-form বলো।",
+    "answer": "schlafen; geschlafen; ich schlafe",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "a5b54d39c4f02655eee9053e51763659928b1c25c4989ea8c0635a2b61057b4a",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-d56eb128d928",
+    "pdf_pages": [
+      77
+    ]
+  },
+  "gb1-8c3b07da0c5a": {
+    "lemma": "duschen",
+    "word_type": "verb",
+    "bn_meanings": [
+      "শাওয়ারে গোসল করা"
+    ],
+    "grammar": {
+      "praesens": [
+        "dusche",
+        "duschst",
+        "duscht",
+        "duschen",
+        "duscht",
+        "duschen"
+      ],
+      "partizip_ii": "geduscht",
+      "auxiliary": "haben",
+      "praeteritum": "duschte",
+      "case": "no object in Ich dusche; optional Akkusativ reflexive: ich dusche mich",
+      "group": "regular; optionally reflexive"
+    },
+    "usage_notes": "Ich dusche এবং Ich dusche mich—দুটিই সম্ভব।",
+    "original_examples": [
+      {
+        "de": "Ich dusche morgens vor der Arbeit.",
+        "bn": "কাজের আগে সকালে আমি গোসল করি।"
+      }
+    ],
+    "exercise": "শাওয়ারে গোসল করা — infinitive ও Partizip II লেখো; ich-form বলো।",
+    "answer": "duschen; geduscht; ich dusche",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "7d88efd28c6758e137c943c8d5b710e5b7f30cc31ee14e2b7a3bb373db972f56",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-8c3b07da0c5a",
+    "pdf_pages": [
+      32
+    ]
+  },
+  "gb1-a2ab47f396b2": {
+    "lemma": "frühstücken",
+    "word_type": "verb",
+    "bn_meanings": [
+      "সকালের নাশতা করা"
+    ],
+    "grammar": {
+      "praesens": [
+        "frühstücke",
+        "frühstückst",
+        "frühstückt",
+        "frühstücken",
+        "frühstückt",
+        "frühstücken"
+      ],
+      "partizip_ii": "gefrühstückt",
+      "auxiliary": "haben",
+      "praeteritum": "frühstückte",
+      "case": "usually no direct object; etwas frühstücken also possible",
+      "group": "regular"
+    },
+    "usage_notes": "das Frühstück = নাশতা; frühstücken = নাশতা করা।",
+    "original_examples": [
+      {
+        "de": "Wir haben heute zusammen gefrühstückt.",
+        "bn": "আজ আমরা একসঙ্গে সকালের নাশতা করেছি।"
+      }
+    ],
+    "exercise": "সকালের নাশতা করা — infinitive ও Partizip II লেখো; ich-form বলো।",
+    "answer": "frühstücken; gefrühstückt; ich frühstücke",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "34fd2762d9018e415359bfe8cc5a47de8071ce7fec877d8fb4e1d14d9141d03c",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-a2ab47f396b2",
+    "pdf_pages": [
+      42
+    ]
+  },
+  "gb1-5e2d03f60a20": {
+    "lemma": "einkaufen",
+    "word_type": "verb",
+    "bn_meanings": [
+      "কেনাকাটা করা"
+    ],
+    "grammar": {
+      "praesens": [
+        "kaufe ein",
+        "kaufst ein",
+        "kauft ein",
+        "kaufen ein",
+        "kauft ein",
+        "kaufen ein"
+      ],
+      "partizip_ii": "eingekauft",
+      "auxiliary": "haben",
+      "praeteritum": "kaufte ein",
+      "case": "usually no object; Akkusativ for goods when expressed",
+      "group": "separable ein- + regular kaufen"
+    },
+    "usage_notes": "kaufen = নির্দিষ্ট কিছু কেনা; einkaufen = কেনাকাটা করা।",
+    "original_examples": [
+      {
+        "de": "Am Samstag habe ich auf dem Markt eingekauft.",
+        "bn": "শনিবার আমি বাজারে কেনাকাটা করেছি।"
+      }
+    ],
+    "exercise": "কেনাকাটা করা — infinitive ও Partizip II লেখো; ich-form বলো।",
+    "answer": "einkaufen; eingekauft; ich kaufe ein",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "17f9dc5634c3adf36669368c96a620dd0e4b4e8f7381b860446f72a6eacf7fa9",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-5e2d03f60a20",
+    "pdf_pages": [
+      34
+    ]
+  },
+  "gb1-d903ad9dfcbb": {
+    "lemma": "hoffen",
+    "word_type": "verb",
+    "bn_meanings": [
+      "আশা করা"
+    ],
+    "grammar": {
+      "praesens": [
+        "hoffe",
+        "hoffst",
+        "hofft",
+        "hoffen",
+        "hofft",
+        "hoffen"
+      ],
+      "partizip_ii": "gehofft",
+      "auxiliary": "haben",
+      "praeteritum": "hoffte",
+      "case": "auf + Akkusativ; hoffen, dass …",
+      "group": "regular"
+    },
+    "usage_notes": "dass clause-এ conjugated verb শেষে: dass ich … bestehe।",
+    "original_examples": [
+      {
+        "de": "Ich hoffe, dass ich die Prüfung bestehe.",
+        "bn": "আমি আশা করি পরীক্ষায় পাস করব।"
+      }
+    ],
+    "exercise": "আশা করা — infinitive ও Partizip II লেখো; ich-form বলো।",
+    "answer": "hoffen; gehofft; ich hoffe",
+    "review_state": "reviewed",
+    "reviewed_content_digest": "55a90aa979bfe24957e095dd60db31940b7180d47ecd9156e2a883575cadaebf",
+    "content_review_basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit",
+    "target_id": "gb1-d903ad9dfcbb",
+    "pdf_pages": [
+      50
+    ]
+  }
+}

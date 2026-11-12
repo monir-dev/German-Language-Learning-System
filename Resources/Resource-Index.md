@@ -14,6 +14,7 @@ External resources are stored in this project's `External Resources/` folder. Th
 
 ## Vocabulary
 
+- [Goethe-Zertifikat B1 — official Wortliste](<../External Resources/Goethe-Zertifikat_B1_Wortliste.pdf>) — downloaded 2026-11-12 from [Goethe-Institut](https://www.goethe.de/pro/relaunch/prf/en/Goethe-Zertifikat_B1_Wortliste.pdf); verified as a 104-page PDF. Approximately 2,400 lexical units is the publisher's description, not an audited imported-entry count. Source PDF/private cache excluded from Git. [Topic course](<../Vocabulary/Wordlists/Goethe-B1/README.md>) now has a 100-target starter set (20 new-word + 5 review lessons); [full source coverage remains incomplete](<../Vocabulary/Wordlists/Goethe-B1/Coverage.md>). Downloading/preparing does not mean studied or mastered.
 - [200 common German nouns](<../External Resources/200 common-german-nouns.pdf>)
 - [Most used 200 German words](<../External Resources/most_used_200_german_words.pdf>)
 - [Vocabulary PDF](<../External Resources/Vocabulary.pdf>)

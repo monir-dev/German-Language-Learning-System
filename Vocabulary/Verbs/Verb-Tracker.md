@@ -34,4 +34,10 @@
 | funktionieren | কাজ করা | regular / professional | funktioniert | funktionierte | hat funktioniert | — | Introduced | [[2026-10-05__Server-Ausfall-und-Vertraege]] |
 | geben | দেওয়া | irregular / phrase | gibt | gab | hat gegeben | jemandem Bescheid geben | Introduced | [[2026-10-05__Server-Ausfall-und-Vertraege]] |
 
+
+| zurücksetzen | reset করা / আগের অবস্থায় ফেরানো | regular / separable / professional | setzt zurück | setzte zurück | hat zurückgesetzt | Akkusativ object | Introduced — collected, unassessed | [[Professional-Vocabulary]] — learner request 2026-10-14 |
+| austauschen | বদলে দেওয়া / প্রতিস্থাপন / বিনিময় করা | regular / separable / professional | tauscht aus | tauschte aus | hat ausgetauscht | Akkusativ object | Introduced — collected, unassessed | [[Professional-Vocabulary]] — learner supplied ausgetauscht, 2026-10-14 |
+
 New verbs go here with all relevant forms and one original learner sentence.
+
+2026-10-14 intake: zurücksetzen and austauschen (supplied Partizip II: ausgetauscht) collected on learner request. Präsens entries above use er/sie/es. Original learner sentences and active recall pending; no practice or mastery inferred.

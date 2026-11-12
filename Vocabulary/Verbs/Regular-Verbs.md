@@ -16,3 +16,7 @@ Regular verbs follow predictable endings. Start with the high-utility verbs belo
 | suchen | খোঁজা | daily actions | Not started | Not started |
 | warten | অপেক্ষা করা | time/social | Not started | Not started |
 | versuchen | চেষ্টা করা | learning | Not started | Not started |
+
+## Collected professional verbs — 2026-10-14
+
+`zurücksetzen` and `austauschen`: regular separable verbs, work/IT maintenance; Akkusativ objects (`das Passwort zurücksetzen`, `die Festplatte austauschen`). Canonical forms/status: [[Verb-Tracker]]; context: [[Professional-Vocabulary]]. Collected on request; active recall and learner sentence production unassessed.

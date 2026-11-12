@@ -17,3 +17,7 @@
 - Count teaching, retrieval, correction, and sentence production.
 - Do not count planning or file-management time.
 - When a session ends, add or update the date row and keep the estimate consistent with lecture metadata.
+
+## 2026-10-14 — ongoing
+
+~11 minutes estimated completed revision, teaching, recall, production, correction, targeted recovery, question-formation and reading workload; active time not measured. Revision 4/5 exact; shopping recall 4/4; production 0/3 exact with correct meanings/word order; guided recovery 3/3. Question formation 3/3; supported reading comprehension 3/3. Session completed; no pending exercise. Evidence: [[2026-10-14__Vocabulary-Revision-und-Einkaufen]].

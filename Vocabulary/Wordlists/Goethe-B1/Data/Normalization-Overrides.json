@@ -1,0 +1,999 @@
+{
+  "goethe-p070-c1-y558": {
+    "targets": [
+      {
+        "lemma": "Person",
+        "word_type": "noun",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p066-c1-y118": {
+    "targets": [
+      {
+        "lemma": "Name",
+        "word_type": "noun",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p066-c1-y184": {
+    "targets": [
+      {
+        "lemma": "Vorname",
+        "word_type": "noun",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p066-c1-y162": {
+    "targets": [
+      {
+        "lemma": "Familienname",
+        "word_type": "noun",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p017-c1-y106": {
+    "targets": [
+      {
+        "lemma": "Adresse",
+        "word_type": "noun",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p039-c1-y646": {
+    "targets": [
+      {
+        "lemma": "Familie",
+        "word_type": "noun",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p035-c1-y536": {
+    "targets": [
+      {
+        "lemma": "Eltern",
+        "word_type": "noun",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p065-c1-y558": {
+    "targets": [
+      {
+        "lemma": "Mutter",
+        "word_type": "noun",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p091-c2-y130": {
+    "targets": [
+      {
+        "lemma": "Vater",
+        "word_type": "noun",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p054-c2-y602": {
+    "targets": [
+      {
+        "lemma": "Kind",
+        "word_type": "noun",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p071-c2-y184": {
+    "targets": [
+      {
+        "lemma": "Preis",
+        "word_type": "noun",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p073-c1-y514": {
+    "targets": [
+      {
+        "lemma": "Rechnung",
+        "word_type": "noun",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p018-c1-y106": {
+    "targets": [
+      {
+        "lemma": "Angebot",
+        "word_type": "noun",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p028-c2-y414": {
+    "targets": [
+      {
+        "lemma": "Brot",
+        "word_type": "noun",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p074-c1-y272": {
+    "targets": [
+      {
+        "lemma": "Reis",
+        "word_type": "noun",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p040-c2-y678": {
+    "targets": [
+      {
+        "lemma": "Fleisch",
+        "word_type": "noun",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p013-word-groups": {
+    "targets": [
+      {
+        "lemma": "Fisch",
+        "word_type": "noun",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p033-c1-y580": {
+    "targets": [
+      {
+        "lemma": "Ei",
+        "word_type": "noun",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p042-c2-y216": {
+    "targets": [
+      {
+        "lemma": "Frühstück",
+        "word_type": "noun",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p051-c1-y338": {
+    "targets": [
+      {
+        "lemma": "Hunger",
+        "word_type": "noun",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p032-c2-y426": {
+    "targets": [
+      {
+        "lemma": "Durst",
+        "word_type": "noun",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p099-c1-y250": {
+    "targets": [
+      {
+        "lemma": "Wohnung",
+        "word_type": "noun",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p100-c2-y294": {
+    "targets": [
+      {
+        "lemma": "Zimmer",
+        "word_type": "noun",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p057-c2-y612": {
+    "targets": [
+      {
+        "lemma": "Küche",
+        "word_type": "noun",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p023-c1-y218": {
+    "targets": [
+      {
+        "lemma": "Bad",
+        "word_type": "noun",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p064-c1-y602": {
+    "targets": [
+      {
+        "lemma": "Möbel",
+        "word_type": "noun",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p087-c1-y216": {
+    "targets": [
+      {
+        "lemma": "Tisch",
+        "word_type": "noun",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p084-c2-y712": {
+    "targets": [
+      {
+        "lemma": "Stuhl",
+        "word_type": "noun",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p026-c2-y448": {
+    "targets": [
+      {
+        "lemma": "Bett",
+        "word_type": "noun",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p078-c1-y556": {
+    "targets": [
+      {
+        "lemma": "Schrank",
+        "word_type": "noun",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p039-c2-y756": {
+    "targets": [
+      {
+        "lemma": "Fenster",
+        "word_type": "noun",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p023-c1-y394": {
+    "targets": [
+      {
+        "lemma": "Bahnhof",
+        "word_type": "noun",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p048-c2-y150": {
+    "targets": [
+      {
+        "lemma": "Haltestelle",
+        "word_type": "noun",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p039-c1-y184": {
+    "targets": [
+      {
+        "lemma": "Fahrkarte",
+        "word_type": "noun",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p101-c1-y370": {
+    "targets": [
+      {
+        "lemma": "Zug",
+        "word_type": "noun",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p029-c1-y470": {
+    "targets": [
+      {
+        "lemma": "Bus",
+        "word_type": "noun",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p020-c1-y436": {
+    "targets": [
+      {
+        "lemma": "Arzt",
+        "word_type": "noun",
+        "region": null
+      },
+      {
+        "lemma": "Ärztin",
+        "word_type": "noun",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p057-c1-y492": {
+    "targets": [
+      {
+        "lemma": "Krankenhaus",
+        "word_type": "noun",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p019-c2-y360": {
+    "targets": [
+      {
+        "lemma": "Apotheke",
+        "word_type": "noun",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p062-c2-y404": {
+    "targets": [
+      {
+        "lemma": "Medikament",
+        "word_type": "noun",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p086-c2-y282": {
+    "targets": [
+      {
+        "lemma": "Termin",
+        "word_type": "noun",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p077-c2-y436": {
+    "targets": [
+      {
+        "lemma": "Schmerz",
+        "word_type": "noun",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p015-word-groups": {
+    "targets": [
+      {
+        "lemma": "Tag",
+        "word_type": "noun",
+        "region": null
+      },
+      {
+        "lemma": "Woche",
+        "word_type": "noun",
+        "region": null
+      },
+      {
+        "lemma": "Monat",
+        "word_type": "noun",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p089-c2-y282": {
+    "targets": [
+      {
+        "lemma": "Uhr",
+        "word_type": "noun",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p085-c1-y084": {
+    "targets": [
+      {
+        "lemma": "Stunde",
+        "word_type": "noun",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p041-c2-y480": {
+    "targets": [
+      {
+        "lemma": "Frage",
+        "word_type": "noun",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p019-c1-y744": {
+    "targets": [
+      {
+        "lemma": "Antwort",
+        "word_type": "noun",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p058-c1-y206": {
+    "targets": [
+      {
+        "lemma": "Kunde",
+        "word_type": "noun",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p055-c2-y734": {
+    "targets": [
+      {
+        "lemma": "Kollege",
+        "word_type": "noun",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p026-c1-y382": {
+    "targets": [
+      {
+        "lemma": "Besprechung",
+        "word_type": "noun",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p020-c2-y326": {
+    "targets": [
+      {
+        "lemma": "Aufgabe",
+        "word_type": "noun",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p045-c2-y294": {
+    "targets": [
+      {
+        "lemma": "Geschäft",
+        "word_type": "noun",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p062-c1-y744": {
+    "targets": [
+      {
+        "lemma": "Markt",
+        "word_type": "noun",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p054-c1-y546": {
+    "targets": [
+      {
+        "lemma": "Kasse",
+        "word_type": "noun",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p072-c2-y150": {
+    "targets": [
+      {
+        "lemma": "Quittung",
+        "word_type": "noun",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p044-c2-y558": {
+    "targets": [
+      {
+        "lemma": "Geld",
+        "word_type": "noun",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p018-c2-y084": {
+    "targets": [
+      {
+        "lemma": "Angst",
+        "word_type": "noun",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p057-c1-y414": {
+    "targets": [
+      {
+        "lemma": "krank",
+        "word_type": "adjective",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p046-c1-y184": {
+    "targets": [
+      {
+        "lemma": "gesund",
+        "word_type": "adjective",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p064-c2-y634": {
+    "targets": [
+      {
+        "lemma": "müde",
+        "word_type": "adjective",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p050-c1-y172": {
+    "targets": [
+      {
+        "lemma": "heute",
+        "word_type": "adverb",
+        "region": null
+      },
+      {
+        "lemma": "herzlich heute",
+        "word_type": "other",
+        "region": null,
+        "reviewed": false
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p046-c1-y162": {
+    "targets": [
+      {
+        "lemma": "gestern",
+        "word_type": "adverb",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p042-c1-y734": {
+    "targets": [
+      {
+        "lemma": "früh",
+        "word_type": "adjective/adverb",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p081-c2-y502": {
+    "targets": [
+      {
+        "lemma": "spät",
+        "word_type": "adjective/adverb",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p072-c1-y546": {
+    "targets": [
+      {
+        "lemma": "pünktlich",
+        "word_type": "adjective/adverb",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p098-c1-y316": {
+    "targets": [
+      {
+        "lemma": "wichtig",
+        "word_type": "adjective",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p086-c2-y426": {
+    "targets": [
+      {
+        "lemma": "teuer",
+        "word_type": "adjective",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p027-c1-y414": {
+    "targets": [
+      {
+        "lemma": "billig",
+        "word_type": "adjective",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p068-c1-y450": {
+    "targets": [
+      {
+        "lemma": "offen",
+        "word_type": "adjective",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p054-c1-y084": {
+    "targets": [
+      {
+        "lemma": "kaputt",
+        "word_type": "adjective",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p076-c1-y172": {
+    "targets": [
+      {
+        "lemma": "sauber",
+        "word_type": "adjective",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p046-c2-y624": {
+    "targets": [
+      {
+        "lemma": "glücklich",
+        "word_type": "adjective",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p087-c2-y492": {
+    "targets": [
+      {
+        "lemma": "traurig",
+        "word_type": "adjective",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p101-c1-y238": {
+    "targets": [
+      {
+        "lemma": "zufrieden",
+        "word_type": "adjective",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p099-c1-y140": {
+    "targets": [
+      {
+        "lemma": "wohnen",
+        "word_type": "verb",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p059-c2-y382": {
+    "targets": [
+      {
+        "lemma": "leben",
+        "word_type": "verb",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p049-c1-y690": {
+    "targets": [
+      {
+        "lemma": "heißen",
+        "word_type": "verb",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p056-c1-y162": {
+    "targets": [
+      {
+        "lemma": "kommen",
+        "word_type": "verb",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p082-c1-y744": {
+    "targets": [
+      {
+        "lemma": "sprechen",
+        "word_type": "verb",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p054-c1-y722": {
+    "targets": [
+      {
+        "lemma": "kaufen",
+        "word_type": "verb",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p027-c1-y118": {
+    "targets": [
+      {
+        "lemma": "bezahlen",
+        "word_type": "verb",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p038-c1-y612": {
+    "targets": [
+      {
+        "lemma": "essen",
+        "word_type": "verb",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p088-c1-y238": {
+    "targets": [
+      {
+        "lemma": "trinken",
+        "word_type": "verb",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p038-c2-y678": {
+    "targets": [
+      {
+        "lemma": "fahren",
+        "word_type": "verb",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p044-c2-y250": {
+    "targets": [
+      {
+        "lemma": "gehen",
+        "word_type": "verb",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p096-c2-y316": {
+    "targets": [
+      {
+        "lemma": "warten",
+        "word_type": "verb",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p018-c2-y238": {
+    "targets": [
+      {
+        "lemma": "ankommen",
+        "word_type": "verb",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p090-c1-y118": {
+    "targets": [
+      {
+        "lemma": "umsteigen",
+        "word_type": "verb",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p041-c2-y436": {
+    "targets": [
+      {
+        "lemma": "fragen",
+        "word_type": "verb",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p019-c1-y700": {
+    "targets": [
+      {
+        "lemma": "antworten",
+        "word_type": "verb",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p094-c1-y150": {
+    "targets": [
+      {
+        "lemma": "verstehen",
+        "word_type": "verb",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p021-c1-y282": {
+    "targets": [
+      {
+        "lemma": "aufstehen",
+        "word_type": "verb",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p077-c1-y206": {
+    "targets": [
+      {
+        "lemma": "schlafen",
+        "word_type": "verb",
+        "region": null
+      },
+      {
+        "lemma": "Schirm",
+        "word_type": "noun",
+        "region": null,
+        "reviewed": false
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p032-c2-y492": {
+    "targets": [
+      {
+        "lemma": "duschen",
+        "word_type": "verb",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p042-c2-y172": {
+    "targets": [
+      {
+        "lemma": "frühstücken",
+        "word_type": "verb",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p034-c1-y426": {
+    "targets": [
+      {
+        "lemma": "einkaufen",
+        "word_type": "verb",
+        "region": null
+      }
+    ],
+    "complete": false
+  },
+  "goethe-p050-c2-y480": {
+    "targets": [
+      {
+        "lemma": "hoffen",
+        "word_type": "verb",
+        "region": null
+      }
+    ],
+    "complete": false
+  }
+}

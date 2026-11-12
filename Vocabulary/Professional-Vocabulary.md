@@ -33,3 +33,11 @@ New professional words will be normalized and added to the appropriate noun or v
 ## Additional context: server outage and missing contracts
 
 See [[2026-10-05__Server-Ausfall-und-Vertraege]] for the arranged conversation and useful workplace phrases.
+
+## Technical maintenance — collected 2026-10-14
+
+Learner supplied: `zurücksetzen`, `ausgetauscht`. Saved on request; recall and sentence production not assessed. Canonical verb forms: [[Verb-Tracker]].
+
+- `das Passwort zurücksetzen` — পাসওয়ার্ড reset করা। Example: `Ich habe das Passwort zurückgesetzt.` — আমি পাসওয়ার্ড reset করেছি।
+- `die Festplatte austauschen` — হার্ডড্রাইভ বদলে দেওয়া / প্রতিস্থাপন করা। Example: `Wir haben die Festplatte ausgetauscht.` — আমরা হার্ডড্রাইভটি বদলে দিয়েছি।
+- Supplied form `ausgetauscht` is the Partizip II of `austauschen`; its exact translation depends on the sentence (exchanged/replaced).

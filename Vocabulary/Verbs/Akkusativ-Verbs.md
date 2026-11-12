@@ -41,3 +41,7 @@ Do not assume every verb's case from meaning alone; learn the verb together with
 ## Current status
 
 Roadmap created; systematic Akkusativ-verb practice not started yet.
+
+## Collected professional verbs — 2026-10-14
+
+`zurücksetzen` and `austauschen`: regular separable verbs, work/IT maintenance; Akkusativ objects (`das Passwort zurücksetzen`, `die Festplatte austauschen`). Canonical forms/status: [[Verb-Tracker]]; context: [[Professional-Vocabulary]]. Collected on request; active recall and learner sentence production unassessed.

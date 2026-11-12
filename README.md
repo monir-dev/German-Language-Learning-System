@@ -4,6 +4,8 @@
 
 ## দ্রুত শুরু
 
+**Goethe B1 vocabulary course:** [শুরু](<Vocabulary/Wordlists/Goethe-B1/README.md>) · [প্রস্তুত lessons](<Vocabulary/Wordlists/Goethe-B1/Lesson-Index.md>) · [A–Z lookup](<Vocabulary/Wordlists/Goethe-B1/A-Z.md>)। প্রথম ১০০ target-এর material প্রস্তুত; পুরো source coverage/lesson set এখনও সম্পূর্ণ নয়।
+
 1. [[Dashboard]] খুলে বর্তমান অবস্থা দেখো।
 2. [[Syllabus]] থেকে learning journey দেখো।
 3. নতুন practice শেষে `Lectures/`-এ তারিখসহ lecture note তৈরি করো।

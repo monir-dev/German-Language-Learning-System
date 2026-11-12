@@ -20,3 +20,8 @@
 ## Agent rule
 
 When a verb is taught, update `Verb-Tracker.md` and the most relevant group file. Do not create a second conflicting form record.
+
+## Professional maintenance intake — 2026-10-14
+
+- `zurücksetzen`, `austauschen`: regular, separable; topic work/IT maintenance; Akkusativ objects.
+- Forms and status: [[Verb-Tracker]]; context: [[Professional-Vocabulary]]; groups: [[Regular-Verbs]], [[Akkusativ-Verbs]]. Collected, unassessed.

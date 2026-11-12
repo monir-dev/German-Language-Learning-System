@@ -3,3 +3,8 @@
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
 
+# Private third-party study resource; not licensed for open-source redistribution
+/External Resources/Goethe-Zertifikat_B1_Wortliste.pdf
+/External Resources/Goethe-B1-private-cache/
+__pycache__/
+

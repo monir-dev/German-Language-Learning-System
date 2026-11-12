@@ -1,0 +1,502 @@
+{
+  "Person": {
+    "state": "reviewed",
+    "digest": "70a8801903d0883c7c9bfe8a0eb2fa242f68fa90a9c08a434f1acc412c6d7152",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "Name": {
+    "state": "reviewed",
+    "digest": "cd18aeb3408b156f85c697336f38b84f8e414cb0735ec40efb52ef1ec3671ccb",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "Vorname": {
+    "state": "reviewed",
+    "digest": "b5989ef5ec803cf3caa032022b1a03c202870542a27637b6520ce1de262d5cb3",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "Familienname": {
+    "state": "reviewed",
+    "digest": "0ae4b335c6f7b99a9079f98feeb62e8be12327cfef46fd4855e53e84f1b9463b",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "Adresse": {
+    "state": "reviewed",
+    "digest": "4f8997951f2a8e88657bad7f5c6bac7296701bc1758f6c9981461e0ab5d9f07f",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "Familie": {
+    "state": "reviewed",
+    "digest": "a5092c71f6148f7200f5bc9b1dc6548bd71801569887d644ec01ce082eec8c4b",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "Eltern": {
+    "state": "reviewed",
+    "digest": "72fec2f599f2aa916b7fca6baa0bcf16bf9e360053e50f62364acf6b7b2e1522",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "Mutter": {
+    "state": "reviewed",
+    "digest": "81a079ad74b0a04a17c7a172e7ecd03f82b09eae872de572b44d35d14f4839a8",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "Vater": {
+    "state": "reviewed",
+    "digest": "867cccc554ecb3015914d15c97e29b5a6c1ad9fdb5496d81feb2c6d1eb850df2",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "Kind": {
+    "state": "reviewed",
+    "digest": "e5adf0b66a78135ae61ae906c14b2ad60fd9f6a5b22be8082a98a28ad66bab1b",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "Preis": {
+    "state": "reviewed",
+    "digest": "a3bdbd3c2c3aef294aa6285245d201219cb461156192fd8ea8f177cac22713d2",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "Rechnung": {
+    "state": "reviewed",
+    "digest": "2834e184711a86fcc9206096cc38bae75236b3ff42969f84bd154e190c63172b",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "Angebot": {
+    "state": "reviewed",
+    "digest": "599bb7e878eb16f1441ac825a2653511ac07dc66df073e4058e6f0607a86f67c",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "Brot": {
+    "state": "reviewed",
+    "digest": "58d31b593bd31135193167542b08b814694d81c6001ef9705ad3a8aa02b792c7",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "Reis": {
+    "state": "reviewed",
+    "digest": "616f79dad86ff81ee668ed36547a10074acb6ea2b8c274bcff34d74b7c0fd38f",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "Fleisch": {
+    "state": "reviewed",
+    "digest": "287ea599e6e1cba55de7dbd892171047db452cac2af73987f62e30079a6d5d46",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "Fisch": {
+    "state": "reviewed",
+    "digest": "35924f9a51ce8aeea5084df8a4e28679088092099d8d5db4e1a1a214c9d9492f",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "Ei": {
+    "state": "reviewed",
+    "digest": "a7ad85a3b3b9cdc10ac842159de5cedadbc7b4456fd0bdabe9a73218fe186fa0",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "Frühstück": {
+    "state": "reviewed",
+    "digest": "f78d7d7dfac9f5b829c8d577fe6eb46d2dbaed7ea15c3d49397102b5d834c52a",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "Hunger": {
+    "state": "reviewed",
+    "digest": "c9c434492ab47d5bb57ae90a694abd04dbff29f06b89aed850067133a6f07e12",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "Durst": {
+    "state": "reviewed",
+    "digest": "6161cec09d45d1428f89bb88c706f70aaf8ea27ab6ce1989cb46d0a3552a07cd",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "Wohnung": {
+    "state": "reviewed",
+    "digest": "a62a2146971b4c57a4581b3d19fb2c0d9e9132bd5cb9db82d998b98b5f20d14f",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "Zimmer": {
+    "state": "reviewed",
+    "digest": "9cf1eac9aba594d88003956f91a91941cb070d887860c336c06592112153b188",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "Küche": {
+    "state": "reviewed",
+    "digest": "6c1290dc73b5e0322e76d974c87894085ab7312b34ac91c4cbcfeb299ff405cb",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "Bad": {
+    "state": "reviewed",
+    "digest": "13c462f45e86eb67682c6408dd2386332ed0b859e35cc41a04a9e99f2db3b3b8",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "Möbel": {
+    "state": "reviewed",
+    "digest": "18138ded4570839b13f3ac74d7abfece57df083826b369d0a83da315c93b4d93",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "Tisch": {
+    "state": "reviewed",
+    "digest": "bdf58eee563a4e0bd2f87a7f2d6071a8b3f8a82cdf2b5b218cd240854d633907",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "Stuhl": {
+    "state": "reviewed",
+    "digest": "419acd3536279fe2dac85aa18753e3740cdf8e539a6fc221821a1c93e351d9e2",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "Bett": {
+    "state": "reviewed",
+    "digest": "8a15a86e2c352d86f9658cfd62d5891ba4f38bce81b6f97e94d7b92a1786cdd0",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "Schrank": {
+    "state": "reviewed",
+    "digest": "1187b89f143da0791a23ca81c16d2e9e8f8841966c6e15b1c7fca8bd855b8382",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "Fenster": {
+    "state": "reviewed",
+    "digest": "c1386fb59906e3cb0f9a06a99c9661a93f787863cfce5190daa9415b65c59448",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "Bahnhof": {
+    "state": "reviewed",
+    "digest": "ceaead199f8939c76c50c6aa5660feb56844a5598802769ecef6fe730073d226",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "Haltestelle": {
+    "state": "reviewed",
+    "digest": "aa880352a8a72d2a3b9f9f2dab38a314483f26d350c04e650d97f528518b91ba",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "Fahrkarte": {
+    "state": "reviewed",
+    "digest": "28cc8a3477d44e64a464085231ce86c143f7391316ab2f8ae0fef51abdd92625",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "Zug": {
+    "state": "reviewed",
+    "digest": "99b3ba3c24f955af7e51e813a9d5913a875e178818d073e59dce9c4e0be16844",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "Bus": {
+    "state": "reviewed",
+    "digest": "0a47a3433e8ac91cd7090c815bc585b8bf0659f9d58920a217467252e6d19f07",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "Arzt": {
+    "state": "reviewed",
+    "digest": "bd44036117bfd5f4b6dfb3a31b3e8f6197ab72687f37937f0fa397800d15ea71",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "Ärztin": {
+    "state": "reviewed",
+    "digest": "ad6c9079193af4a3a7ad87baaf7f713d86f2a052b8cc22a30956df3a214f2ba8",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "Krankenhaus": {
+    "state": "reviewed",
+    "digest": "4a353a98b4c2cca98c696119b1a297e750eb6d838e84ad62bd912e52db614f79",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "Apotheke": {
+    "state": "reviewed",
+    "digest": "051b3e21e4f5594e66c617a84adf24f3bf86ccdb15a151dd24de16f42c1cb052",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "Medikament": {
+    "state": "reviewed",
+    "digest": "5595016bac31053f3c5f7763ccf19563235c358a93488b8502c34691a488ea61",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "Termin": {
+    "state": "reviewed",
+    "digest": "12da24b0dbf9e78be90929289c7ea1b2b1834e2950e0b22f1b3aeb4c91079a40",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "Schmerz": {
+    "state": "reviewed",
+    "digest": "5142e63cd0029bf6c1a3ba4ce2b9b6fb386790e09a84cf25a70ce127f11762c0",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "Tag": {
+    "state": "reviewed",
+    "digest": "1ce60e0ed1a2476ed5be115778bd8f2c6ff26531bd29cb4809a47809b77260ab",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "Woche": {
+    "state": "reviewed",
+    "digest": "a1f246162b217c7cf03ecc5b1e360c2de2a432455d215cc438fe4e8c64346c42",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "Monat": {
+    "state": "reviewed",
+    "digest": "331c4baa3000b227093af3320f8a08c9ec1e7d53e73ca6055bfb595020e944dc",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "Uhr": {
+    "state": "reviewed",
+    "digest": "9e64ff764044cb874ca4ab9caa911256d1c198b8430901d47c0b1e9c0c21ecd0",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "Stunde": {
+    "state": "reviewed",
+    "digest": "ae8fe16821a36e063e79545c82b02b288af19dfcc1eb5944e598dc883bf21860",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "Frage": {
+    "state": "reviewed",
+    "digest": "01eb45a1771b57fa05f18a63637ca032bb204576140a61cc863d9df63f70b38e",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "Antwort": {
+    "state": "reviewed",
+    "digest": "94306d300238f60b34804b70f6bfc86e656823f1666fe862c314ff8ce1017b17",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "Kunde": {
+    "state": "reviewed",
+    "digest": "16005d26694ee1ca33a97177ebbf83fabe92befe164bec3f2d288e03d0941e44",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "Kollege": {
+    "state": "reviewed",
+    "digest": "ed67fc586b584950980259cd95b8ca8c7ae34a708cba73c594fb571619b97631",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "Besprechung": {
+    "state": "reviewed",
+    "digest": "717737c648d09ddab3b1a17a4c9ffb07c52b397fc7fc700c0baa406b5e6a6b9f",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "Aufgabe": {
+    "state": "reviewed",
+    "digest": "454644a1151fcbd8c1c9d0a7c09f8a9ce3e1e09b65611d698dc9582598a65fa4",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "Geschäft": {
+    "state": "reviewed",
+    "digest": "17a0e60ca7ff99b4ee802de51dfb7bf51a061640ea2adb4137560c5cff3452a6",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "Markt": {
+    "state": "reviewed",
+    "digest": "2877410358053b8bbf1b693966f5471ac72d1d4f5ae2c63c24e3333f8a751918",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "Kasse": {
+    "state": "reviewed",
+    "digest": "2cec7eb3e29f08f361ab8aed4be3069140632d7d0e20eb022cda53dd548c4fd7",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "Quittung": {
+    "state": "reviewed",
+    "digest": "4e3a1f27132d410ce9a372e186bbd1c1ab7266b19562a10ae970895e53963bf5",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "Geld": {
+    "state": "reviewed",
+    "digest": "b49bb570676987d2048b3995cc8d681c3c7daddc18948b20389d2eeac8ed95c4",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "Angst": {
+    "state": "reviewed",
+    "digest": "e7038b18f2d8b6a00f25d9b34c92e36718150111ea683b72a0bb9ebaad4e57d3",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "krank": {
+    "state": "reviewed",
+    "digest": "dc43a45408df765edd0a346bdf360557452f44c9451b6530d3dd20eab06a2597",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "gesund": {
+    "state": "reviewed",
+    "digest": "1f162a793abda975374f3dd448ff039be11fdaf9c123a5acd3d45d8467a9a30a",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "müde": {
+    "state": "reviewed",
+    "digest": "8bf5973d3d1c7c4983eb701b9960b1509da9242bc5c4e8104d5b2e5fd33d6a97",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "heute": {
+    "state": "reviewed",
+    "digest": "315b227a26a6863468b17c5a043e33d815a4af4ae6067beddabf321f71c14a50",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "gestern": {
+    "state": "reviewed",
+    "digest": "f1c9045914e3ae7e3a78e835f1d89fe2251b3018e75f77f86bdda8e6221244d2",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "früh": {
+    "state": "reviewed",
+    "digest": "47b51475905f22cf41d6a1c9e50aa2e9739fa77eb2879edc83511ffa813a0389",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "spät": {
+    "state": "reviewed",
+    "digest": "02297d24c73eac69d35c97f57ca8a065503a7c3aa6e9d41a2129e042716ccc73",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "pünktlich": {
+    "state": "reviewed",
+    "digest": "f0a1a643a33a1bfbbefc12c31dd4fa4439e2a8b594a03a655ceae18273e70771",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "wichtig": {
+    "state": "reviewed",
+    "digest": "fc49ef81fc8909317075e9a6f856f337099f562382a5119d6f629fcb2e289921",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "teuer": {
+    "state": "reviewed",
+    "digest": "05dc7a443f6ae13c52a9a7dfd544f23a45438652ccead212cd604ff3d093f3fe",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "billig": {
+    "state": "reviewed",
+    "digest": "12cec99c16bd48eeeea59e158debd9db6ce6ed97d33bcb3ff83afd0e308dda4d",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "offen": {
+    "state": "reviewed",
+    "digest": "1e5aee71a176264956215bd1129a4b5e71b616035e353048e13c0fef8cd09726",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "kaputt": {
+    "state": "reviewed",
+    "digest": "1d096def42bcff21b8469538260453f392e29e5588170caacce5a92c8ebafe03",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "sauber": {
+    "state": "reviewed",
+    "digest": "766b223363a618650fa1dc0605d66280057e90ba420863b6232d30c0361a163d",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "glücklich": {
+    "state": "reviewed",
+    "digest": "f2ef4af06a03f0316955970ea8a67331706f5b41d05ab50a32b1e09768171c3c",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "traurig": {
+    "state": "reviewed",
+    "digest": "f82e1dc96042088e17dfcf2ca7ab366cebf17a8c3079d7f5bfc90f705f61fb66",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "zufrieden": {
+    "state": "reviewed",
+    "digest": "e6f20fb0c154f288aecf239f5bc9e66b8507719a9a44a0e47cfe7d392d970740",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "wohnen": {
+    "state": "reviewed",
+    "digest": "f1e5880f2fc824b1ad36aaeb55c010c9e2933487f9e1b9bc58daf5d0345beda2",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "leben": {
+    "state": "reviewed",
+    "digest": "dc081d933750573922b6a1c12103a119fa8db3a0b598e1044b06f06a2e078705",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "heißen": {
+    "state": "reviewed",
+    "digest": "6320aca46a082a5941569f954600e5cc38d464fe9aff15b193063152cdfe37a9",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "kommen": {
+    "state": "reviewed",
+    "digest": "f6ce5043e4e9708580394d76a8d1322bf40d99c2d2ce17be610de4e9d39770e1",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "sprechen": {
+    "state": "reviewed",
+    "digest": "6ed65b6533403c67472a4e06b6fe95a08051cd4c6784ee4bf3528edef8f7477a",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "kaufen": {
+    "state": "reviewed",
+    "digest": "3ef9a59197a9e26a98d5a0d53d74b276a318a9d199020c06bb82b8cdab92ff9f",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "bezahlen": {
+    "state": "reviewed",
+    "digest": "686bb24a26b124a0820e082a1b3693c6d1cb36922b11c5496de315735e167e4b",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "essen": {
+    "state": "reviewed",
+    "digest": "6feaee00c909cf7b6a44e4b20e56f5389d05b0102c5577bf0b38cada09ac35e7",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "trinken": {
+    "state": "reviewed",
+    "digest": "d37b27f0579162679a1a56468369554b213d03868f997d98918e910d1efd7bb8",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "fahren": {
+    "state": "reviewed",
+    "digest": "6d6178c83a8765bb36ad564442881da23adf05c4616faffa830480a3b15f6b62",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "gehen": {
+    "state": "reviewed",
+    "digest": "6dc4017850d79d9377b8dc60c263649c1c2af3cb38dd8a61b95a14ff5176c0f5",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "warten": {
+    "state": "reviewed",
+    "digest": "9249b6b0c5535d56942dea09bf791cd7ea4df1943e0c0de49e64ba3228f7ddd1",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "ankommen": {
+    "state": "reviewed",
+    "digest": "b51d6b4b6e8f0fa01cc96e60ff02d46230cf9632fe88eb8a7bcba3a85f96c8bf",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "umsteigen": {
+    "state": "reviewed",
+    "digest": "6891c29cb00fc95939c782770f0aa5159ab17999ccb1e39567b6062442dc012a",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "fragen": {
+    "state": "reviewed",
+    "digest": "6d2bd7abd32d82ab3ae2a5359e3a999c7bfcf4443d1bb4d243c00061c7107c8f",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "antworten": {
+    "state": "reviewed",
+    "digest": "adaf55bc86704de915a4e58f6b9f6a35f1929e5770609d16e44f0c31f78c51a6",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "verstehen": {
+    "state": "reviewed",
+    "digest": "19332a02faf438d5e8eee399a974caff9c99b6ac9f8c4476b11c03fdd883bec0",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "aufstehen": {
+    "state": "reviewed",
+    "digest": "aa795245682aa2783634def85106b34f04a80e87992d71d176963c6c3537a783",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "schlafen": {
+    "state": "reviewed",
+    "digest": "a5b54d39c4f02655eee9053e51763659928b1c25c4989ea8c0635a2b61057b4a",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "duschen": {
+    "state": "reviewed",
+    "digest": "7d88efd28c6758e137c943c8d5b710e5b7f30cc31ee14e2b7a3bb373db972f56",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "frühstücken": {
+    "state": "reviewed",
+    "digest": "34fd2762d9018e415359bfe8cc5a47de8071ce7fec877d8fb4e1d14d9141d03c",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "einkaufen": {
+    "state": "reviewed",
+    "digest": "17f9dc5634c3adf36669368c96a620dd0e4b4e8f7381b860446f72a6eacf7fa9",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  },
+  "hoffen": {
+    "state": "reviewed",
+    "digest": "55a90aa979bfe24957e095dd60db31940b7180d47ecd9156e2a883575cadaebf",
+    "basis": "2026-11-12: author content review plus independent 100-record obvious-error review; not exhaustive dictionary audit"
+  }
+}
